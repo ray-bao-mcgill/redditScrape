@@ -101,19 +101,5 @@ def save_posts_to_csv(posts, file_name):
         for title in posts:
             writer.writerow([title, ''])
 
-if __name__ == '__main__':
-    # Define subreddit name
-    subreddit_name = 'uoft'
 
-    # Define the start and end dates (with timezone awareness, UTC in this case)
-    start_date = datetime(2024, 9, 15, tzinfo=timezone.utc)  # Earliest date (inclusive, UTC)
-    end_date = datetime(2024, 10, 1, tzinfo=timezone.utc)   # Latest date (inclusive, UTC)
-
-    # Scrape posts from the base URL
-    posts = fetch_reddit_posts(subreddit_name, start_date, end_date)
-
-    save_posts_to_csv(posts, 'reddit_posts.csv')
-
-    # Print the post titles
-    for title in posts:
-        print(title)
+    
