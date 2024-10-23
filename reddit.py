@@ -17,7 +17,7 @@ def fetch_reddit_posts(subreddit, start_date, end_date):
     base_url = f"https://old.reddit.com/r/{subreddit}/new"
     headers = {'User-Agent': 'Mozilla/5.0'}
     
-    post_titles = []
+    post_data = []  # Changed from post_titles to post_data to store both title and date
     next_button_url = None  # URL to store the "next" button link for pagination
 
     while True:
@@ -69,9 +69,14 @@ def fetch_reddit_posts(subreddit, start_date, end_date):
             if time_tag:
                 post_time = datetime.strptime(time_tag['datetime'], '%Y-%m-%dT%H:%M:%S%z')
 
+                # Check if the post is older than the start_date
+                if post_time < start_date:
+                    print(f"Stopping, found post older than start date: {post_time}")
+                    return post_data  # Stop scraping and return collected data
+
                 # Only collect posts within the date range
-                if start_date <= post_time <= end_date:
-                    post_titles.append(title)
+                if post_time <= end_date:
+                    post_data.append((title, post_time))  # Store both title and date
 
         # Check if there is a "next" button to navigate to the next page
         next_button = soup.find('span', class_='next-button')
@@ -84,22 +89,22 @@ def fetch_reddit_posts(subreddit, start_date, end_date):
         # Pause to avoid hitting rate limits
         time.sleep(2)
 
-    return post_titles
+    return post_data
 
 def save_posts_to_csv(posts, file_name):
     """
-    Saves a list of post titles to a CSV file with an additional 'sentiment' column.
+    Saves a list of post titles and dates to a CSV file with additional 'sentiment' and 'date' columns.
 
-    :param posts: list of str, each containing a post title
+    :param posts: list of tuples, each containing (post title, post date)
     :param file_name: str, name of the CSV file
     """
     with open(file_name, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        writer.writerow(['title', 'sentiment'])  # Write the header
+        writer.writerow(['title', 'date', 'sentiment'])  # Write the header
 
-        # Write each post title with an empty sentiment field
-        for title in posts:
-            writer.writerow([title, ''])
+        # Write each post title with its date and an empty sentiment field
+        for title, date in posts:
+            writer.writerow([title, date.strftime('%Y-%m-%d %H:%M:%S'), ''])
 
 
     
