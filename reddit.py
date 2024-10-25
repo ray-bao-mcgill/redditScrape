@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 import time
 import csv
+import random
 
 def fetch_reddit_posts(subreddit, start_date, end_date):
     """
@@ -21,9 +22,18 @@ def fetch_reddit_posts(subreddit, start_date, end_date):
     next_button_url = None  # URL to store the "next" button link for pagination
 
     while True:
+        # Add a delay before each page request
+        time.sleep(3)  # Random delay between 3 to 5 seconds
+
         # If there is a next button URL, use it, otherwise, start with the base URL
         url = next_button_url if next_button_url else base_url
         response = requests.get(url, headers=headers)
+
+        # Check if we've been rate limited
+        if response.status_code == 429:
+            print("Rate limited. Waiting for 60 seconds before retrying...")
+            time.sleep(60)
+            continue
 
         if response.status_code != 200:
             print(f"Failed to retrieve posts. Status code: {response.status_code}")
@@ -78,16 +88,20 @@ def fetch_reddit_posts(subreddit, start_date, end_date):
                 if post_time <= end_date:
                     post_data.append((title, post_time))  # Store both title and date
 
+                # Add a small delay after processing each post
+                time.sleep(random.uniform(0.5, 1))  # Random delay between 0.5 to 1 second
+
         # Check if there is a "next" button to navigate to the next page
         next_button = soup.find('span', class_='next-button')
         if next_button:
-            next_button_url = next_button.find('a')['href']
+            next_link = next_button.find('a')
+            next_button_url = next_link['href'] if next_link else None
         else:
             # No more pages to navigate through
             break
 
-        # Pause to avoid hitting rate limits
-        time.sleep(2)
+        # Add a longer delay before moving to the next page
+        time.sleep(random.uniform(5, 8))  # Random delay between 5 to 8 seconds
 
     return post_data
 
