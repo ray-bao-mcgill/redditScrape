@@ -1,5 +1,12 @@
 import reddit
+import os
 from datetime import datetime, timezone
+
+# Define the base output directory
+output_dir = 'redditScrape'
+
+# Ensure the output directory exists
+os.makedirs(output_dir, exist_ok=True)
 
 def scrape_subreddit(subreddit_name, start_date, end_date, output_file):
     # Scrape posts from the subreddit
@@ -16,13 +23,13 @@ subreddits = [
         'name': 'uoft',
         'start_date': datetime(2024, 10, 1, tzinfo=timezone.utc),
         'end_date': datetime(2024, 10, 15, tzinfo=timezone.utc),
-        'output_file': 'uoft_reddit_posts.csv'
+        'output_file': os.path.join(output_dir, 'uoft_reddit_posts.csv')
     },
     {
         'name': 'McGill',
         'start_date': datetime(2024, 9, 15, tzinfo=timezone.utc),
         'end_date': datetime(2024, 10, 1, tzinfo=timezone.utc),
-        'output_file': 'mcgill_reddit_posts.csv'
+        'output_file': os.path.join(output_dir, 'mcgill_reddit_posts.csv')
     }
 ]
 
