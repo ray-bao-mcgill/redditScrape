@@ -1,6 +1,7 @@
 import pandas as pd
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import emoji
+import re
 
 def analyze_reddit_posts(input_file):
     # Initialize VADER sentiment analyzer
@@ -10,16 +11,47 @@ def analyze_reddit_posts(input_file):
     df = pd.read_csv(input_file)
     
     def preprocess_text(text):
-        # Convert emojis to text description which VADER can better understand
-        text = emoji.demojize(str(text))
-        # Replace Reddit's /s with text that VADER understands as sarcasm
-        text = text.replace(" /s", " [SARCASM]")
-        return text
+        # Handle None or empty text
+        if not text or pd.isna(text):
+            return ""
+        
+        # Convert emojis to their text description
+        text = emoji.demojize(text)
+        
+        # Academic stress indicators
+        text = re.sub(r"(?i)help+[p]*", "need assistance", text)  # Strengthen help requests
+        text = re.sub(r"(?i)anyone (know|have|taking)", "seeking information about", text)
+        text = re.sub(r"(?i)burnt? out", "completely exhausted and overwhelmed", text)
+        text = re.sub(r"(?i)struggling with", "having severe difficulty with", text)
+        
+        # Question neutralizing
+        text = re.sub(r"(?i)what (is|are) the best", "what are some", text)  # Reduce false positives
+        text = re.sub(r"(?i)how (to|do I|can I) get", "what is the process for", text)
+        
+        # UofT specific terms
+        text = re.sub(r"(?i)bird course", "easy course", text)
+        text = re.sub(r"(?i)cooked", "doomed", text)
+        
+        # Common abbreviations
+        text = text.replace("pls", "please")
+        text = text.replace("rn", "right now")
+        text = text.replace("gc", "group chat")
+
+        # Stress indicators
+        text = re.sub(r"(?i)can'?t (handle|manage|do)", "completely unable to handle", text)
+        
+        return text.strip()
     
     def get_sentiment_score(text):
-        # Preprocess the text first
+        # Missing error handling for None or empty text
+        if not text or pd.isna(text):
+            return 0
         processed_text = preprocess_text(text)
-        # Get just the compound score
+        
+        # Handle case where preprocessing returns empty string
+        if not processed_text:
+            return 0
+            
         return analyzer.polarity_scores(processed_text)['compound']
 
     # Apply sentiment analysis to titles
@@ -30,7 +62,6 @@ def analyze_reddit_posts(input_file):
     
     # Save to new CSV file
     df.to_csv(output_file, index=False)
-    print(f"Sentiment analysis complete! Results saved to '{output_file}'")
     
     return df
 
