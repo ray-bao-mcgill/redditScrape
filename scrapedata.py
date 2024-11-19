@@ -3,7 +3,7 @@ import os
 from datetime import datetime, timezone
 
 # Define the base output directory
-output_dir = 'redditScrape'
+output_dir = 'redditScrape/data'
 
 # Ensure the output directory exists
 os.makedirs(output_dir, exist_ok=True)
