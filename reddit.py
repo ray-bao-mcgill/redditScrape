@@ -16,6 +16,8 @@ def fetch_reddit_posts(subreddit, start_date, end_date):
     :param end_date: datetime, the latest date for scraping posts (offset-aware)
     :return: List of post titles within the date range
     """
+    print(f"Starting to scrape r/{subreddit} from {start_date} to {end_date}")
+    
     base_url = f"https://old.reddit.com/r/{subreddit}/new"
     headers = {'User-Agent': 'Mozilla/5.0'}
     
@@ -24,7 +26,7 @@ def fetch_reddit_posts(subreddit, start_date, end_date):
 
     while True:
         # Add a delay before each page request
-        time.sleep(random.uniform(3, 5))  # Random delay between 3 to 5 seconds
+        time.sleep(random.uniform(0, 1))  # Random delay between 3 to 5 seconds
 
         # If there is a next button URL, use it, otherwise, start with the base URL
         url = next_button_url if next_button_url else base_url
@@ -83,6 +85,7 @@ def fetch_reddit_posts(subreddit, start_date, end_date):
                 continue
             
             title = title_tag.text
+            print(f"Scraping post: {title[:50]}...")  # Added print statement showing first 50 chars of title
 
             # Extract the post's timestamp
             time_tag = post.find('time')
@@ -99,7 +102,7 @@ def fetch_reddit_posts(subreddit, start_date, end_date):
                     post_data.append((title, post_time))  # Store both title and date
 
                 # Add a small delay after processing each post
-                time.sleep(random.uniform(0.5, 1))  # Random delay between 0.5 to 1 second
+                time.sleep(random.uniform(0, 0.2))  # Random delay between 0.5 to 1 second
 
         # Check if there is a "next" button to navigate to the next page
         next_button = soup.find('span', class_='next-button')
@@ -116,7 +119,8 @@ def fetch_reddit_posts(subreddit, start_date, end_date):
             break
 
         # Add a longer delay before moving to the next page
-        time.sleep(random.uniform(5, 8))  # Random delay between 5 to 8 seconds
+        print(f"Scraping next page... ({url})")  # Added print statement
+        time.sleep(random.uniform(0,1))  # Random delay between 5 to 8 seconds
 
     return post_data
 

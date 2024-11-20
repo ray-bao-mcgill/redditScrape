@@ -9,7 +9,20 @@ def analyze_reddit_posts(input_file):
 
     # Read the CSV file
     df = pd.read_csv(input_file)
-    
+
+    target_words = [
+        # Academic assessment terms
+        'exam', 'exams',
+        'midterm', 'midterms',
+        'final', 'finals',
+        'test', 'tests',
+        'deadline', 'deadlines',
+        'assignment', 'assignments',
+        'project', 'projects',
+        'essay', 'essays',
+        'report', 'reports',
+        'presentation', 'presentations'
+    ]    
     def preprocess_text(text):
         # Handle None or empty text
         if not text or pd.isna(text):
@@ -55,10 +68,18 @@ def analyze_reddit_posts(input_file):
         return analyzer.polarity_scores(processed_text)['compound']
 
     # Apply sentiment analysis to titles
-    df['sentiment'] = df['title'].apply(get_sentiment_score)
+    df['sentiment'] = df['Title'].apply(get_sentiment_score)
+    
+    # Add target word count
+    def count_target_words(text):
+        if not text or pd.isna(text):
+            return 0
+        return sum(1 for word in target_words if word.lower() in text.lower())
+    
+    df['target_word_count'] = df['Title'].apply(count_target_words)
     
     # Generate output filename based on input filename
-    output_file = input_file.replace('.csv', '_with_sentiment.csv')
+    output_file = input_file.replace('.csv', '_analyzed.csv')
     
     # Save to new CSV file
     df.to_csv(output_file, index=False)
@@ -67,7 +88,10 @@ def analyze_reddit_posts(input_file):
 
 # Example usage
 if __name__ == "__main__":
-    # You can easily analyze multiple files by calling the function multiple times
-    df_uoft = analyze_reddit_posts('uoft_reddit_posts.csv')
+    # Define target words
+    target_words = ['stress', 'anxiety', 'help', 'worried', 'failing']  # example words
+    
+    # Analyze files
+    df_uoft = analyze_reddit_posts('uoft_reddit_posts.csv', target_words)
     # For future use with other universities:
-    # df_other = analyze_reddit_posts('other_university_posts.csv')
+    # df_other = analyze_reddit_posts('other_university_posts.csv', target_words)
