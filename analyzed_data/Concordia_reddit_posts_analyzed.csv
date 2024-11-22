@@ -2,7 +2,7 @@ Title,Date,sentiment,target_word_count
 Econ 201 midterm 2,2024-11-20T20:07:51+00:00,0.0,1
 What do I do yall?,2024-11-20T19:52:01+00:00,0.0,0
 How many people actually vote in these strike approvals?,2024-11-20T19:34:23+00:00,-0.128,0
-"Crash Courses/Mock Exams/ Study Materials MATH 209 (in person), COMM 217, COMM 219, COMM 213, COMM 227, COMM 226",2024-11-20T18:48:33+00:00,-0.4019,2
+"Crash Courses/Mock Exams/ Study Materials MATH 209 (in person), COMM 217, COMM 219, COMM 213, COMM 227, COMM 226",2024-11-20T18:48:33+00:00,-0.4019,1
 is there a curve for final grades in econ203? (on top of the existing curves),2024-11-20T18:47:25+00:00,0.2023,1
 Cole Non-Proctored Exam,2024-11-20T17:09:52+00:00,0.0,1
 "New student Orientation/ MEGATHREAD Winter 2025 (undergrad and grad) – New to Concordia, university life, Montreal, or all three? Got questions about getting connected to CU Community? Learn about Orientation and Frosh events here!",2024-11-20T14:28:40+00:00,0.0,0
@@ -48,8 +48,8 @@ comp 249 midterm passed or failed?!,2024-11-19T01:48:28+00:00,-0.5562,1
 Mohamed Ouf for Thermodynamics I (ENGR 251),2024-11-19T01:38:30+00:00,0.0,0
 Math 200 final,2024-11-19T01:20:34+00:00,0.0,1
 Denying loan,2024-11-19T01:11:05+00:00,-0.34,0
-When are the MATH 203/204 finals gonna be? (tentatively),2024-11-19T00:08:28+00:00,0.0,2
-Comm 216 Final Exam,2024-11-19T00:03:31+00:00,0.0,2
+When are the MATH 203/204 finals gonna be? (tentatively),2024-11-19T00:08:28+00:00,0.0,1
+Comm 216 Final Exam,2024-11-19T00:03:31+00:00,0.0,1
 Off Campus Housing,2024-11-18T23:26:58+00:00,0.0,0
 Comm 216 final,2024-11-18T23:16:01+00:00,0.0,1
 Lost my AP credits??,2024-11-18T22:56:40+00:00,0.1431,0
@@ -57,7 +57,7 @@ Restaurant with discounts,2024-11-18T22:45:23+00:00,0.0,0
 Mech 343,2024-11-18T22:29:07+00:00,0.0,0
 Biol 202 online with madoka... is it that bad?,2024-11-18T22:11:03+00:00,-0.5423,0
 Why is the CSU holding anti-NATO teach-in during their strike? It has nothing to do with Palestine and it's a pretty weird position to have considering Russia is currently invading its neighbor.,2024-11-18T22:10:31+00:00,0.25,0
-Free Trial Connect Assignments COMM 205,2024-11-18T21:50:40+00:00,0.5106,2
+Free Trial Connect Assignments COMM 205,2024-11-18T21:50:40+00:00,0.5106,1
 "Did anyone have Bahman Zamani for btm 380? If so, how was your experience?",2024-11-18T21:23:18+00:00,0.0,0
 comp248labx1,2024-11-18T21:11:39+00:00,0.0,0
 When is the deadline to register for winter 2025 classes?,2024-11-18T20:57:19+00:00,0.0,1
@@ -86,7 +86,7 @@ COMM 221 Wizeprep Crash Course (Fall 2024 Edition),2024-11-18T01:39:57+00:00,-0.
 Guys help your friend out!!! Comm217 simulation,2024-11-18T01:36:54+00:00,0.6219,0
 How did you do on the ECON 203 Midterm 2?,2024-11-18T00:53:50+00:00,0.0,1
 Has anyone done the CFA level 1 while at Concordia?,2024-11-17T23:55:39+00:00,0.0,0
-Econ 201 Final exam,2024-11-17T23:05:25+00:00,0.0,2
+Econ 201 Final exam,2024-11-17T23:05:25+00:00,0.0,1
 ENGR 371 - Survey,2024-11-17T22:58:19+00:00,0.0,0
 Film Studies to Comp Sci,2024-11-17T22:13:06+00:00,0.0,0
 Any fraternities?,2024-11-17T21:23:37+00:00,0.0,0
@@ -98,7 +98,7 @@ Accounting chats?,2024-11-17T19:02:50+00:00,0.0,0
 Comm 217 and 221,2024-11-17T18:50:42+00:00,0.0,0
 Studying Mechanical Eng Bachelor to do Robotics and AI.,2024-11-17T18:09:59+00:00,0.0,0
 Comp 232 & Comp 248 | Fall 2024 | Final,2024-11-17T18:05:04+00:00,0.0,1
-Final exam Econ 201,2024-11-17T17:41:25+00:00,0.0,2
+Final exam Econ 201,2024-11-17T17:41:25+00:00,0.0,1
 MERCH SALE ALERT: electrical engineering hoodies for sale,2024-11-17T17:37:42+00:00,0.4466,0
 econ222 midterm2,2024-11-17T17:13:59+00:00,0.0,1
 Econ 201,2024-11-17T14:28:24+00:00,0.0,0
@@ -115,7 +115,7 @@ I need more info on the Mature Entry Program,2024-11-17T03:48:14+00:00,0.4215,0
 Econ 222 midterm 2,2024-11-17T03:37:20+00:00,0.0,1
 Places/sites to socialize w Comp Sci students?,2024-11-17T00:11:26+00:00,0.0,0
 Looking for fellow Concordians to fill out a quick survey for our stats class!,2024-11-16T23:47:18+00:00,0.0,0
-If I already skipped my 201 and 203 midterms and transferred the weight. Can I skip the second mid term and transfer the weight to the final?,2024-11-16T23:16:34+00:00,0.0,3
+If I already skipped my 201 and 203 midterms and transferred the weight. Can I skip the second mid term and transfer the weight to the final?,2024-11-16T23:16:34+00:00,0.0,1
 "Prof wont allow me to submit an online assesment late, even though the course outline allows it with a penalty (COMM course)",2024-11-16T23:07:04+00:00,-0.567,0
 Skipping midterm question,2024-11-16T21:04:55+00:00,0.0,1
 Econ 203 Midterm Tomorrow. HELP !,2024-11-16T18:13:47+00:00,0.0,1
@@ -172,7 +172,7 @@ tips for new students ? Also looking for girl roommate,2024-11-14T21:10:57+00:00
 Looking for ENGR233 project teammates,2024-11-14T23:05:14+00:00,0.0,1
 INDU 311 help,2024-11-14T21:47:23+00:00,0.0,0
 Courses in progress (Fall 2024) don’t count for admissions in Winter 2025?,2024-11-14T21:30:12+00:00,0.4215,0
-comm214 mock/past finals?,2024-11-14T21:05:06+00:00,0.0,2
+comm214 mock/past finals?,2024-11-14T21:05:06+00:00,0.0,1
 Looking for teammates for the ENGR233 project.,2024-11-14T20:23:04+00:00,0.0,1
 Grad Student Seeking Fellow Techies for Networking,2024-11-14T19:40:55+00:00,0.0,0
 How can I become an elementary school teacher?,2024-11-14T19:21:30+00:00,0.0,0
@@ -202,7 +202,7 @@ Religious studies students,2024-11-14T01:41:12+00:00,0.0,0
 Am I retarded?,2024-11-14T01:06:00+00:00,-0.5719,0
 Econ 201,2024-11-14T00:44:39+00:00,0.0,0
 Fina 200 study group,2024-11-13T23:49:54+00:00,0.0,0
-How can I sign up for mock exams with SSC,2024-11-13T23:41:09+00:00,-0.4215,2
+How can I sign up for mock exams with SSC,2024-11-13T23:41:09+00:00,-0.4215,1
 Am I cooked?,2024-11-13T22:42:28+00:00,-0.6369,0
 Question Regarding the Annual GPA System,2024-11-13T21:54:50+00:00,0.0,0
 PSA This is not how you make friends,2024-11-13T21:54:22+00:00,0.4767,0
@@ -224,7 +224,7 @@ COMM 305 and 221 Final,2024-11-13T02:38:36+00:00,0.0,1
 COMM 216 final.. how hard is it ?,2024-11-13T02:37:34+00:00,-0.1027,1
 Failed Comp 248 midterm,2024-11-13T02:07:51+00:00,-0.5106,1
 ECON 201 Midterm 2 sample,2024-11-13T02:04:29+00:00,0.0,1
-Econ 203 Mock Exams,2024-11-13T01:28:33+00:00,-0.4215,2
+Econ 203 Mock Exams,2024-11-13T01:28:33+00:00,-0.4215,1
 Labs of econ 222,2024-11-12T23:09:50+00:00,0.0,0
 Deadline to discontinue a class,2024-11-12T22:44:03+00:00,0.0,1
 MATH 203 Webwork Final Practice,2024-11-12T22:11:53+00:00,0.0,1
@@ -247,8 +247,8 @@ chem 222 (Orgo 2) curving,2024-11-12T00:52:21+00:00,0.0,0
 FG Building Evacuation 🚨,2024-11-12T00:38:31+00:00,0.0,0
 ECON 463 and 465,2024-11-12T00:37:46+00:00,0.0,0
 I need a math 209 tutor tommorow urgently.,2024-11-12T00:25:09+00:00,0.0,0
-alternate exam for final (fina 410),2024-11-12T00:04:17+00:00,0.0,2
-First of all does Concordia give me insurance for blood exams? And if so how can I schedule one,2024-11-11T23:53:18+00:00,0.0,2
+alternate exam for final (fina 410),2024-11-12T00:04:17+00:00,0.0,1
+First of all does Concordia give me insurance for blood exams? And if so how can I schedule one,2024-11-11T23:53:18+00:00,0.0,1
 Geog,2024-11-11T23:12:04+00:00,0.0,0
 Phil-266 Quiz 2?,2024-11-11T21:25:08+00:00,0.0,0
 econ 201 and 203,2024-11-11T21:01:59+00:00,0.0,0
@@ -274,7 +274,7 @@ Econ 201 2nd Mock Midterm,2024-11-10T23:39:06+00:00,-0.4215,1
 Do McGill students weld McGill merch to their bodies?,2024-11-10T23:23:23+00:00,0.0,0
 MIAE 311 & MECH 344 Final Tips,2024-11-10T23:17:01+00:00,0.0,1
 What is happening at vanier library?,2024-11-10T22:37:36+00:00,0.0,0
-Is the final exam schedule out?,2024-11-10T22:08:42+00:00,0.0,2
+Is the final exam schedule out?,2024-11-10T22:08:42+00:00,0.0,1
 Laptops in Computer science classes,2024-11-10T21:49:49+00:00,0.0,0
 Help choosing elective (part 873621 : The Return),2024-11-10T21:34:01+00:00,0.0,0
 Econ 201 2nd midterm,2024-11-10T21:04:20+00:00,0.0,1
@@ -295,7 +295,7 @@ Applying to MA in economics with 2.55 CGPA?,2024-11-09T19:34:19+00:00,0.0,0
 comm216 summer,2024-11-09T18:55:06+00:00,0.0,0
 JMIS Analyst Program Decisions,2024-11-09T18:16:33+00:00,0.0,0
 "As a Muslim, would it bother anyone or go against university policies if I prayed my daily prayers in an empty room?",2024-11-09T17:14:00+00:00,-0.4939,0
-COMP 352 midterms are today or tomorrow?,2024-11-09T16:34:39+00:00,0.0,2
+COMP 352 midterms are today or tomorrow?,2024-11-09T16:34:39+00:00,0.0,1
 Looking for roommates,2024-11-09T15:59:59+00:00,0.0,0
 Antisemitism in the campus,2024-11-09T12:18:05+00:00,0.0,0
 Renewing Opus card before winter semester,2024-11-09T10:57:34+00:00,0.0,0
@@ -351,7 +351,7 @@ Mental health services,2024-11-06T20:51:50+00:00,0.0,0
 ACCO 435 written group case report,2024-11-06T20:15:49+00:00,0.0,1
 STOP BOOKING ROOMS IF YOURE ONE FUCKING PERSON,2024-11-06T20:08:55+00:00,-0.296,0
 We got this guys 👍🏼,2024-11-06T20:04:05+00:00,0.0,0
-Phys 204 georges abinader finals inquiry,2024-11-06T19:50:26+00:00,0.0,2
+Phys 204 georges abinader finals inquiry,2024-11-06T19:50:26+00:00,0.0,1
 Biol202,2024-11-06T19:30:49+00:00,0.0,0
 Puppy yoga + Mental health panel: First event of JMo'SB,2024-11-05T21:51:39+00:00,0.0,0
 Looking to Connect with Fellow International Students Starting at Concordia in Winter 2025,2024-11-06T04:50:29+00:00,0.0,0
@@ -373,7 +373,7 @@ Life,2024-11-06T07:22:27+00:00,0.0,0
 can someone tell how Stephen Laing is still a professor,2024-11-06T03:02:01+00:00,0.0,0
 References for Graduate Program - How to go about it?,2024-11-06T02:57:01+00:00,0.0,0
 ENG 210 / 212,2024-11-06T02:36:33+00:00,0.0,0
-Need help with assignments for COMP 335,2024-11-06T02:10:24+00:00,0.0,2
+Need help with assignments for COMP 335,2024-11-06T02:10:24+00:00,0.0,1
 How screwed am I,2024-11-06T01:12:21+00:00,-0.4939,0
 "Comm214,215 tutorials",2024-11-06T01:09:46+00:00,0.0,0
 Why is the webster library so friggin hot,2024-11-06T00:07:36+00:00,0.0,0
@@ -429,7 +429,7 @@ PHYS 284 EC,2024-11-03T19:15:33+00:00,0.0,0
 What happens if I discontinue a course and I’m with the AFE program for loan and bursary?,2024-11-03T16:43:13+00:00,0.0,0
 Co-op placements,2024-11-03T02:19:30+00:00,0.0,0
 Can I Leave Concordia Co-op After One Term?,2024-11-02T23:58:40+00:00,-0.0516,0
-Phys284 Final Exam,2024-11-03T19:20:04+00:00,0.0,2
+Phys284 Final Exam,2024-11-03T19:20:04+00:00,0.0,1
 Requesting a new admission letter,2024-11-03T17:11:40+00:00,0.0,0
 TA application,2024-11-03T16:22:57+00:00,0.0,0
 Book a room for external students,2024-11-03T15:35:59+00:00,0.0,0
@@ -454,7 +454,7 @@ Looking for the mad scientist at Reggie’s on Halloween,2024-11-01T21:05:34+00:
 This is my first Halloween witnessing police brutality… at the library en plus. Thanks Copcordia.,2024-11-01T20:54:06+00:00,0.4404,0
 Anyone previously taken Chem 271 with Joanne Krupa (From Summer 2017?),2024-11-01T20:45:07+00:00,0.0,0
 Looking for other musicians at Concordia,2024-11-01T20:38:54+00:00,0.0,0
-is PHYS 284 Final Exam proctored?,2024-11-01T18:07:14+00:00,0.0,2
+is PHYS 284 Final Exam proctored?,2024-11-01T18:07:14+00:00,0.0,1
 ENGR 213 Project,2024-11-01T17:15:23+00:00,0.0,1
 Humanities+,2024-11-01T17:06:51+00:00,0.0,0
 Metro green line,2024-11-01T16:44:46+00:00,0.0,0
@@ -542,9 +542,9 @@ Graduate admissions,2024-10-28T16:15:09+00:00,0.0,0
 What happens if I fail a class during my exchange?,2024-10-28T15:46:37+00:00,-0.5423,0
 Math 204 midterm,2024-10-28T15:42:21+00:00,0.0,1
 CSU healthcare clinique,2024-10-28T15:40:03+00:00,0.0,0
-"Looking for ECON 201, COMM 211, COMM 205 Finals Crash Course",2024-10-28T15:09:06+00:00,-0.4019,2
+"Looking for ECON 201, COMM 211, COMM 205 Finals Crash Course",2024-10-28T15:09:06+00:00,-0.4019,1
 JMSB questions about admission,2024-10-27T21:14:27+00:00,0.0,0
-Final Exam Schedule,2024-10-28T00:29:28+00:00,0.0,2
+Final Exam Schedule,2024-10-28T00:29:28+00:00,0.0,1
 Coop,2024-10-28T13:07:20+00:00,0.0,0
 Econ 201 and 203,2024-10-28T02:38:24+00:00,0.0,0
 In-Course Scholarships Gina Cody,2024-10-28T01:35:12+00:00,0.0,0
@@ -580,7 +580,7 @@ Math 204 midterm,2024-10-27T16:00:11+00:00,0.0,1
 DISC?,2024-10-27T15:56:23+00:00,0.0,0
 Admission (Confused),2024-10-27T15:00:44+00:00,-0.3182,0
 Econ 201 Midterm,2024-10-27T14:58:00+00:00,0.0,1
-Do EC section of ECON 201 and 203 have a different midterm/final?,2024-10-27T12:23:40+00:00,0.0,2
+Do EC section of ECON 201 and 203 have a different midterm/final?,2024-10-27T12:23:40+00:00,0.0,1
 Is JMSB really hard to get into?,2024-10-27T05:55:39+00:00,-0.1761,0
 ENGR 213 Notes,2024-10-27T03:56:46+00:00,0.0,0
 ENGR 213 PROJECT WITH Emre Erkmen,2024-10-27T03:41:55+00:00,0.0,1
@@ -589,7 +589,7 @@ ELEC 273 session,2024-10-27T01:26:04+00:00,0.0,0
 Calculator for math208,2024-10-27T00:52:57+00:00,0.0,0
 What are the odds of passing Econ 201 and 203 without studying?,2024-10-27T00:35:25+00:00,0.0,0
 Math 203 Midterm,2024-10-26T23:21:49+00:00,0.0,1
-Midterms on weekends???,2024-10-26T22:33:14+00:00,0.0,2
+Midterms on weekends???,2024-10-26T22:33:14+00:00,0.0,1
 LS BUILDING,2024-10-26T22:06:08+00:00,0.0,0
 "If u have a goyard bag, u a bop.",2024-10-26T22:00:43+00:00,0.0,0
 Math 204 recent Midterm,2024-10-26T21:09:02+00:00,0.0,1
@@ -604,7 +604,7 @@ No terms are available at this time,2024-10-26T16:12:11+00:00,-0.296,0
 math 203 midterm,2024-10-26T16:01:38+00:00,0.0,1
 Need Somebody to love,2024-10-26T05:22:15+00:00,0.6369,0
 Toronto raptors,2024-10-26T04:45:35+00:00,0.0,0
-Math205-B midterm exam dates?,2024-10-26T01:48:36+00:00,0.0,2
+Math205-B midterm exam dates?,2024-10-26T01:48:36+00:00,0.0,1
 MATH 203 MIDTERM URGENT,2024-10-26T01:13:18+00:00,0.368,1
 Would tutors rather have 1 student show up to class or none at all?,2024-10-26T00:13:09+00:00,0.0,0
 Acco 320,2024-10-25T23:27:30+00:00,0.0,0
@@ -620,8 +620,8 @@ Acco 320,2024-10-25T18:09:19+00:00,0.0,0
 Why is Gad Saad Allowed to Teach?,2024-10-25T17:58:10+00:00,0.0,0
 Changing degree from Bsc to Ba,2024-10-25T16:56:02+00:00,0.0,0
 Searching for Hands-on IB/PE Resources,2024-10-24T19:42:20+00:00,0.0,0
-Comm 308 midterm exam prep,2024-10-25T18:47:23+00:00,0.0,2
-"MATH 201/203/205 Past Midterms, Past Exams?",2024-10-25T18:43:19+00:00,0.0,4
+Comm 308 midterm exam prep,2024-10-25T18:47:23+00:00,0.0,1
+"MATH 201/203/205 Past Midterms, Past Exams?",2024-10-25T18:43:19+00:00,0.0,1
 econ 201 and 203 midterm 1,2024-10-25T16:47:10+00:00,0.0,1
 Financial calculator,2024-10-25T16:47:07+00:00,0.0,0
 WizePrep Midterm Mock COMM 308,2024-10-25T16:22:33+00:00,-0.4215,1
@@ -634,7 +634,7 @@ Phil 298,2024-10-25T02:37:08+00:00,0.0,0
 Biol 200,2024-10-25T01:12:01+00:00,0.0,0
 HELP! Easiest biochem core classes? How many core classes do you need to have per semester if planning to switch unis,2024-10-25T00:47:43+00:00,0.4753,0
 Geog 210,2024-10-25T00:38:04+00:00,0.0,0
-Why are people SO RUDE during group projects?,2024-10-25T00:30:28+00:00,-0.7717,2
+Why are people SO RUDE during group projects?,2024-10-25T00:30:28+00:00,-0.7717,1
 Acco 220,2024-10-25T00:21:07+00:00,0.0,0
 phys 204 final,2024-10-24T23:54:49+00:00,0.0,1
 COMM 219 Midterm,2024-10-24T23:34:39+00:00,0.0,1
@@ -698,7 +698,7 @@ Engr 213 midterm,2024-10-23T00:29:25+00:00,0.0,1
 COEN 231 Second Midterm,2024-10-22T23:55:42+00:00,0.0,1
 Paper Shredder near Loyola?,2024-10-22T23:46:15+00:00,0.0,0
 MSc Computer science or MSc Environmental Engineering?,2024-10-22T23:06:55+00:00,0.0,0
-MATH 203 Repeated Exams,2024-10-22T22:50:07+00:00,0.0,2
+MATH 203 Repeated Exams,2024-10-22T22:50:07+00:00,0.0,1
 COOP RANT TELL ME EVERYTHING,2024-10-22T22:46:18+00:00,-0.34,0
 How to improve Resume,2024-10-22T22:12:08+00:00,0.4404,0
 Phys 204,2024-10-22T21:03:18+00:00,0.0,0

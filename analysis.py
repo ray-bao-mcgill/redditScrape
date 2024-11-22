@@ -71,11 +71,11 @@ def analyze_reddit_posts(input_file):
     # Apply sentiment analysis to titles
     df['sentiment'] = df['Title'].apply(get_sentiment_score)
     
-    # Add target word count
+    # Add target word count (modified to binary)
     def count_target_words(text):
         if not text or pd.isna(text):
             return 0
-        return sum(1 for word in target_words if word.lower() in text.lower())
+        return 1 if any(word.lower() in text.lower() for word in target_words) else 0
     
     df['target_word_count'] = df['Title'].apply(count_target_words)
     
