@@ -1,0 +1,27 @@
+Format_name,Value (numeric code),Value label
+unisub,1,ASU - r/asu
+,2,Concordia - r/concordia
+,3,Cornell - r/cornell
+,4,gmu - r/gmu
+,5,Harvard - r/harvard
+,6,mcgill - r/mcgill
+,7,nyu - r/nyu
+,8,OSU - r/osu
+,9,PennStateUniversity - r/pennstateuniversity
+,10,Purdue - r/purdue
+,11,stanford - r/stanford
+,12,uAlberta - r/ualberta
+,13,UBC - r/ubc
+,14,UCDavis - r/ucdavis
+,15,ucf - r/ucf
+,16,udub - r/udub
+,17,ufl - r/ufl
+,18,UMD - r/umd
+,19,uofm - r/uofm
+,20,uoft - r/uoft
+,21,USC - r/usc
+,22,UTAustin - r/utaustin
+,23,uwaterloo - r/uwaterloo
+,24,VirginiaTech - r/virginiatech
+,25,yorku - r/yorku
+psample,"[1, 13781]",see sheet 2
