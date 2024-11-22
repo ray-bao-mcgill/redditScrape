@@ -84,13 +84,3 @@ def analyze_reddit_posts(input_file):
     # Save to new CSV file
     
     return df
-
-# Example usage
-if __name__ == "__main__":
-    # Define target words
-    target_words = ['stress', 'anxiety', 'help', 'worried', 'failing']  # example words
-    
-    # Analyze files
-    df_uoft = analyze_reddit_posts('uoft_reddit_posts.csv', target_words)
-    # For future use with other universities:
-    # df_other = analyze_reddit_posts('other_university_posts.csv', target_words)
