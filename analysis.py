@@ -82,7 +82,6 @@ def analyze_reddit_posts(input_file):
     # Generate output filename based on input filename
     output_file = input_file.replace('.csv', '_analyzed.csv')
     # Save to new CSV file
-    df.to_csv(output_file, index=False)
     
     return df
 
