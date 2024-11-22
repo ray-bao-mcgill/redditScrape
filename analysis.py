@@ -2,6 +2,7 @@ import pandas as pd
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import emoji
 import re
+import os
 
 def analyze_reddit_posts(input_file):
     # Initialize VADER sentiment analyzer
@@ -80,7 +81,6 @@ def analyze_reddit_posts(input_file):
     
     # Generate output filename based on input filename
     output_file = input_file.replace('.csv', '_analyzed.csv')
-    
     # Save to new CSV file
     df.to_csv(output_file, index=False)
     
