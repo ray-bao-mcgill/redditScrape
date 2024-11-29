@@ -11,6 +11,41 @@ def analyze_reddit_posts(input_file):
     # Read the CSV file
     df = pd.read_csv(input_file)
 
+    # Read university mapping with cost of living data
+    try:
+        uni_data = pd.read_csv('data/top100_universities.csv')
+        # Extract university name from input filename
+        uni_name = os.path.basename(input_file).replace('_reddit_posts.csv', '')
+        
+        # Try different matching strategies
+        cost_of_living = None
+        
+        # Clean the names for comparison using the same function as scrapedata.py
+        def clean_for_comparison(name):
+            # Remove special characters and spaces, convert to lowercase
+            clean = ''.join(c for c in name if c.isalnum() or c in ' -_')
+            return clean.strip().replace(' ', '_').lower()
+        
+        # Add cleaned versions of names to the dataframe
+        uni_data['clean_name'] = uni_data['name'].apply(clean_for_comparison)
+        uni_data['clean_subreddit'] = uni_data['subreddit'].apply(clean_for_comparison)
+        
+        # Try matching on cleaned names
+        match = uni_data[uni_data['clean_name'] == clean_for_comparison(uni_name)]
+        if not match.empty:
+            cost_of_living = match['cost_of_living'].iloc[0]
+        else:
+            # Try matching by subreddit
+            match = uni_data[uni_data['clean_subreddit'] == clean_for_comparison(uni_name)]
+            if not match.empty:
+                cost_of_living = match['cost_of_living'].iloc[0]
+            else:
+                print(f"Warning: No matching university found for {uni_name}")
+                
+    except Exception as e:
+        print(f"Warning: Could not get cost of living data: {e}")
+        cost_of_living = None
+
     target_words = [
         # Academic assessment terms
         'exam', 'exams',
@@ -78,6 +113,9 @@ def analyze_reddit_posts(input_file):
         return 1 if any(word.lower() in text.lower() for word in target_words) else 0
     
     df['target_word_count'] = df['Title'].apply(count_target_words)
+    
+    # Add cost of living column
+    df['cost_of_living'] = cost_of_living
     
     # Generate output filename based on input filename
     output_file = input_file.replace('.csv', '_analyzed.csv')

@@ -8,15 +8,15 @@ def combine_csv_files():
     
     if not csv_files:
         print("No CSV files found in analyzed_data directory")
-        return
+        return False
     
     # Initialize list to store DataFrames
     dfs = []
     
     # Process each CSV file
     for file in csv_files:
-        # Extract university name from filename (e.g., "ASU_reddit_posts_analyzed.csv" -> "ASU")
-        uni_name = os.path.basename(file).split('_')[0]
+        # Extract university name from filename by removing '_reddit_posts_analyzed.csv'
+        uni_name = os.path.basename(file).replace('_reddit_posts_analyzed.csv', '')
         
         # Read CSV
         df = pd.read_csv(file)
@@ -27,7 +27,8 @@ def combine_csv_files():
             'psample': df['Title'],
             'date': df['Date'],
             'sentiment': df['sentiment'],
-            't_count': df['target_word_count']
+            't_count': df['target_word_count'],
+            'cost_of_living': df['cost_of_living']
         })
         
         dfs.append(new_df)
@@ -54,7 +55,8 @@ def combine_csv_files():
         'psample': range(1, len(combined_df) + 1),  # Generate sequential numbers from 1 to n
         'date': combined_df['date'],
         'sentiment': combined_df['sentiment'],
-        't_count': combined_df['t_count']
+        't_count': combined_df['t_count'],
+        'cost_of_living': combined_df['cost_of_living']
     })
     
     # Save the mapping for reference
@@ -128,7 +130,30 @@ def create_codebook_sheet2():
     except Exception as e:
         print(f"An error occurred: {str(e)}")
 
+def create_post_counts():
+    """Creates a CSV file showing the number of posts scraped for each university"""
+    try:
+        # Read the uncleaned data
+        uncleaned_data = pd.read_csv('coded/uncleaned_data.csv')
+        
+        # Count posts per university
+        post_counts = uncleaned_data['uni'].value_counts().reset_index()
+        post_counts.columns = ['university', 'post_count']
+        
+        # Sort by university name
+        post_counts = post_counts.sort_values('university')
+        
+        # Save the counts
+        post_counts.to_csv('coded/post_counts.csv', index=False)
+        print("Post counts saved to coded/post_counts.csv")
+        
+    except PermissionError:
+        print("Error: Unable to write to file. Please check if the file is open in another program or if you have write permissions.")
+    except Exception as e:
+        print(f"An error occurred: {str(e)}")
+
 if __name__ == "__main__":
     combine_csv_files()
     create_codebook()
     create_codebook_sheet2()
+    create_post_counts()

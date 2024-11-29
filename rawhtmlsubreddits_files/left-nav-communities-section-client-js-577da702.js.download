@@ -1,0 +1,2 @@
+import"./faceplate-expandable-section-helper-786f5daf.js";import"./faceplate-shimmer-2aa9ab87.js";import{_ as e,e as t}from"./shell-ceb66a5c.js";import{L as s}from"./left-nav-subreddit-list-controller-base-ff324698.js";import"./action-components-bbf589b6.js";import"./icon-04f6a077.js";import"./list-item-b879d870.js";let o=class extends s{constructor(){super(...arguments),this.sanNoun="communites_menu"}connectedCallback(){super.connectedCallback()}};o=e([t("left-nav-communities-controller")],o);
+//# sourceMappingURL=left-nav-communities-section-client-js-577da702.js.map

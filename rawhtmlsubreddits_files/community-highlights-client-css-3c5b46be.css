@@ -1,0 +1,1 @@
+.highlight-list-item:has(community-highlight-card:not(:defined))>a{background-color:var(--color-neutral-background-container);border-radius:12px;height:120px}.highlight-list-item:has(community-highlight-card:not(:defined)).compact>a{height:95px}

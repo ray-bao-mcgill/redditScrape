@@ -5,7 +5,7 @@ from analysis import analyze_reddit_posts
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Build paths to data and analyzed_data directories
-data_dir = os.path.join(script_dir, 'data')
+data_dir = os.path.join(script_dir, 'scraped_data')
 analyzed_dir = os.path.join(script_dir, 'analyzed_data')
 
 # Create both directories if they don't exist
