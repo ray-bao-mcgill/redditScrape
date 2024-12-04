@@ -61,7 +61,19 @@ def get_top_universities():
                 sys.exit(1)
                 
             if response.status_code == 200:
+                # Check if we're on a search page
+                if '/subreddits/search' in response.url:
+                    print(f"  × Error: Subreddit r/{subreddit} does not exist (redirected to search)")
+                    continue
+                
                 soup = BeautifulSoup(response.text, 'html.parser')
+                
+                # Verify we're on the correct subreddit page
+                subreddit_header = soup.find('h1', {'class': 'redditname'})
+                if not subreddit_header or subreddit.lower() not in subreddit_header.text.lower():
+                    print(f"  × Error: Page does not match subreddit r/{subreddit}")
+                    continue
+                
                 subscribers_div = soup.find('span', {'class': 'number'})
                 
                 if subscribers_div:
@@ -80,6 +92,8 @@ def get_top_universities():
                     # Save progress after each successful request
                     progress_df = pd.DataFrame(subreddits)
                     progress_df.to_csv(progress_file, index=False)
+                else:
+                    print(f"  × Error: Could not find subscriber count for r/{subreddit}")
             else:
                 print(f"  × Error: HTTP {response.status_code}")
             
@@ -94,28 +108,28 @@ def get_top_universities():
     subreddits.sort(key=lambda x: x['subscribers'], reverse=True)
     
     # Get top 200 and save to CSV
-    top_200 = subreddits[:200]
+    top_250 = subreddits[:250]
     
     try:
         # Convert to DataFrame and save
-        df = pd.DataFrame(top_200)
+        df = pd.DataFrame(top_250)
         output_path = 'data/top200_universities.csv'
         df.to_csv(output_path, index=False)
         print(f"\nSaved top 200 universities to {output_path}")
         
         # Print top 10 for quick verification
         print("\nTop 10 universities by subscriber count:")
-        for i, uni in enumerate(top_200[:10], 1):
+        for i, uni in enumerate(top_250[:10], 1):
             print(f"{i}. r/{uni['subreddit']}: {uni['subscribers']:,} subscribers - {uni['name']}")
         
         # Clean up progress file if successful
-        if os.path.exists(progress_file):
-            os.remove(progress_file)
+        #if os.path.exists(progress_file):
+         #   os.remove(progress_file)
             
     except Exception as e:
-        print(f"\nError saving top 200 CSV: {e}")
+        print(f"\nError saving top 250 CSV: {e}")
     
-    return top_200
+    return top_250
 
 if __name__ == "__main__":
     get_top_universities()

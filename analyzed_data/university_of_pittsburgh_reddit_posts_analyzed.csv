@@ -1,8 +1,33 @@
 Title,Date,sentiment,target_word_count,cost_of_living
+Microwave?,2024-12-04T01:06:38+00:00,0.0,0,95.0
+2 rooms available for sublease!,2024-12-04T00:06:40+00:00,0.0,0,95.0
+BusBis0100 Final,2024-12-03T23:02:49+00:00,0.0,1,95.0
+Dental Hygiene Transfer Suggestions,2024-12-03T22:27:46+00:00,0.0,0,95.0
+Did Pitt send y’all anything when you got in,2024-12-03T21:40:58+00:00,0.0,0,95.0
+Anybody on campus want to take on some pokemon go raids sometime?,2024-12-03T20:09:59+00:00,0.0772,0,95.0
+December Commencement,2024-12-03T18:50:04+00:00,0.0,0,95.0
+LCTL courses,2024-12-03T04:50:02+00:00,0.0,0,95.0
+Finals Week Schedule Is Awful This Year,2024-12-02T20:05:32+00:00,-0.4588,1,95.0
+Housing and Email Problems,2024-12-02T16:46:08+00:00,-0.4019,0,95.0
+Someone tell me all about lothrop,2024-12-01T23:30:19+00:00,0.0,0,95.0
+Is my 12 credit sophomore spring semester too light?,2024-12-01T21:42:14+00:00,0.3818,0,95.0
+A&S first year program,2024-12-01T21:29:32+00:00,0.0,0,95.0
+Would anyone be willing to share their study abroad experience in Senegal or Cyprus,2024-12-01T21:04:15+00:00,0.296,0,95.0
+caught w alc,2024-12-01T20:17:39+00:00,0.0,0,95.0
+Professor made final paper due over break?,2024-12-01T19:22:26+00:00,0.0,1,95.0
+DnD groups at pitt,2024-12-01T01:05:18+00:00,0.0,0,95.0
+Are basketball student tickets transferable?,2024-11-30T05:39:33+00:00,0.0,0,95.0
+Looking For a Trainer,2024-11-30T01:25:32+00:00,0.0,0,95.0
+Regional Campuses-- which is better?!,2024-11-30T00:23:24+00:00,0.4926,0,95.0
+RUSS0871: Russian Film Stalin to Putin,2024-11-30T00:14:09+00:00,0.0,0,95.0
+Honors program essay,2024-11-29T23:51:39+00:00,0.5106,1,95.0
+Does any one have extra December graduation tickets to share?,2024-11-29T18:07:18+00:00,0.296,0,95.0
+Honors College Admissions,2024-11-29T17:10:32+00:00,0.5106,0,95.0
 Will my id work on the bus post-transfer?,2024-11-29T03:23:49+00:00,0.0,0,95.0
 Tips for studying for Gen Chem 1 Lab Exam?,2024-11-29T02:40:05+00:00,0.0,1,95.0
 Process for getting an incomplete?,2024-11-28T20:15:03+00:00,0.0,0,95.0
 I got in!!!,2024-11-28T04:19:15+00:00,0.0,0,95.0
+Does Pitt send stuff to accepted students,2024-11-27T16:58:22+00:00,0.2732,0,95.0
 Unconventional Graduation Dress,2024-11-27T03:00:01+00:00,0.0,0,95.0
 UPitt Johnstown Worth it?,2024-11-27T02:00:14+00:00,0.2263,0,95.0
 Pitt Data Science,2024-11-27T01:09:50+00:00,0.0,0,95.0
@@ -36,9 +61,9 @@ Calc 2 grade,2024-11-22T05:22:20+00:00,0.0,0,95.0
 Nice apartments in Oakland,2024-11-22T05:00:11+00:00,0.4215,0,95.0
 Pitt tuition remission question,2024-11-22T00:49:17+00:00,0.0,0,95.0
 Just got accepted!,2024-11-22T00:14:55+00:00,0.3382,0,95.0
+Commuting to Main campus,2024-11-21T23:45:54+00:00,0.0,0,95.0
 How hard is chem045?,2024-11-21T16:16:12+00:00,-0.1027,0,95.0
 Krishna,2024-11-21T15:45:25+00:00,0.0,0,95.0
-Yanbin Tu?,2024-11-21T14:45:21+00:00,0.0,0,95.0
 Sauna for Pitt students or in the area?,2024-11-21T12:29:38+00:00,0.0,0,95.0
 Study abroad,2024-11-21T05:22:26+00:00,0.0,0,95.0
 Selling my mini-fridge for $140,2024-11-21T03:42:15+00:00,0.0,0,95.0
@@ -89,7 +114,6 @@ Bars,2024-11-15T15:41:18+00:00,0.0,0,95.0
 CS 0012 Help,2024-11-15T00:40:33+00:00,0.0,0,95.0
 Getting Your Foot in the Door at Pitt,2024-11-15T00:32:44+00:00,0.0,0,95.0
 looking to make new friends,2024-11-14T23:10:46+00:00,0.4767,0,95.0
-Cook me idc. What beer distributor sell to a fake,2024-11-14T22:49:39+00:00,-0.4767,0,95.0
 Salman exam 2,2024-11-14T22:24:22+00:00,0.0,1,95.0
 Email from financial aid..state grant,2024-11-14T22:22:06+00:00,0.3612,0,95.0
 Pitt aid canceled,2024-11-14T20:54:08+00:00,0.0,0,95.0
@@ -181,7 +205,6 @@ Music 0121 Nikolai Choubind,2024-11-05T18:13:43+00:00,0.0,0,95.0
 biosc 0370 or biosc 1130,2024-11-05T17:58:48+00:00,0.0,0,95.0
 Fan-funded NIL deals,2024-11-05T17:26:26+00:00,0.0,0,95.0
 Most notorious Pittsburgh food items?,2024-11-05T15:51:54+00:00,-0.4927,0,95.0
-Switching to Pitt main,2024-11-05T15:41:07+00:00,0.0,0,95.0
 Linear Algebra,2024-11-05T13:41:39+00:00,0.0,0,95.0
 Admitted to MSCS at Pitt for Spring 2025 (as an international student),2024-11-05T09:32:58+00:00,0.1027,0,95.0
 Scholarships for incoming freshman,2024-11-05T05:29:04+00:00,0.0,0,95.0
@@ -194,45 +217,3 @@ Mary Railing for Ochem 2,2024-11-04T21:16:02+00:00,0.0,0,95.0
 "Don't be swindled by the ASDF ""charity""",2024-11-04T17:54:05+00:00,0.4215,0,95.0
 Help a Master's Student: Quick 5-Minute Survey for University of Pittsburgh Alumni!,2024-11-04T17:52:25+00:00,0.0,0,95.0
 parking,2024-11-04T15:27:52+00:00,0.0,0,95.0
-Swimming,2024-11-04T03:25:31+00:00,0.0,0,95.0
-Pitt Engineering,2024-11-04T03:01:21+00:00,0.0,0,95.0
-Gyms,2024-11-04T02:20:03+00:00,0.0,0,95.0
-Scholarships,2024-11-04T02:12:58+00:00,0.0,0,95.0
-ENGR 0012 Profs,2024-11-04T01:18:03+00:00,0.0,0,95.0
-Easy Gen Eds for Computational Biology,2024-11-03T22:32:30+00:00,0.4404,0,95.0
-"Professors, what are the rules for finals this year?",2024-11-03T21:19:30+00:00,0.0,1,95.0
-Soldiers and Sailors Parking Garage,2024-11-03T19:57:51+00:00,0.0,0,95.0
-Summer CCAC,2024-11-03T17:46:00+00:00,0.0,0,95.0
-Why are the study rooms on the honors college floors of Cathy always locked?,2024-11-03T17:26:56+00:00,0.5106,0,95.0
-is this a real admissions coordinator or is this a scam,2024-11-03T17:04:48+00:00,-0.5719,0,95.0
-3B1B Lease Available January - August 2025 5th Avenue Royal Gardens Apartments!,2024-11-03T13:05:39+00:00,0.0,0,95.0
-Gen Ed Opinions,2024-11-03T04:00:50+00:00,0.0,0,95.0
-Come on Eli,2024-11-03T01:25:29+00:00,0.0,0,95.0
-Best genetics professor?,2024-11-02T22:48:20+00:00,0.6369,0,95.0
-Know of any DiY music venues in South Oakand from days past?,2024-11-02T22:07:33+00:00,0.0,0,95.0
-hbo max,2024-11-02T16:58:04+00:00,0.0,0,95.0
-New Rec Center,2024-11-02T13:45:15+00:00,0.0,0,95.0
-[ Removed by Reddit ],2024-11-02T13:01:59+00:00,0.0,0,95.0
-Bio 1 Lab Topic,2024-11-02T02:45:13+00:00,0.0,0,95.0
-Making Friends as a Grad Student?,2024-11-01T21:55:33+00:00,0.4767,0,95.0
-Likelihood of Receiving Permission Number (PHIL1040),2024-11-01T17:24:19+00:00,0.0772,0,95.0
-Are people still going out in their costumes today?,2024-11-01T15:52:46+00:00,0.0,0,95.0
-Considering dropping out over a break up,2024-11-01T04:49:51+00:00,0.0,0,95.0
-"When applying, do you need to submit both your common app essay and a personal statement?",2024-11-01T03:08:15+00:00,0.0,1,95.0
-How do I schedule appointment with counseling center?,2024-11-01T01:24:49+00:00,0.0,0,95.0
-what are the girls in nursing like?,2024-10-31T18:21:36+00:00,0.3612,0,95.0
-Should I appeal this parking ticket?,2024-10-31T16:59:34+00:00,0.0,0,95.0
-Tuition,2024-10-31T01:45:28+00:00,0.0,0,95.0
-MATH 0280 with Paul Gartside Midterm 1 Grade,2024-10-31T01:43:25+00:00,0.0,1,95.0
-Next steps?,2024-10-31T01:35:31+00:00,0.0,0,95.0
-Quick Survey + Chance for a networking call with Sr. PM at Amazon,2024-10-30T23:44:22+00:00,0.4019,0,95.0
-Chem 0120 Tamika Madison Notes?,2024-10-30T23:39:27+00:00,0.0,0,95.0
-Are there any parking garages near Terrace Street that rent spaces by the month?,2024-10-30T20:19:52+00:00,0.0,0,95.0
-Definitive List of Pitt Bars 2024,2024-10-30T20:06:46+00:00,0.0,0,95.0
-anyone else think the trick or treatery sign was AI generated?,2024-10-30T19:37:20+00:00,-0.0516,0,95.0
-How long does it take to get a decision?,2024-10-30T19:03:53+00:00,0.0,0,95.0
-Voter Support Thread,2024-10-30T18:30:52+00:00,0.4019,0,95.0
-"Mailroom often not open during posted hours, Forbes Hall.",2024-10-30T16:36:33+00:00,0.0,0,95.0
-Is Eli Holstein going to transfer?,2024-10-30T15:50:12+00:00,0.0,0,95.0
-CS1503 today’s class,2024-10-30T15:32:33+00:00,0.0,0,95.0
-Selling my engineering graduation regalia,2024-10-30T14:20:41+00:00,0.0,0,95.0

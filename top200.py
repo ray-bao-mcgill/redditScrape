@@ -11,7 +11,7 @@ def save_top_200():
         df_sorted = df.sort_values('subscribers', ascending=False)
         
         # Take top 200
-        top_200 = df_sorted.head(200)
+        top_200 = df_sorted.head(250)
         
         # Save to CSV
         output_path = 'redditScrape/data/top200_universities.csv'

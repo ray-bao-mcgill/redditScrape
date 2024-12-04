@@ -13,7 +13,7 @@ def analyze_reddit_posts(input_file):
 
     # Read university mapping with cost of living data
     try:
-        uni_data = pd.read_csv('data/top100_universities.csv')
+        uni_data = pd.read_csv('data/top200_universities.csv')
         # Extract university name from input filename
         uni_name = os.path.basename(input_file).replace('_reddit_posts.csv', '')
         

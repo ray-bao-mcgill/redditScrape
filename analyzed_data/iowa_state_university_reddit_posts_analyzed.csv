@@ -1,8 +1,5 @@
 Title,Date,sentiment,target_word_count,cost_of_living
-LOOKING FOR ROOMMATE OR ROOMMATES!!,2024-11-29T05:53:54+00:00,0.0,0,103.0
-"people in the varsity marching band, what is it like??",2024-11-29T05:26:02+00:00,0.4329,0,103.0
 ISU shuttle from DSM to campus,2024-11-29T03:36:36+00:00,0.0,0,103.0
-Places to use VR on campus?,2024-11-28T05:52:14+00:00,0.0,0,103.0
 Campus Visit,2024-11-28T03:40:51+00:00,0.0,0,103.0
 When should I recieve my acceptance letter?,2024-11-27T22:59:50+00:00,0.4588,0,103.0
 Haircut,2024-11-26T23:10:18+00:00,0.0,0,103.0
@@ -50,7 +47,6 @@ Why is there no board game club on campus,2024-11-13T18:54:28+00:00,-0.296,0,103
 How do I register for classes for the 2025 spring semester?,2024-11-12T22:07:25+00:00,0.0,0,103.0
 "Best places to work in Ames, and places to stay away from?",2024-11-12T21:10:02+00:00,0.6369,0,103.0
 "Looking for two subleasers January 5th, 2025 - July 25th, 2025",2024-11-12T20:52:00+00:00,0.0,0,103.0
-Could you take a quick survey for us?,2024-11-12T19:13:55+00:00,0.0,0,103.0
 What's going on at UDCC?,2024-11-11T20:20:20+00:00,0.0,0,103.0
 Chance of getting desired dorm?,2024-11-11T14:24:22+00:00,0.4767,0,103.0
 For engineering major gen ed - CJST 240 - Introduction to the U.S. Criminal Justice System or intro to music listening MUS102,2024-11-11T07:34:34+00:00,0.0,0,103.0
@@ -93,37 +89,3 @@ Pre Calc Failing (Help),2024-11-05T04:26:49+00:00,-0.5106,0,103.0
 internet problem on campus,2024-11-05T01:44:27+00:00,-0.4019,0,103.0
 Does Acct 285 online course offer exams online?,2024-11-04T16:55:17+00:00,0.0,1,103.0
 Help guys,2024-11-04T04:44:29+00:00,0.0,0,103.0
-Class registration,2024-11-04T03:54:48+00:00,0.0,0,103.0
-IDK/do not grade gets you 30% on exam?,2024-11-03T21:43:51+00:00,0.0,1,103.0
-Phlebotomy,2024-11-03T19:44:08+00:00,0.0,0,103.0
-Furnished and all utilities included off campus housing??,2024-11-03T16:44:41+00:00,0.0,0,103.0
-I need help finding a frat,2024-11-03T07:10:23+00:00,0.0,0,103.0
-Cocktail,2024-11-02T23:56:37+00:00,0.0,0,103.0
-Is there any classes you would recommend a freshman engineer to take during the summer after first year?,2024-11-02T22:54:15+00:00,0.3612,0,103.0
-Cannon at football games,2024-11-02T21:17:02+00:00,0.0,0,103.0
-Linking Common App,2024-11-02T19:13:07+00:00,0.0,0,103.0
-Iowa State Vs. UIUC Vs. UIC,2024-11-02T17:06:53+00:00,0.0,0,103.0
-CyRide - Moonlight Express service expanded an additional hour tonight to accommodate for Daylight Savings Time. Happy Homecoming!,2024-11-02T15:40:05+00:00,0.6114,0,103.0
-"Does ISU have a club that does camping, bushcraft or any other outdoor related activity?",2024-11-02T00:53:18+00:00,0.0,0,103.0
-"I don't get it - EE juniors/seniors, please help",2024-11-02T00:44:54+00:00,0.3182,0,103.0
-Looking for 1B1B Apartment Recommendations,2024-11-01T20:52:33+00:00,0.0,0,103.0
-Humanities & Social Science,2024-11-01T20:11:46+00:00,0.0,0,103.0
-Did UDCC get rid of garlic shrimp,2024-11-01T19:01:41+00:00,0.0,0,103.0
-Any film photographers in here? I’m a first time film user and currently struggling with capturing quality photos using the F-stop/shutter. I’m used to digital cameras and seeing where to fix it instantly that it’s difficult to adjust once film is developed. Could use some pointers.,2024-11-01T18:53:12+00:00,-0.7579,0,103.0
-BBMB 316,2024-11-01T15:08:09+00:00,0.0,0,103.0
-Is making calc 3 Pass/Not pass a good idea?,2024-11-01T14:37:23+00:00,0.4404,0,103.0
-Whoever wrote this year’s diff eq exam 2 … I just wanna talk,2024-11-01T01:59:20+00:00,0.0,1,103.0
-Any side jobs in Ames?,2024-11-01T00:17:10+00:00,0.0,0,103.0
-Subleasing a 2 bed 1 bath Apartment!!,2024-10-31T21:16:22+00:00,0.0,0,103.0
-Acceptance,2024-10-31T20:35:59+00:00,0.4588,0,103.0
-P/NP,2024-10-31T18:42:19+00:00,0.0,0,103.0
-How hard is fluids (Abe 3780),2024-10-31T06:01:28+00:00,-0.1027,0,103.0
-Easy grad-level electives?,2024-10-31T04:53:24+00:00,0.4404,0,103.0
-Easy graduate-level electives?,2024-10-31T04:50:55+00:00,0.4404,0,103.0
-Is this computer good for a cybersecurity major,2024-10-31T02:08:09+00:00,0.4404,0,103.0
-Mechanical Engineering Gen Ed’s,2024-10-30T20:20:10+00:00,0.0,0,103.0
-Nothing,2024-10-30T19:47:52+00:00,0.0,0,103.0
-ME 335 and ME 421,2024-10-30T17:41:15+00:00,0.0,0,103.0
-Spring Semester 2025 Course Registration For Computer Science,2024-10-30T16:23:01+00:00,0.0,0,103.0
-SE Semester Course Load,2024-10-30T15:42:41+00:00,0.0,0,103.0
-Lost Headphones,2024-10-30T14:40:19+00:00,-0.3182,0,103.0

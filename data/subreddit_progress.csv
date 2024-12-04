@@ -1,394 +1,451 @@
 name,location,subreddit,subscribers,cost_of_living
 Acadia University,"Wolfville, Nova Scotia, Canada",AcadiaU,953,92.0
-Algonquin College,"Ottawa, Ontario, Canada",Algonquin_College,6901,92.0
-Amherst College,"Amherst, Massachusetts, United States",amherstcollege,1628,
+Algonquin College,"Ottawa, Ontario, Canada",Algonquin_College,6903,92.0
+Amherst College,"Amherst, Massachusetts, United States",amherstcollege,1645,
 Anderson University,"Anderson, South Carolina, United States",AndersonUniversity,121,91.0
-Appalachian State University,"Boone, North Carolina, United States",appstate,9415,111.0
+Appalachian State University,"Boone, North Carolina, United States",appstate,9432,111.0
 Aquinas College,"Grand Rapids, Michigan, United States",aquinas,206,92.0
-Arizona State University,"Tempe, Arizona, United States",ASU,59371,112.0
-Auburn University,"Auburn, Alabama, United States",auburn,31070,108.0
-Azusa Pacific University,"Azusa, California, United States",apu,312,145.0
-Babson College,"Wellesley, Massachusetts, United States",Babson,1013,242.0
-Ball State University,"Muncie, Indiana, United States",BallState,3787,84.0
-Baruch College,"New York City, New York, United States",Baruch,11513,
-Baylor University,"Waco, Texas, United States",baylor,9056,92.0
+Arizona State University,"Tempe, Arizona, United States",ASU,59481,112.0
+Auburn University,"Auburn, Alabama, United States",auburn,31110,108.0
+Azusa Pacific University,"Azusa, California, United States",apu,314,145.0
+Babson College,"Wellesley, Massachusetts, United States",Babson,1017,242.0
+Ball State University,"Muncie, Indiana, United States",BallState,3792,84.0
+Baruch College,"New York City, New York, United States",Baruch,11526,
+Baylor University,"Waco, Texas, United States",baylor,9077,92.0
 Berea College,"Berea, Kentucky, United States",berea,613,91.0
-Berklee College,"Boston, Massachusetts, United States",Berklee,3224,166.0
-Binghamton University,"Vestal, New York, United States",BinghamtonUniversity,16906,
-Biola University,"La Mirada, California, United States",Biola,237,161.0
-Boston College,"Chestnut Hill, Massachusetts, United States",bostoncollege,8215,
-Boston University,"Boston, Massachusetts, United States",BostonU,28317,166.0
-Bowdoin College,"Brunswick, Maine, United States",Bowdoin,1014,112.0
-Bowling Green State University,"Bowling Green, Ohio, United States",BGSU,2382,97.0
-Bradley University,"Peoria, Illinois, United States",bradleyuniversity,705,89.0
-Brandeis University,"Waltham, Massachusetts, United States",brandeis,2136,166.0
-Brigham Young University,"Provo, Utah, United States",byu,12945,112.0
-British Columbia Institute of Technology,"Burnaby, British Columbia, Canada",BCIT,12537,122.0
-Brock University,"St. Catharines, Ontario, Canada",brocku,7520,91.0
-Broward College,"Fort Lauderdale, Florida, United States",Broward,36303,125.0
-Brown University,"Providence, Rhode Island, United States",BrownU,13083,111.0
-Bucknell University,"Lewisburg, Pennsylvania, United States",bucknell,814,101.0
+Berklee College,"Boston, Massachusetts, United States",Berklee,3231,166.0
+Binghamton University,"Vestal, New York, United States",BinghamtonUniversity,16940,
+Biola University,"La Mirada, California, United States",Biola,238,161.0
+Boston College,"Chestnut Hill, Massachusetts, United States",bostoncollege,8245,
+Boston University,"Boston, Massachusetts, United States",BostonU,28370,166.0
+Bowdoin College,"Brunswick, Maine, United States",Bowdoin,1024,112.0
+Bowling Green State University,"Bowling Green, Ohio, United States",BGSU,2389,97.0
+Bradley University,"Peoria, Illinois, United States",bradleyuniversity,706,89.0
+Brandeis University,"Waltham, Massachusetts, United States",brandeis,2138,166.0
+Brigham Young University,"Provo, Utah, United States",byu,12966,112.0
+British Columbia Institute of Technology,"Burnaby, British Columbia, Canada",BCIT,12560,122.0
+Brock University,"St. Catharines, Ontario, Canada",brocku,7543,91.0
+Broward College,"Fort Lauderdale, Florida, United States",Broward,36381,125.0
+Brown University,"Providence, Rhode Island, United States",BrownU,13137,111.0
+Bucknell University,"Lewisburg, Pennsylvania, United States",bucknell,816,101.0
 Butler University,"Indianapolis, Indiana, United States",butleruniversity,1083,93.0
-California College of the Arts,"San Francisco, California, United States",CCA,297,237.0
-California Institute Of Technology,"Pasadena, California, United States",Caltech,5589,191.0
-California Institute of the Arts,"Santa Clarita, California, United States",calarts,1477,164.0
-California Polytechnic State University,"San Luis Obispo, California, United States",CalPoly,25793,171.0
-California Polytechnic State University - Pomona,"Pomona, California, United States",CalPolyPomona,23389,139.0
+California College of the Arts,"San Francisco, California, United States",CCA,298,237.0
+California Institute Of Technology,"Pasadena, California, United States",Caltech,5609,191.0
+California Institute of the Arts,"Santa Clarita, California, United States",calarts,1480,164.0
+California Polytechnic State University,"San Luis Obispo, California, United States",CalPoly,25815,171.0
+California Polytechnic State University - Pomona,"Pomona, California, United States",CalPolyPomona,23408,139.0
 California State University - Channel Islands,"Camarillo, California, United States",csuci,1008,172.0
-California State University - Chico,"Chico, California, United States",CSUC,3879,129.0
+California State University - Chico,"Chico, California, United States",CSUC,3884,129.0
 California State University - Dominguez Hills,"Carson, California, United States",CSUDH,1400,152.0
-California State University - East Bay,"Hayward, California, United States",CSUEB,2437,173.0
-California State University - Fullerton,"Fullerton, California, United States",csuf,27515,170.0
-California State University - Long Beach,"Long Beach, California, United States",CSULB,25570,157.0
-California State University - Monterey Bay,"Marina and Seaside, California, United States",csumb,1982,
-California State University - Northridge,"Los Angeles, California, United States",csun,12233,172.0
-California State University - Sacramento,"Sacramento, California, United States",CSUS,23299,132.0
-California State University - San Bernardino,"San Bernardino, California, United States",CSUSB,3273,119.0
-California State University - San Marcos,"San Marcos, California, United States",csusm,2699,163.0
-"California State University, Fresno","Fresno, California, United States",fresnostate,2993,116.0
-California University of Pennsylvania,"California, Pennsylvania, United States",calupa,173,89.0
-Capilano University,"North Vancouver, British Columbia, Canada",CapU,1218,133.0
-Carleton College,"Northfield, Minnesota, United States",CarletonCollege,1347,103.0
-Carleton University,"Ottawa, Ontario, Canada",CarletonU,29928,92.0
-Carnegie Mellon University,"Pittsburgh, Pennsylvania, United States",cmu,18768,95.0
-Case Western Reserve University,"Cleveland, Ohio, United States",cwru,6373,83.0
-Central Michigan University,"Mount Pleasant, Michigan, United States",centralmich,2733,89.0
-Chapman University,"Orange, California, United States",chapmanuniversity,1920,172.0
+California State University - East Bay,"Hayward, California, United States",CSUEB,2440,173.0
+California State University - Fullerton,"Fullerton, California, United States",csuf,27541,170.0
+California State University - Long Beach,"Long Beach, California, United States",CSULB,25656,157.0
+California State University - Monterey Bay,"Marina and Seaside, California, United States",csumb,1983,
+California State University - Northridge,"Los Angeles, California, United States",csun,12295,172.0
+California State University - Sacramento,"Sacramento, California, United States",CSUS,23326,132.0
+California State University - San Bernardino,"San Bernardino, California, United States",CSUSB,3282,119.0
+California State University - San Marcos,"San Marcos, California, United States",csusm,2709,163.0
+"California State University, Fresno","Fresno, California, United States",fresnostate,2996,116.0
+California University of Pennsylvania,"California, Pennsylvania, United States",calupa,174,89.0
+Capilano University,"North Vancouver, British Columbia, Canada",CapU,1216,133.0
+Carleton College,"Northfield, Minnesota, United States",CarletonCollege,1351,103.0
+Carleton University,"Ottawa, Ontario, Canada",CarletonU,29982,92.0
+Carnegie Mellon University,"Pittsburgh, Pennsylvania, United States",cmu,18804,95.0
+Case Western Reserve University,"Cleveland, Ohio, United States",cwru,6389,83.0
+Central Michigan University,"Mount Pleasant, Michigan, United States",centralmich,2735,89.0
+Chapman University,"Orange, California, United States",chapmanuniversity,1918,172.0
 Christopher Newport University,"Newport News, Virginia, United States",CNU,1127,103.0
-City College of New York,"New York City, New York, United States",CCNY,1976,
-City University of New York,"New York City, New York, United States",CUNY,16308,
-Claremont Colleges,"Claremont, California, United States",claremontcolleges,1712,171.0
-Clark University,"Worcester, Massachusetts, United States",ClarkU,885,114.0
-Clemson University,"Clemson, South Carolina, United States",Clemson,25044,108.0
-Coastal Carolina University,"Conway, South Carolina, United States",CCU,479,96.0
-Colby College,"Waterville, Maine, United States",Colby,1119,96.0
-Colgate University,"Hamilton, New York, United States",Colgate,1198,108.0
-College of Charleston,"Charleston, South Carolina, United States",CofC,1555,122.0
-College of Wooster,"Wooster, Ohio, United States",Wooster,494,91.0
+City College of New York,"New York City, New York, United States",CCNY,1983,
+City University of New York,"New York City, New York, United States",CUNY,16364,
+Claremont Colleges,"Claremont, California, United States",claremontcolleges,1719,171.0
+Clark University,"Worcester, Massachusetts, United States",ClarkU,888,114.0
+Clemson University,"Clemson, South Carolina, United States",Clemson,25094,108.0
+Coastal Carolina University,"Conway, South Carolina, United States",CCU,481,96.0
+Colby College,"Waterville, Maine, United States",Colby,1129,96.0
+Colgate University,"Hamilton, New York, United States",Colgate,1200,108.0
+College of Charleston,"Charleston, South Carolina, United States",CofC,1557,122.0
+College of Wooster,"Wooster, Ohio, United States",Wooster,495,91.0
 College of the Holy Cross,"Worcester, Massachusetts, United States",HolyCross,390,114.0
-Colorado School of Mines,"Golden, Colorado, United States",ColoradoSchoolOfMines,5010,146.0
-Colorado State University,"Fort Collins, Colorado, United States",CSUFoCo,4946,127.0
+Colorado School of Mines,"Golden, Colorado, United States",ColoradoSchoolOfMines,5019,146.0
+Colorado State University,"Fort Collins, Colorado, United States",CSUFoCo,4948,127.0
 Columbia College,"Chicago, Illinois, United States",colum,541,114.0
-Columbia University,"New York City, New York, United States",columbia,40380,
-Conestoga College Institute of Technology and Advanced Learning,"Kitchener, Ontario, Canada",Conestoga,6838,95.0
+Columbia University,"New York City, New York, United States",columbia,40455,
+Conestoga College Institute of Technology and Advanced Learning,"Kitchener, Ontario, Canada",Conestoga,6857,95.0
 Connecticut College,"New London, Connecticut, United States",conncoll,151,106.0
-Cornell University,"Ithaca, New York, United States",Cornell,63877,113.0
-Dalhousie University,"Halifax, Nova Scotia, Canada",Dalhousie,12039,91.0
-Dartmouth College,"Hanover, New Hampshire, United States",dartmouth,8999,154.0
-Davidson College,"Davidson, North Carolina, United States",davidson,764,132.0
-DePauw University,"Greencastle, Indiana, United States",DePauw,371,93.0
-DeVry University,"Downers Grove, Illinois, United States",devry,184,125.0
-Denison University,"Granville, Ohio, United States",Denison,892,120.0
-Depaul University,"Chicago, Illinois, United States",depaul,7049,114.0
-Diablo Valley College,"Pleasant Hill, California, United States",DVC,982,192.0
-Digipen Institute of Technology,"Redmond, Washington, United States",digipen,708,192.0
-Drexel University,"Philadelphia, Pennsylvania, United States",Drexel,16644,102.0
-Duke University,"Durham, North Carolina, United States",duke,15330,105.0
-Durham College,"Oshawa, Ontario, Canada",durhamcollege,1493,93.0
+Cornell University,"Ithaca, New York, United States",Cornell,63954,113.0
+Dalhousie University,"Halifax, Nova Scotia, Canada",Dalhousie,12057,91.0
+Dartmouth College,"Hanover, New Hampshire, United States",dartmouth,9032,154.0
+Davidson College,"Davidson, North Carolina, United States",davidson,778,132.0
+DePauw University,"Greencastle, Indiana, United States",DePauw,372,93.0
+DeVry University,"Downers Grove, Illinois, United States",devry,185,125.0
+Denison University,"Granville, Ohio, United States",Denison,893,120.0
+Depaul University,"Chicago, Illinois, United States",depaul,7062,114.0
+Diablo Valley College,"Pleasant Hill, California, United States",DVC,989,192.0
+Digipen Institute of Technology,"Redmond, Washington, United States",digipen,709,192.0
+Drexel University,"Philadelphia, Pennsylvania, United States",Drexel,16670,102.0
+Duke University,"Durham, North Carolina, United States",duke,15367,105.0
+Durham College,"Oshawa, Ontario, Canada",durhamcollege,1501,93.0
 Earlham College,"Richmond, Indiana, United States",EarlhamCollege,188,81.0
-East Tennessee State University,"Johnson City, Tennessee, United States",ETSU,1573,97.0
-Eastern Michigan University,"Ypsilanti, Michigan, United States",emu,2043,96.0
-Embry-Riddle Aeronautical University,"Prescott, Arizona, United States",erau,2945,123.0
+East Tennessee State University,"Johnson City, Tennessee, United States",ETSU,1578,97.0
+Eastern Michigan University,"Ypsilanti, Michigan, United States",emu,2047,96.0
+Embry-Riddle Aeronautical University,"Prescott, Arizona, United States",erau,2950,123.0
 Emerson College,"Boston, Massachusetts, United States",EmersonCollege,1644,166.0
-Emory University,"Druid Hills, Georgia, United States",Emory,9317,159.0
-Fanshawe College,"London, Ontario, Canada",fanshawe,5512,93.0
-Florida Atlantic University,"Boca Raton, Florida, United States",FAU,5112,144.0
-Florida Gulf Coast University,"Unincorporated Lee County, Florida, United States",fgcu,2362,
-Florida Institute of Technology,"Melbourne, Florida, United States",floridatech,914,100.0
-Florida International University,"University Park, Florida, United States",FIU,12302,113.0
-Florida State University,"Tallahassee, Florida, United States",fsu,30450,101.0
-Florida State University,"Tallahassee, Florida, United States",fsu,30450,101.0
+Emory University,"Druid Hills, Georgia, United States",Emory,9347,159.0
+Fanshawe College,"London, Ontario, Canada",fanshawe,5522,93.0
+Florida Atlantic University,"Boca Raton, Florida, United States",FAU,5123,144.0
+Florida Gulf Coast University,"Unincorporated Lee County, Florida, United States",fgcu,2368,
+Florida Institute of Technology,"Melbourne, Florida, United States",floridatech,917,100.0
+Florida International University,"University Park, Florida, United States",FIU,12345,113.0
+Florida State University,"Tallahassee, Florida, United States",fsu,30492,101.0
 Folsom Lake College,"Folsom, California, United States",FLC,25,159.0
 Fontbonne University,"St. Louis, Missouri, United States",Fontbonne,80,90.0
-Fordham University,"New York City, New York, United States",Fordham,5088,
+Fordham University,"New York City, New York, United States",Fordham,5102,
 Franklin & Marshall College,"Lancaster, Pennsylvania, United States",fandm,385,96.0
-Full Sail University,"Winter Park, Florida, United States",fullsail,3229,135.0
-Furman University,"Greenville, South Carolina, United States",Furman,400,116.0
-George Mason University,"Fairfax, Virginia, United States",gmu,49764,159.0
+Full Sail University,"Winter Park, Florida, United States",fullsail,3238,135.0
+Full Sail University,"Winter Park, Florida, United States",fullsail,3238,135.0
+Furman University,"Greenville, South Carolina, United States",Furman,402,116.0
+George Mason University,"Fairfax, Virginia, United States",gmu,49793,159.0
 Georgia College and State University,"Milledgeville, Georgia, United States",gcsu,885,89.0
-Georgia Institute of Technology,"Atlanta, Georgia, United States",gatech,52251,116.0
-Georgia Southern University,"Statesboro, Georgia, United States",GSU,3358,89.0
-Georgia State University,"Atlanta, Georgia, United States",GaState,19586,116.0
-Gonzaga University,"Spokane, Washington, United States",Gonzaga,3089,105.0
-Grand Valley State University,"Allendale, Michigan, United States",GVSU,5109,100.0
+Georgia Institute of Technology,"Atlanta, Georgia, United States",gatech,52348,116.0
+Georgia Southern University,"Statesboro, Georgia, United States",GSU,3355,89.0
+Georgia State University,"Atlanta, Georgia, United States",GaState,19622,116.0
+Gonzaga University,"Spokane, Washington, United States",Gonzaga,3095,105.0
+Grand Valley State University,"Allendale, Michigan, United States",GVSU,5136,100.0
 Grant MacEwan University,"Edmonton, Alberta, Canada",GMACEWAN,116,90.0
-Grinnell College,"Grinnell, Iowa, United States",Grinnell,1025,90.0
-Grossmont College,"El Cajon, California, United States",grossmont,169,147.0
-Gulf Coast State College,"Panama City, Florida, United States",gcsc,216,96.0
+Grinnell College,"Grinnell, Iowa, United States",Grinnell,1026,90.0
+Grossmont College,"El Cajon, California, United States",grossmont,172,147.0
 Gustavus Adolphus College,"St. Peter, Minnesota, United States",gustavus,188,97.0
 Hamilton College,"Clinton, New York, United States",hamiltoncollege,517,109.0
-Harford Community College,"Churchville, Maryland, United States",HarfordCC,517,
-Harvard University,"Cambridge, Massachusetts, United States",Harvard,41684,201.0
-Harvey Mudd College,"Claremont, California, United States",harveymudd,974,171.0
+Harvard University,"Cambridge, Massachusetts, United States",Harvard,41778,201.0
+Harvey Mudd College,"Claremont, California, United States",harveymudd,975,171.0
 Henderson State University,"Arkadelphia, Arkansas, United States",HendersonState,98,86.0
 Hillsdale College,"Hillsdale, Michigan, United States",hillsdale,378,83.0
-Houston Community College,"Houston, Texas, United States.",houstoncc,299,101.0
-Humber College,"Toronto, Ontario, Canada",Humber,6339,114.0
-Humboldt State University,"Arcata, California, United States",humboldtstate,3972,128.0
-Hunter College,"New York City, New York, United States",HunterCollege,4063,
-Illinois Institute of Technology,"Chicago, Illinois, United States",IIT,4047,114.0
-Illinois State University,"Normal, Illinois, United States",ilstu,4864,99.0
+Houston Community College,"Houston, Texas, United States.",houstoncc,302,101.0
+Humber College,"Toronto, Ontario, Canada",Humber,6362,114.0
+Humboldt State University,"Arcata, California, United States",humboldtstate,3981,128.0
+Hunter College,"New York City, New York, United States",HunterCollege,4071,
+Illinois Institute of Technology,"Chicago, Illinois, United States",IIT,4075,114.0
+Illinois State University,"Normal, Illinois, United States",ilstu,4873,99.0
 Illinois Wesleyan University,"Bloomington, Illinois, United States",IllinoisWesleyan,8,98.0
 Indiana State University,"Terre Haute, Indiana, United States",indstate,579,88.0
-Indiana University,"Bloomington, Indiana, United States",IndianaUniversity,22355,103.0
-Indiana University of Pennsylvania,"Indianapolis, Indiana, United States",IUP,880,93.0
-Iowa State University,"Ames, Iowa, United States",iastate,22477,103.0
-Ithaca College,"Ithaca, New York, United States",IthacaCollege,1904,113.0
+Indiana University,"Bloomington, Indiana, United States",IndianaUniversity,22387,103.0
+Indiana University of Pennsylvania,"Indianapolis, Indiana, United States",IUP,881,93.0
+Iowa State University,"Ames, Iowa, United States",iastate,22501,103.0
+Ithaca College,"Ithaca, New York, United States",IthacaCollege,1906,113.0
 Jacksonville State University,"Jacksonville, Alabama, United States",JSU,162,90.0
-James Madison University,"Harrisonburg, Virginia, United States",jmu,11630,104.0
+James Madison University,"Harrisonburg, Virginia, United States",jmu,11652,104.0
 John Carroll University,"University Heights, Ohio, United States",jcu,212,97.0
-Johns Hopkins University,"Baltimore, Maryland, United States",jhu,13465,102.0
+Johns Hopkins University,"Baltimore, Maryland, United States",jhu,13477,102.0
 Juniata College,"Huntingdon, Pennsylvania, United States",JuniataCollege,146,93.0
-Kansas State University,"Manhattan, Kansas, United States",KState,4582,101.0
-Kennesaw State University,"Kennesaw, Georgia, United States",KSU,15633,104.0
-Kent State University,"Kent, Ohio, United States",KentStateUniversity,4722,92.0
+Kansas State University,"Manhattan, Kansas, United States",KState,4587,101.0
+Kennesaw State University,"Kennesaw, Georgia, United States",KSU,15644,104.0
+Kent State University,"Kent, Ohio, United States",KentStateUniversity,4734,92.0
 Kettering University,"Flint, Michigan, United States",Kettering,1954,81.0
-Kutztown University of Pennsylvania,"Kutztown, Pennsylvania, United States",kutztown,538,101.0
-Lakehead University,"Thunder Bay, Ontario, Canada",lakeheadu,2634,76.0
-Langara College,"Vancouver, British Columbia, Canada",langara,4494,136.0
-Lawrence University,"Appleton, Wisconsin, United States",lawrenceu,194,93.0
-Lehigh University,"Bethlehem, Pennsylvania, United States",Lehigh,3629,103.0
-Liberty University,"Lynchburg, Virginia, United States",LibertyUniversity,6393,95.0
-Longwood University,"Farmville, Virginia, United States",Longwood,430,97.0
-Louisiana State University,"Baton Rouge, Louisiana, United States",LSU,19710,97.0
+Kutztown University of Pennsylvania,"Kutztown, Pennsylvania, United States",kutztown,540,101.0
+Lakehead University,"Thunder Bay, Ontario, Canada",lakeheadu,2640,76.0
+Langara College,"Vancouver, British Columbia, Canada",langara,4514,136.0
+Lawrence University,"Appleton, Wisconsin, United States",lawrenceu,195,93.0
+Lehigh University,"Bethlehem, Pennsylvania, United States",Lehigh,3647,103.0
+Liberty University,"Lynchburg, Virginia, United States",LibertyUniversity,6398,95.0
+Longwood University,"Farmville, Virginia, United States",Longwood,429,97.0
+Louisiana State University,"Baton Rouge, Louisiana, United States",LSU,19740,97.0
 Louisiana Tech University,"Ruston, Louisiana, United States",LouisianaTech,1970,88.0
-Loyola Marymount University,"Los Angeles, California, United States",LMU,2642,172.0
+Loyola Marymount University,"Los Angeles, California, United States",LMU,2643,172.0
 Luther College Iowa,"Decorah, Iowa, United States",Decorah,279,89.0
 Lyon College,"Batesville, Arkansas, United States",LyonCollege,68,86.0
-MacEwan University,"Edmonton, Alberta, Canada",grantmacewan,5345,90.0
-Macon State College,"Macon, Georgia, United States",Macon_State,230300,
-Manhattan College,"The Bronx, New York, United States",ManhattanCollege,449,
-Marist College,"Poughkeepsie, New York, United States",marist,765,113.0
+MacEwan University,"Edmonton, Alberta, Canada",grantmacewan,5355,90.0
+Manhattan College,"The Bronx, New York, United States",ManhattanCollege,450,
+Marist College,"Poughkeepsie, New York, United States",marist,763,113.0
 Marlboro College,"Marlboro, Vermont, United States",marlborocollege,45,
-Marquette University,"Milwaukee, Wisconsin, United States",Marquette,3302,93.0
-Marshall University,"Huntington, West Virginia, United States",MarshallUniversity,965,86.0
-Massachusetts Institute of Technology,"Cambridge, Massachusetts, United States",mit,31125,201.0
+Marquette University,"Milwaukee, Wisconsin, United States",Marquette,3310,93.0
+Marshall University,"Huntington, West Virginia, United States",MarshallUniversity,970,86.0
+Massachusetts Institute of Technology,"Cambridge, Massachusetts, United States",mit,31203,201.0
 McKendree University,"Lebanon, Illinois, United States",McKendree_University,49,89.0
-McMaster University,"Hamilton, Ontario, Canada",McMaster,49519,97.0
-Miami University - Oxford,"Oxford, Ohio, United States",miamioh,4487,95.0
-Michigan State University,"East Lansing, Michigan, United States",msu,40027,97.0
-Michigan Technological University,"Houghton, Michigan, United States",MTU,7951,93.0
-Middle Tennessee State University,"Murfreesboro, Tennessee, United States",MTSU,3653,107.0
+McMaster University,"Hamilton, Ontario, Canada",McMaster,49578,97.0
+Miami University - Oxford,"Oxford, Ohio, United States",miamioh,4485,95.0
+Michigan State University,"East Lansing, Michigan, United States",msu,40084,97.0
+Michigan Technological University,"Houghton, Michigan, United States",MTU,7960,93.0
+Middle Tennessee State University,"Murfreesboro, Tennessee, United States",MTSU,3661,107.0
 Milwaukee Area Technical College,"Milwaukee, Wisconsin, United States",matc,136,93.0
-Milwaukee School of Engineering,"Milwaukee, Wisconsin, United States",MSOE,1256,93.0
-Mississippi State University,"Starkville, Mississippi, United States",Msstate,8610,89.0
-Missouri State University,"Springfield, Missouri, United States",missouristate,1201,84.0
-Missouri University of Science and Technology,"Rolla, Missouri, United States",Rolla,7377,89.0
-Mohawk College,"Hamilton, Ontario, Canada",mohawkcollege,3677,97.0
-Montana State University,"Bozeman, Montana, United States",MSUcats,3111,134.0
+Milwaukee School of Engineering,"Milwaukee, Wisconsin, United States",MSOE,1257,93.0
+Mississippi State University,"Starkville, Mississippi, United States",Msstate,8616,89.0
+Missouri State University,"Springfield, Missouri, United States",missouristate,1209,84.0
+Missouri University of Science and Technology,"Rolla, Missouri, United States",Rolla,7380,89.0
+Mohawk College,"Hamilton, Ontario, Canada",mohawkcollege,3695,97.0
+Montana State University,"Bozeman, Montana, United States",MSUcats,3114,134.0
 Monterey Peninsula College,"Monterey, California, United States",mpc,314,192.0
-Mount Royal University,"Calgary, Alberta, Canada",MRU,7272,93.0
-Mountain State University,"Beckley, West Virginia, United States",MountainState,3974,88.0
-Mt. San Jacinto College,"San Jacinto, California, United States",MtSanJacintoCollege,37,120.0
+Mount Royal University,"Calgary, Alberta, Canada",MRU,7289,93.0
+Mt. San Jacinto College,"San Jacinto, California, United States",MtSanJacintoCollege,41,120.0
 Murdoch University,"Menifee, California, United States",murdoch,719,133.0
-Murray State University,"Murray, Kentucky, United States",Murray,807,89.0
+Murray State University,"Murray, Kentucky, United States",Murray,806,89.0
 Neumont University,"Salt Lake City, Utah, United States",Neumont,40,122.0
-New Jersey Institute Of Technology,"Newark, New Jersey, United States",NJTech,10178,114.0
-New Mexico Institute of Mining and Technology,"Socorro, New Mexico, United States",nmt,675,91.0
-New Mexico State University,"Las Cruces, New Mexico, United States",nmsu,1923,91.0
-New York University - NYU,"New York City, New York, United States",nyu,77780,
-Niagara College,"Welland, Ontario, Canada",niagaracollege,987,89.0
-Nicholls State University,"Thibodaux, Louisiana, United States",NSU,281,92.0
-North Carolina State University,"Raleigh, North Carolina, United States",NCSU,32715,111.0
-North Dakota State University,"Fargo, North Dakota, United States",NDSU,1304,101.0
-Northeastern University,"Boston, Massachusetts, United States",NEU,36436,166.0
-Northern Alberta Institute of Technology,"Edmonton, Alberta, Canada",NAIT,8313,90.0
-Northern Arizona University,"Flagstaff, Arizona, United States",NAU,8066,129.0
-Northern Illinois University,"DeKalb, Illinois, United States",NIU,4394,93.0
-Northern Kentucky University,"Highland Heights, Kentucky, United States",NKU,901,94.0
-Northwestern University,"Evanston, Illinois, United States",Northwestern,19068,133.0
-Oakland University,"Rochester, Michigan, United States",oaklanduniversity,1645,124.0
-Ohio State University,"Columbus, Ohio, United States",OSU,90273,94.0
-Ohio University,"Athens, Ohio, United States",ohiouniversity,3932,97.0
+New Jersey Institute Of Technology,"Newark, New Jersey, United States",NJTech,10189,114.0
+New Mexico Institute of Mining and Technology,"Socorro, New Mexico, United States",nmt,676,91.0
+New Mexico State University,"Las Cruces, New Mexico, United States",nmsu,1930,91.0
+New York University - NYU,"New York City, New York, United States",nyu,77863,
+Niagara College,"Welland, Ontario, Canada",niagaracollege,989,89.0
+Nicholls State University,"Thibodaux, Louisiana, United States",NSU,282,92.0
+North Carolina State University,"Raleigh, North Carolina, United States",NCSU,32747,111.0
+North Dakota State University,"Fargo, North Dakota, United States",NDSU,1305,101.0
+Northeastern University,"Boston, Massachusetts, United States",NEU,36479,166.0
+Northern Alberta Institute of Technology,"Edmonton, Alberta, Canada",NAIT,8353,90.0
+Northern Arizona University,"Flagstaff, Arizona, United States",NAU,8084,129.0
+Northern Illinois University,"DeKalb, Illinois, United States",NIU,4405,93.0
+Northern Kentucky University,"Highland Heights, Kentucky, United States",NKU,900,94.0
+Northwestern University,"Evanston, Illinois, United States",Northwestern,19122,133.0
+Oakland University,"Rochester, Michigan, United States",oaklanduniversity,1653,124.0
+Northern Illinois University,"DeKalb, Illinois, United States",NIU,4405,93.0
+Northern Kentucky University,"Highland Heights, Kentucky, United States",NKU,900,94.0
+Northwestern University,"Evanston, Illinois, United States",Northwestern,19122,133.0
+Oakland University,"Rochester, Michigan, United States",oaklanduniversity,1653,124.0
+Ohio State University,"Columbus, Ohio, United States",OSU,90461,94.0
+Ohio University,"Athens, Ohio, United States",ohiouniversity,3937,97.0
 Oklahoma City University,"Oklahoma City, Oklahoma, United States",OCU,133,91.0
-Oklahoma State University,"Tulsa, Oklahoma, United States",OKState,10295,90.0
-Old Dominion University,"Norfolk, Virginia, United States",ODU,3787,105.0
-Olin College,"Needham, Massachusetts, United States",olin,282,201.0
+Oklahoma State University,"Tulsa, Oklahoma, United States",OKState,10330,90.0
+Old Dominion University,"Norfolk, Virginia, United States",ODU,3790,105.0
+Olin College,"Needham, Massachusetts, United States",olin,284,201.0
 Orange Coast College,"Costa Mesa, California, United States",OCC,1919,187.0
-Oregon State University,"Corvallis, Oregon, United States",OregonStateUniv,16203,125.0
+Oregon State University,"Corvallis, Oregon, United States",OregonStateUniv,16238,125.0
 Otterbein College,"Westerville, Ohio, United States",Otterbein,140,105.0
-Pace University,"New York City, New York, United States",pace,785,
-Pacific Lutheran University,"Parkland, Washington, United States",PLU,72,121.0
+Pace University,"New York City, New York, United States",pace,786,
+Pacific Lutheran University,"Parkland, Washington, United States",PLU,73,121.0
 Parkland College,"Champaign, Illinois, United States",ParklandCollege,184,96.0
-Penn State University,"University Park, Pennsylvania, United States",PennStateUniversity,43462,
-Pennsylvania College of Technology,"Williamsport, Pennsylvania, United States",gopct,76,90.0
+Penn State University,"University Park, Pennsylvania, United States",PennStateUniversity,43584,
+Pennsylvania College of Technology,"Williamsport, Pennsylvania, United States",gopct,77,90.0
 Pepperdine University,"Malibu, California, United States",Pepperdine,1372,334.0
 Polk State College,"Winter Haven, Florida, United States",PolkStateCollege,171,96.0
-Pomona College,"Claremont, California, United States",pomonacollege,1667,171.0
-Portland State University,"Portland, Oregon, United States",portlandstate,8082,138.0
-Princeton University,"Princeton, New Jersey, United States",princeton,12900,191.0
+Pomona College,"Claremont, California, United States",pomonacollege,1672,171.0
+Portland State University,"Portland, Oregon, United States",portlandstate,8084,138.0
+Princeton University,"Princeton, New Jersey, United States",princeton,12950,191.0
 Providence College,"Providence, Rhode Island, United States",ProvidenceCollege,432,111.0
-Purdue University,"West Lafayette, Indiana, United States",Purdue,75985,105.0
-Queen's University,"Kingston, Ontario, Canada",queensuniversity,27487,88.0
+Purdue University,"West Lafayette, Indiana, United States",Purdue,76107,105.0
+Queen's University,"Kingston, Ontario, Canada",queensuniversity,27537,88.0
 Radford University,"Radford, Virginia, United States",radforduniversity,1145,95.0
-Reed College,"Portland, Oregon, United States",reedcollege,1957,138.0
-Rensselaer Polytechnic Institute,"Troy, New York, United States",RPI,18276,98.0
-Rice University,"Houston, Texas, United States",riceuniversity,9323,101.0
-Riverside Community College,"Riverside, California, United States",RCC,950,136.0
-Rochester Institute of Technology,"Henrietta, New York, United States",rit,29987,
+Reed College,"Portland, Oregon, United States",reedcollege,1962,138.0
+Rensselaer Polytechnic Institute,"Troy, New York, United States",RPI,18284,98.0
+Rice University,"Houston, Texas, United States",riceuniversity,9360,101.0
+Riverside Community College,"Riverside, California, United States",RCC,952,136.0
+Rochester Institute of Technology,"Henrietta, New York, United States",rit,30003,
 Roosevelt University,"Chicago, Illinois, United States",Roosevelt,199,114.0
-Rose Hulman Institue,"Terre Haute, Indiana, United States",rosehulman,2391,88.0
-Rowan University,"Glassboro, New Jersey, United States",RowanUniversity,4413,110.0
-Rutgers University,"New Brunswick, New Jersey, United States",rutgers,73366,120.0
-Ryerson University,"Toronto, Ontario, Canada",ryerson,30511,114.0
+Rose Hulman Institue,"Terre Haute, Indiana, United States",rosehulman,2397,88.0
+Rowan University,"Glassboro, New Jersey, United States",RowanUniversity,4423,110.0
+Rutgers University,"New Brunswick, New Jersey, United States",rutgers,73422,120.0
+Ryerson University,"Toronto, Ontario, Canada",ryerson,30505,114.0
 Saginaw Valley State University,"University Center, Michigan, United States",SVSU,291,
 Saint Edwards University,"Austin, Texas, United States",stedwards,415,120.0
-Saint Francis Xavier University,"Antigonish, Nova Scotia, Canada",stfx,661,86.0
+Saint Francis Xavier University,"Antigonish, Nova Scotia, Canada",stfx,663,86.0
 Saint Joseph's University,"Philadelphia, Pennsylvania, United States",THWND,247,102.0
 Saint Louis University,"St. Louis, Missouri, United States",billikens,907,90.0
-Saint Mary's University,"Halifax, Nova Scotia, Canada",SMUHalifax,1010,91.0
-Saint Olaf College,"Northfield, Minnesota, United States",stolaf,847,103.0
-Salt Lake Community College,"Salt Lake County, Utah, United States",SLCC,866,
-Sam Houston State University,"Huntsville, Texas, United States",SHSU,2537,94.0
-San Diego State University,"San Diego, California, United States",SDSU,26570,168.0
-San Francisco State University,"San Francisco, California, United States",SFSU,10361,237.0
-San Jose State University,"San Jose, California, United States",SJSU,27303,208.0
-Santa Clara University,"Santa Clara, California, United States",SCU,3349,233.0
-Savannah College of Art and Design,"Savannah, Georgia, United States",scad,7886,97.0
-School of Visual Arts,"New York City, New York, United States",sva,1001,
-Scripps College,"Claremont, California, United States",scrippscollege,350,171.0
-Seattle University,"Seattle, Washington, United States",seattleu,1774,180.0
-Seneca College,"Toronto, Ontario, Canada",Seneca,7990,114.0
-Seton Hall University,"South Orange, New Jersey, United States",SHU,327,
-Sheridan College,"Oakville, Ontario, Canada",sheridan,7867,114.0
+Saint Mary's University,"Halifax, Nova Scotia, Canada",SMUHalifax,1011,91.0
+Saint Olaf College,"Northfield, Minnesota, United States",stolaf,852,103.0
+Salt Lake Community College,"Salt Lake County, Utah, United States",SLCC,868,
+Sam Houston State University,"Huntsville, Texas, United States",SHSU,2540,94.0
+San Diego State University,"San Diego, California, United States",SDSU,26607,168.0
+San Francisco State University,"San Francisco, California, United States",SFSU,10364,237.0
+San Jose State University,"San Jose, California, United States",SJSU,27334,208.0
+Santa Clara University,"Santa Clara, California, United States",SCU,3353,233.0
+Savannah College of Art and Design,"Savannah, Georgia, United States",scad,7909,97.0
+School of Visual Arts,"New York City, New York, United States",sva,1002,
+Scripps College,"Claremont, California, United States",scrippscollege,354,171.0
+Seattle University,"Seattle, Washington, United States",seattleu,1777,180.0
+Seneca College,"Toronto, Ontario, Canada",Seneca,8008,114.0
+Seton Hall University,"South Orange, New Jersey, United States",SHU,328,
+Sheridan College,"Oakville, Ontario, Canada",sheridan,7904,114.0
 Siena College,"Loudonville, New York, United States",siena,298,
-Sierra College,"Rocklin, California, United States of America",SierraCollege,445,153.0
-Simon Fraser University,"Burnaby, British Columbia, Canada",simonfraser,25170,122.0
+Sierra College,"Rocklin, California, United States of America",SierraCollege,452,153.0
+Simon Fraser University,"Burnaby, British Columbia, Canada",simonfraser,25258,122.0
 Sonoma State University,"Rohnert Park, California, United States",SSU,874,162.0
-South Dakota School of Mines and Tech,"Rapid City, South Dakota, United States",SDSMT,595,98.0
-Southeast Missouri State University,"Cape Girardeau, Missouri, United States",semo,1094,91.0
-Southern Alberta Institute of Technology,"Calgary, Alberta, Canada",SAIT,6085,93.0
-Southern Illinois University Edwardsville,"Edwardsville, Illinois, United States",SIUE,1861,102.0
-Southern Methodist University,"University Park, Texas, United States",SMU,5584,247.0
+South Dakota School of Mines and Tech,"Rapid City, South Dakota, United States",SDSMT,596,98.0
+Southeast Missouri State University,"Cape Girardeau, Missouri, United States",semo,1095,91.0
+Southern Alberta Institute of Technology,"Calgary, Alberta, Canada",SAIT,6113,93.0
+Southern Illinois University Edwardsville,"Edwardsville, Illinois, United States",SIUE,1865,102.0
+Southern Methodist University,"University Park, Texas, United States",SMU,5602,247.0
 Southern Polytechnic State University,"Marietta, Georgia, United States",SPSU,445,115.0
 St. Petersburg College,"St. Petersburg, Florida, United States",Spc,518,104.0
-Stanford University,"Stanford, California, United States",stanford,41740,325.0
-State University of New York at Oswego - SUNY,"Oswego, New York, United States",Oswego,980,90.0
-State University of New York at Potsdam - SUNY,"Potsdam, New York, United States",Potsdam,1509,96.0
-Stephen F. Austin State University,"Nacogdoches, Texas, United States",SFA,1040,91.0
-Stevens Institute of Technology,"Hoboken, New Jersey, United States",stevens,4727,192.0
-Stony Brook University - SUNY,"Stony Brook, New York, United States",SBU,28986,152.0
-Syracuse University,"Syracuse, New York, United States",SyracuseU,8026,90.0
-Tarleton State University,"Stephenville, Texas, United States",tarleton,333,95.0
-Taylor University,"Upland, Indiana, United States",TaylorUniversity,148,90.0
-Temple University,"Philadelphia, Pennsylvania, United States",Temple,24423,102.0
+Stanford University,"Stanford, California, United States",stanford,41778,325.0
+State University of New York at Oswego - SUNY,"Oswego, New York, United States",Oswego,982,90.0
+State University of New York at Potsdam - SUNY,"Potsdam, New York, United States",Potsdam,1511,96.0
+Stephen F. Austin State University,"Nacogdoches, Texas, United States",SFA,1041,91.0
+Stevens Institute of Technology,"Hoboken, New Jersey, United States",stevens,4736,192.0
+Stony Brook University - SUNY,"Stony Brook, New York, United States",SBU,29080,152.0
+Syracuse University,"Syracuse, New York, United States",SyracuseU,8057,90.0
+Tarleton State University,"Stephenville, Texas, United States",tarleton,335,95.0
+Taylor University,"Upland, Indiana, United States",TaylorUniversity,149,90.0
+Temple University,"Philadelphia, Pennsylvania, United States",Temple,24447,102.0
 Tennessee State University,"Nashville, Tennessee, United States",tsu,114,108.0
-Texas A&M,"College Station, Texas, United States",aggies,65196,105.0
-Texas Christian University,"Fort Worth, Texas, United States",TCU,6123,105.0
-Texas State University,"San Marcos, Texas, United States",txstate,14647,98.0
-Texas Tech University,"Lubbock, Texas, United States",TexasTech,23791,92.0
-The College of New Jersey,"Ewing, New Jersey, United States",TCNJ,2236,
-The College of William and Mary,"Williamsburg, Virginia, United States",williamandmary,6716,119.0
-The Evergreen State College,"Olympia, Washington, United States",evergreen,2118,128.0
-Thomas Edison State University,"Trenton, New Jersey, United States",tesu,683,97.0
-Towson University,"Towson, Maryland, United States",Towson,4268,129.0
-Trent University,"Peterborough, Ontario, Canada",TrentUniversity,4536,92.0
+Texas A&M,"College Station, Texas, United States",aggies,65490,105.0
+Texas Christian University,"Fort Worth, Texas, United States",TCU,6131,105.0
+Texas State University,"San Marcos, Texas, United States",txstate,14732,98.0
+Texas Tech University,"Lubbock, Texas, United States",TexasTech,23852,92.0
+The College of New Jersey,"Ewing, New Jersey, United States",TCNJ,2240,
+The College of William and Mary,"Williamsburg, Virginia, United States",williamandmary,6725,119.0
+The Evergreen State College,"Olympia, Washington, United States",evergreen,2123,128.0
+Thomas Edison State University,"Trenton, New Jersey, United States",tesu,695,97.0
+Towson University,"Towson, Maryland, United States",Towson,4277,129.0
+Trent University,"Peterborough, Ontario, Canada",TrentUniversity,4562,92.0
 Trinity University,"San Antonio, Texas, United States",trinityu,485,95.0
-Troy University,"Troy, Alabama, United States",TroyU,184,91.0
-Tufts University,"Medford, Massachusetts, United States",Tufts,6133,165.0
-Tulane University,"New Orleans, Louisiana, United States",Tulane,6322,106.0
-United States Naval Academy,"Annapolis, Maryland, United States",usna,2817,134.0
-University at Albany - SUNY,"Albany, New York, United States",ualbany,5661,103.0
-University at Buffalo - SUNY,"Buffalo, New York, United States",UBreddit,25113,86.0
-University of Akron,"Akron, Ohio, United States",uakron,1644,84.0
-University of Alabama,"Tuscaloosa, Alabama, United States",capstone,8667,98.0
-University of Alabama at Birmingham,"Birmingham, Alabama, United States",UAB,4262,88.0
-University of Alabama at Huntsville,"Huntsville, Alabama, United States",UAH,4063,98.0
-University of Alberta,"Edmonton, Alberta, Canada",uAlberta,47299,90.0
-University of Arizona,"Tucson, Arizona, United States",UofArizona,18911,101.0
-University of Arkansas,"Fayetteville, Arkansas, United States of America",UniversityofArkansas,4737,103.0
-University of Baltimore,"Baltimore, Maryland, United States",UBALTIMORE,420275,102.0
-University of British Columbia,"Vancouver, British Columbia, Canada",UBC,104915,136.0
-University of British Columbia Okanagan,"Kelowna, British Columbia, Canada",ubco,7791,99.0
-University of Calgary,"Calgary, Alberta, Canada",UCalgary,40973,93.0
-University of California - Berkeley,"Berkeley, California, United States",berkeley,153847,221.0
-University of California - Davis,"Davis, California, United States",UCDavis,46990,171.0
-University of California - Irvine,"Irvine, California, United States",UCI,54922,198.0
-University of California - Los Angeles,"Los Angeles, California, United States",ucla,86903,172.0
-University of California - Merced,"Merced, California, United States",ucmerced,4183,116.0
-University of California - Riverside,"Riverside, California, United States",ucr,26301,136.0
-University of California - San Diego,"San Diego, California, United States",UCSD,90732,168.0
-University of California - Santa Barbara,"Santa Barbara, California, United States",UCSantaBarbara,39804,221.0
-University of California - Santa Cruz,"Santa Cruz, California, United States",UCSC,40336,203.0
-University of Central Arkansas,"Conway, Arkansas, United States",UCA,687,89.0
-University of Central Florida,"Orlando, Florida, United States",ucf,84032,110.0
-University of Central Oklahoma,"Edmond, Oklahoma, United States",UCO,920,106.0
-University of Chicago,"Chicago, Illinois, United States",uchicago,37500,114.0
-University of Cincinnati,"Cincinnati, Ohio, United States",uCinci,12505,95.0
-University of Colorado - Auraria,"Denver, Colorado, United States",cudenver,1304,133.0
-University of Colorado - Boulder,"Boulder, Colorado, United States",cuboulder,27822,169.0
+Troy University,"Troy, Alabama, United States",TroyU,185,91.0
+Tufts University,"Medford, Massachusetts, United States",Tufts,6144,165.0
+Tulane University,"New Orleans, Louisiana, United States",Tulane,6356,106.0
+United States Naval Academy,"Annapolis, Maryland, United States",usna,2833,134.0
+University at Albany - SUNY,"Albany, New York, United States",ualbany,5707,103.0
+University at Buffalo - SUNY,"Buffalo, New York, United States",UBreddit,25145,86.0
+University of Akron,"Akron, Ohio, United States",uakron,1646,84.0
+University of Alabama,"Tuscaloosa, Alabama, United States",capstone,8676,98.0
+University of Alabama at Birmingham,"Birmingham, Alabama, United States",UAB,4268,88.0
+University of Alabama at Huntsville,"Huntsville, Alabama, United States",UAH,4068,98.0
+University of Alberta,"Edmonton, Alberta, Canada",uAlberta,47377,90.0
+University of Arizona,"Tucson, Arizona, United States",UofArizona,18957,101.0
+University of Arkansas,"Fayetteville, Arkansas, United States of America",UniversityofArkansas,4748,103.0
+University of British Columbia,"Vancouver, British Columbia, Canada",UBC,104991,136.0
+University of British Columbia Okanagan,"Kelowna, British Columbia, Canada",ubco,7811,99.0
+University of Calgary,"Calgary, Alberta, Canada",UCalgary,41030,93.0
+University of California - Berkeley,"Berkeley, California, United States",berkeley,153958,221.0
+University of California - Davis,"Davis, California, United States",UCDavis,47067,171.0
+University of California - Irvine,"Irvine, California, United States",UCI,54980,198.0
+University of California - Los Angeles,"Los Angeles, California, United States",ucla,87098,172.0
+University of California - Merced,"Merced, California, United States",ucmerced,4192,116.0
+University of California - Riverside,"Riverside, California, United States",ucr,26375,136.0
+University of California - San Diego,"San Diego, California, United States",UCSD,90823,168.0
+University of California - Santa Barbara,"Santa Barbara, California, United States",UCSantaBarbara,39819,221.0
+University of California - Santa Cruz,"Santa Cruz, California, United States",UCSC,40367,203.0
+University of Central Arkansas,"Conway, Arkansas, United States",UCA,684,89.0
+University of Central Florida,"Orlando, Florida, United States",ucf,84157,110.0
+University of Central Oklahoma,"Edmond, Oklahoma, United States",UCO,922,106.0
+University of Chicago,"Chicago, Illinois, United States",uchicago,37549,114.0
+University of Cincinnati,"Cincinnati, Ohio, United States",uCinci,12541,95.0
+University of Colorado - Auraria,"Denver, Colorado, United States",cudenver,1309,133.0
+University of Colorado - Boulder,"Boulder, Colorado, United States",cuboulder,27837,169.0
 University of Colorado - Colorado Springs,"Colorado Springs, Colorado, United States",UCCS,1326,119.0
-University of Connecticut,"Mansfield, Connecticut, United States",UCONN,26976,
+University of Connecticut,"Mansfield, Connecticut, United States",UCONN,26987,
 University of Dayton,"Dayton, Ohio, United States",uofdayton,1307,85.0
-University of Delaware,"Newark, Delaware, United States",udel,6005,117.0
-University of Denver,"Denver, Colorado, United States",denveru,1052,133.0
-University of Florida,"Gainesville, Florida, United States",ufl,45581,95.0
-University of Georgia,"Athens, Georgia, United States",UGA,32146,97.0
-University of Guelph,"Guelph, Ontario, Canada",uoguelph,16426,97.0
+University of Delaware,"Newark, Delaware, United States",udel,6016,117.0
+University of Denver,"Denver, Colorado, United States",denveru,1054,133.0
+University of Florida,"Gainesville, Florida, United States",ufl,45658,95.0
+University of Georgia,"Athens, Georgia, United States",UGA,32234,97.0
+University of Guelph,"Guelph, Ontario, Canada",uoguelph,16469,97.0
 University of Hartford,"West Hartford, Connecticut, United States",uhart,307,125.0
-University of Hawaii,"Honolulu, Hawaii, United States",UniversityofHawaii,3018,185.0
-University of Houston,"Houston, Texas, United States",UniversityOfHouston,40251,101.0
-University of Houston-Downtown,"Houston, Texas, United States",uhd,1301,101.0
-University of Idaho,"Moscow, Idaho, United States",uofi,1701,108.0
-University of Illinois at Chicago,"Chicago, Illinois, United States",uichicago,15174,114.0
-University of Illinois at Urbana-Champaign,"Urbana-Champaign, Illinois, United States",UIUC,97162,
-University of Iowa,"Iowa City, Iowa, United States",uiowa,8208,104.0
-University of Kansas,"Lawrence, Kansas, United States",UniversityofKansas,7398,98.0
-University of Kentucky,"Lexington, Kentucky, United States",UniversityofKentucky,7374,
-University of Louisiana-Lafayette,"Lafayette, Louisiana, United States",ragincajuns,1409,98.0
-University of Louisville,"Louisville, Kentucky, United States",AllHail,3708,97.0
-University of Manitoba,"Winnipeg, Manitoba, Canada",umanitoba,21152,78.0
-University of Mary Washington,"Fredericksburg, VA, United States",UMW,1042,132.0
-University of Maryland,"College Park, Maryland, United States",UMD,53646,133.0
-University of Maryland-Baltimore County,"Baltimore, Maryland, United States",UMBC,9008,102.0
-University of Massachusetts-Amherst,"Amherst, Massachusetts, United States",umass,22499,
-University of Massachusetts-Dartmouth,"Dartmouth, Massachusetts, United States",umassd,393,
+University of Hawaii,"Honolulu, Hawaii, United States",UniversityofHawaii,3022,185.0
+University of Houston,"Houston, Texas, United States",UniversityOfHouston,40312,101.0
+University of Houston-Downtown,"Houston, Texas, United States",uhd,1305,101.0
+University of Idaho,"Moscow, Idaho, United States",uofi,1703,108.0
+University of Illinois at Chicago,"Chicago, Illinois, United States",uichicago,15223,114.0
+University of Illinois at Urbana-Champaign,"Urbana-Champaign, Illinois, United States",UIUC,97247,
+University of Iowa,"Iowa City, Iowa, United States",uiowa,8226,104.0
+University of Kansas,"Lawrence, Kansas, United States",UniversityofKansas,7408,98.0
+University of Kentucky,"Lexington, Kentucky, United States",UniversityofKentucky,7392,
+University of Louisiana-Lafayette,"Lafayette, Louisiana, United States",ragincajuns,1410,98.0
+University of Louisville,"Louisville, Kentucky, United States",AllHail,3716,97.0
+University of Manitoba,"Winnipeg, Manitoba, Canada",umanitoba,21225,78.0
+University of Mary Washington,"Fredericksburg, VA, United States",UMW,1041,132.0
+University of Maryland,"College Park, Maryland, United States",UMD,53678,133.0
+University of Maryland-Baltimore County,"Baltimore, Maryland, United States",UMBC,9022,102.0
+University of Massachusetts-Amherst,"Amherst, Massachusetts, United States",umass,22510,
+University of Massachusetts-Dartmouth,"Dartmouth, Massachusetts, United States",umassd,394,
 University of Massachusetts-Lowell,"Lowell, Massachusetts, United States",uml,4791,128.0
-University of Memphis,"Memphis, Tennessee, United States",UofMemphis,1539,86.0
-University of Miami,"Coral Gables, Florida, United States",UMiami,5106,187.0
-University of Michigan,"Ann Arbor, Michigan, United States",uofm,58745,122.0
-University of Minnesota,"Minneapolis, Minnesota, United States",uofmn,30458,108.0
+University of Memphis,"Memphis, Tennessee, United States",UofMemphis,1542,86.0
+University of Miami,"Coral Gables, Florida, United States",UMiami,5138,187.0
+University of Michigan,"Ann Arbor, Michigan, United States",uofm,58930,122.0
+University of Minnesota,"Minneapolis, Minnesota, United States",uofmn,30522,108.0
 University of Minnesota Duluth,"Duluth, Minnesota, United States",UofMnDuluth,411,100.0
-University of Mississippi,"Oxford, Mississippi, United States",olemiss,8993,101.0
-University of Missouri,"Columbia, Missouri, United States",mizzou,11885,98.0
-University of Missouri: Kansas City,"Kansas City, Missouri, United States",UMKC,1356,94.0
+University of Mississippi,"Oxford, Mississippi, United States",olemiss,8998,101.0
+University of Missouri,"Columbia, Missouri, United States",mizzou,11906,98.0
+University of Missouri: Kansas City,"Kansas City, Missouri, United States",UMKC,1354,94.0
 University of Montana,"Missoula, Montana, United States",UMT,186,109.0
 University of Montevallo,"Montevallo, Alabama, United States",Montevallo,340,93.0
-University of Nebraska-Lincoln,"Lincoln, Nebraska, United States",UNLincoln,1761,98.0
-"University of Nevada, Las Vegas","Paradise, Nevada, United States",UNLV,13464,106.0
-"University of Nevada, Reno","Reno, Nevada, United States",unr,8825,123.0
-University of New Hampshire,"Durham, New Hampshire, United States",unh,2759,134.0
-University of New Mexico,"Albuquerque, New Mexico, United States",unm,3848,100.0
-University of North Carolina Chapel Hill,"Chapel Hill, North Carolina, United States",tarheels,10295,128.0
-University of North Carolina Charlotte,"Charlotte, North Carolina, United States",UNCCharlotte,17128,108.0
-University of North Carolina Greensboro,"Greensboro, North Carolina, United States",UNCG,2394,93.0
-University of North Carolina Wilmington,"Wilmington, North Carolina, United States",UNCW,3499,109.0
-University of North Dakota,"Grand Forks, North Dakota, United States",und,1692,99.0
-University of North Florida,"Jacksonville, Florida, United States",UNF,3672,98.0
-University of North Texas,"Denton, Texas, United States",unt,25697,115.0
-University of Northern British Columbia,"Prince George, British Columbia, Canada",UNBC,599,86.0
-University of Northern Iowa,"Cedar Falls, Iowa, United States",UNI,1446,93.0
-University of Notre Dame,"Notre Dame, Indiana, United States",notredame,16591,88.0
-University of Oklahoma,"Norman, Oklahoma, United States",sooners,24898,94.0
-University of Ontario Institute of Technology,"Oshawa, Ontario, Canada",uoit,3354,93.0
-University of Ottawa,"Ottawa, Ontario, Canada",geegees,32381,92.0
-University of Pennsylvania,"Philadelphia, Pennsylvania, United States",UPenn,28134,102.0
-University of Pittsburgh,"Pittsburgh, Pennsylvania, United States",Pitt,30308,95.0
+University of Nebraska-Lincoln,"Lincoln, Nebraska, United States",UNLincoln,1767,98.0
+"University of Nevada, Las Vegas","Paradise, Nevada, United States",UNLV,13522,106.0
+"University of Nevada, Reno","Reno, Nevada, United States",unr,8844,123.0
+University of New Hampshire,"Durham, New Hampshire, United States",unh,2763,134.0
+University of New Mexico,"Albuquerque, New Mexico, United States",unm,3851,100.0
+University of North Carolina Chapel Hill,"Chapel Hill, North Carolina, United States",tarheels,10313,128.0
+University of North Carolina Charlotte,"Charlotte, North Carolina, United States",UNCCharlotte,17158,108.0
+University of North Carolina Greensboro,"Greensboro, North Carolina, United States",UNCG,2392,93.0
+University of North Carolina Wilmington,"Wilmington, North Carolina, United States",UNCW,3505,109.0
+University of North Dakota,"Grand Forks, North Dakota, United States",und,1694,99.0
+University of North Florida,"Jacksonville, Florida, United States",UNF,3678,98.0
+University of North Texas,"Denton, Texas, United States",unt,25738,115.0
+University of Northern British Columbia,"Prince George, British Columbia, Canada",UNBC,603,86.0
+University of Northern Iowa,"Cedar Falls, Iowa, United States",UNI,1448,93.0
+University of Notre Dame,"Notre Dame, Indiana, United States",notredame,16644,88.0
+University of Oklahoma,"Norman, Oklahoma, United States",sooners,24959,94.0
+University of Ontario Institute of Technology,"Oshawa, Ontario, Canada",uoit,3361,93.0
+University of Ottawa,"Ottawa, Ontario, Canada",geegees,32427,92.0
+University of Pennsylvania,"Philadelphia, Pennsylvania, United States",UPenn,28205,102.0
+University of Pittsburgh,"Pittsburgh, Pennsylvania, United States",Pitt,30355,95.0
 University of Redlands,"Redlands, California, United States",universityofredlands,319,140.0
-University of Regina,"Regina, Saskatchewan, Canada",University_Of_Regina,1395,89.0
-University of Rochester,"Rochester, New York, United States",URochester,5021,89.0
-University of San Diego,"San Diego, California, United States",USD,1119,168.0
-University of San Francisco,"San Francisco, California, United States",usfca,1922,237.0
-University of Saskatchewan,"Saskatoon, Saskatchewan, Canada",usask,10084,90.0
-University of Scranton,"Scranton, Pennsylvania, United States",universityofscranton,248,89.0
-University of South Carolina,"Columbia, South Carolina, United States",Gamecocks,19539,100.0
-University of South Florida,"Tampa, Florida, United States",USF,26370,107.0
-University of Southern California,"Los Angeles, California, United States",USC,53721,172.0
+University of Regina,"Regina, Saskatchewan, Canada",University_Of_Regina,1397,89.0
+University of Rochester,"Rochester, New York, United States",URochester,5042,89.0
+University of San Diego,"San Diego, California, United States",USD,1121,168.0
+University of San Francisco,"San Francisco, California, United States",usfca,1923,237.0
+University of Saskatchewan,"Saskatoon, Saskatchewan, Canada",usask,10121,90.0
+University of Scranton,"Scranton, Pennsylvania, United States",universityofscranton,247,89.0
+University of South Carolina,"Columbia, South Carolina, United States",Gamecocks,19858,100.0
+University of South Florida,"Tampa, Florida, United States",USF,26415,107.0
+University of Southern California,"Los Angeles, California, United States",USC,53789,172.0
 University of Southern Indiana,"Vanderburgh County, Indiana, United States",USI,268,
-University of St. Thomas,"Houston, Texas, United States",stthomas,281,101.0
-University of Tennessee - Knoxville,"Knoxville, Tennessee, United States",UTK,17500,89.0
-University of Texas - Austin,"Austin, Texas, United States",UTAustin,85722,120.0
-University of Texas - Dallas,"Richardson, Texas, United States",utdallas,32512,125.0
-University of Texas - El Paso,"El Paso, Texas, United States",UTEP,1965,89.0
+University of St. Thomas,"Houston, Texas, United States",stthomas,282,101.0
+University of Tennessee - Knoxville,"Knoxville, Tennessee, United States",UTK,17526,89.0
+University of Texas - Austin,"Austin, Texas, United States",UTAustin,85940,120.0
+University of Texas - Dallas,"Richardson, Texas, United States",utdallas,32565,125.0
+University of Texas - El Paso,"El Paso, Texas, United States",UTEP,1976,89.0
 University of Texas - Pan-American,"Edinburg, Texas, United States",UTPA,248,86.0
-University of Texas - San Antonio,"San Antonio, Texas, United States",UTSA,23953,95.0
+University of Texas - San Antonio,"San Antonio, Texas, United States",UTSA,23996,95.0
+University of Toledo,"Toledo, Ohio, United States",UniversityOfToledo,503,87.0
+University of Toledo,"Toledo, Ohio, United States",UniversityOfToledo,503,87.0
+University of Toronto,"Toronto, Ontario, Canada",UofT,121902,114.0
+University of Tulsa,"Tulsa, Oklahoma, United States",utulsa,1096,90.0
+University of Utah,"Salt Lake City, Utah, United States",uofu,11521,122.0
+University of Vermont,"Burlington, Vermont, United States",UniversityofVermont,6182,124.0
+University of Victoria,"Victoria, British Columbia, Canada",uvic,35674,101.0
+University of Virginia,"Charlottesville, Virginia, United States",UVA,28220,119.0
+University of Washington,"Seattle, Washington, United States",udub,54401,180.0
+University of Washington | Bothell,"Bothell, Washington, United States",uwb,2051,164.0
+University of Waterloo,"Waterloo, Ontario, Canada",uwaterloo,99696,98.0
+University of West Georgia,"Carrollton, Georgia, United States",UWG,614,95.0
+University of Western Ontario,"London, Ontario, Canada",uwo,35719,93.0
+University of Windsor,"Windsor, Ontario, Canada",UWindsor,5971,87.0
+University of Wisconsin - Eau Claire,"Eau Claire, Wisconsin, United States",UWEauClaire,569,98.0
+University of Wisconsin Green Bay,"Green Bay, Wisconsin, United States",uwgb,75,91.0
+University of Wisconsin Madison,"Madison, Wisconsin, United States",UWMadison,39231,115.0
+University of Wisconsin Milwaukee,"Milwaukee, Wisconsin, United States",UWMilwaukee,4863,93.0
+University of Wisconsin Whitewater,"Whitewater, Wisconsin, United States",UWWhitewater,605,101.0
+University of Wyoming,"Laramie, Wyoming, United States",uwyo,1042,101.0
+University of the Fraser Valley,"Abbotsford, British Columbia, Canada",UFV,1895,101.0
+University of the Pacific,"Stockton, California, United States",UoP,483,125.0
+Utah Valley University,"Orem, Utah, United States",UVU,2410,114.0
+Vancouver Island University,"Nanaimo, British Columbia, Canada",VIU,1376,94.0
+Vanderbilt University,"Nashville, Tennessee, United States",Vanderbilt,9609,108.0
+Vassar College,"Poughkeepsie, New York, United States",vassar,1245,113.0
+Ventura County Community Colleges,"Ventura, California, United States",vcccd,54,
+Villanova University,"Villanova, Pennsylvania, United States",villanova,6072,
+Virginia Commonwealth University,"Richmond, Virginia, United States",vcu,14708,108.0
+Virginia Tech,"Blacksburg, Virginia, United States",VirginiaTech,45839,114.0
+Wake Forest University,"Winston-Salem, North Carolina, United States",wfu,2048,95.0
+Wake Technical Community College,"Raleigh, North Carolina, United States",WakeTech,1498,111.0
+Washington State University,"Pullman, Washington, United States",wsu,16174,114.0
+Washington University in St. Louis,"St. Louis, Missouri, United States",washu,11529,90.0
+Wayne State University,"Detroit, Michigan, United States",waynestate,4641,84.0
+Wellesley College,"Wellesley, Massachusetts, United States",WellesleyCollege,727,242.0
+Wentworth Institute of Technology,"Boston, Massachusetts, United States",WIT,2,166.0
+Wesleyan University,"Middletown, Connecticut, United States",Wesleyan,1424,112.0
+West Chester University,"West Chester, Pennsylvania, United States",wcupa,1084,130.0
+West Liberty University,"West Liberty, West Virginia, United States",westliberty,41,99.0
+West Texas A&M University,"Canyon, Texas, United States",wtamu,283,92.0
+West Virginia University,"Morgantown, West Virginia, United States",WVU,13062,99.0
+Western Carolina University,"Cullowhee, North Carolina, United States",WCU,1594,111.0
+Western Connecticut State University,"Danbury, Connecticut, United States",Wcsu,123,128.0
+Western Governors University,"Salt Lake City, Utah, United States",WGU,132154,122.0
+Western Kentucky University,"Bowling Green, Kentucky, United States",WKU,2296,94.0
+Western Michigan University,"Kalamazoo, Michigan, United States",WMU,3920,86.0
+Western Washington University,"Bellingham, Washington, United States",WWU,13952,138.0
+Westminster College SLC,"Salt Lake City, Utah, United States",WestminsterCollege,43,122.0
+Westmont College In Santa Barbara,"Santa Barbara, California, United States",Westmont,99,221.0
+Wheaton College,"Wheaton, Illinois, United States",Wheaton,328,127.0
+Widener University,"Chester, Pennsylvania, United States",Widener,198,89.0
+Wilfrid Laurier University,"Waterloo, Ontario, Canada",wlu,22695,98.0
+Williams College,"Williamstown, Massachusetts, United States",WilliamsCollege,2061,123.0
+Worcester Polytechnic Institute,"Worcester, Massachusetts, United States",WPI,9001,114.0
+Wright State University,"Fairborn, Ohio, United States",wrightstate,911,92.0
+Yale University,"New Haven, Connecticut, United States",yale,17665,112.0
+York University in Toronto,"Toronto, Ontario, Canada",yorku,49417,114.0

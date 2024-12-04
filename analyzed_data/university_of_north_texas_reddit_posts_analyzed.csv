@@ -1,4 +1,32 @@
 Title,Date,sentiment,target_word_count,cost_of_living
+returning rented textbooks,2024-12-02T20:13:21+00:00,0.0,0,115.0
+Student Apartment Re-let for Spring,2024-12-02T19:48:48+00:00,0.0,0,115.0
+Discovery Park Parking?,2024-12-02T19:46:14+00:00,0.0,0,115.0
+Transferring outta here,2024-12-02T07:32:59+00:00,0.0,0,115.0
+Fuck unt,2024-12-02T04:04:55+00:00,-0.5423,0,115.0
+Is the criminal justice program here any good?,2024-12-01T21:32:26+00:00,0.4404,0,115.0
+January Lease Takeover,2024-12-01T20:18:40+00:00,0.0,0,115.0
+Questions not finalized on Common App ( admissions),2024-12-01T16:53:36+00:00,0.0,1,115.0
+Lead Female Vocals Needed,2024-12-01T15:39:59+00:00,0.0,0,115.0
+Dorm availability,2024-12-01T16:03:21+00:00,0.0,0,115.0
+Looking to Make Friends✨,2024-12-01T03:54:34+00:00,0.0,0,115.0
+To the comm design majors,2024-12-01T03:07:31+00:00,0.0,0,115.0
+Is the graphic design program worth it?,2024-12-01T00:14:32+00:00,0.2263,0,115.0
+How does winter break work :(,2024-11-30T23:51:35+00:00,-0.4404,0,115.0
+Should I commute/ What merits are there to living on campus,2024-11-30T23:47:20+00:00,0.4019,0,115.0
+Media Arts??,2024-11-30T22:55:57+00:00,0.0,0,115.0
+Got accepted but haven’t paid the app fee yet…?,2024-11-30T21:31:15+00:00,0.1406,0,115.0
+Is there class this Monday?,2024-11-30T16:11:36+00:00,0.0,0,115.0
+Questions About Admission and Scholarships,2024-11-30T14:35:43+00:00,0.0,0,115.0
+On campus housing,2024-11-30T13:07:22+00:00,0.0,0,115.0
+Scholarships for international students,2024-11-30T09:28:23+00:00,0.0,0,115.0
+Honors Contract,2024-11-30T08:03:05+00:00,0.5106,0,115.0
+Application Fee,2024-11-30T05:40:25+00:00,0.0,0,115.0
+Dining payments deadline to avoid dropped classes?,2024-11-30T02:05:27+00:00,-0.296,1,115.0
+My professor overloads us with work even during thanksgiving,2024-11-29T23:48:53+00:00,0.0,0,115.0
+My professor overloads us with work even during thanksgiving,2024-11-29T23:55:29+00:00,0.0,0,115.0
+Does anyone regret majoring in psychology,2024-11-29T21:24:11+00:00,-0.4215,0,115.0
+Are assignments/labs during the break allowed?,2024-11-29T18:26:02+00:00,0.0,1,115.0
 20M Looking for friends,2024-11-28T17:49:04+00:00,0.4767,0,115.0
 Looking for Detailed Computer Science Course Descriptions and Semester Plans at UNT,2024-11-28T15:41:35+00:00,0.0,0,115.0
 Application fee waiver!,2024-11-28T15:40:52+00:00,0.0,0,115.0
@@ -132,7 +160,6 @@ Looking to relet Nov/Dec,2024-11-13T15:55:20+00:00,0.0,0,115.0
 Math Placement Test,2024-11-13T16:09:54+00:00,0.0,1,115.0
 Rental car with no UNT sticker,2024-11-13T13:26:07+00:00,-0.296,0,115.0
 (possible) Incoming freshman here with some questions,2024-11-13T06:17:57+00:00,0.0,0,115.0
-Bioinformatics,2024-11-13T01:42:52+00:00,0.0,0,115.0
 Inquiring about MA,2024-11-13T00:57:17+00:00,0.0,0,115.0
 Two letter of recommendations for individual review?,2024-11-13T00:08:06+00:00,0.0,0,115.0
 Previously Offered Criminalistics Certification?,2024-11-12T23:43:52+00:00,0.0,0,115.0
@@ -146,7 +173,6 @@ Where to eat with cash?,2024-11-12T07:47:45+00:00,0.0,0,115.0
 Subleasing my apartment 33North Denton UNT,2024-11-12T07:39:32+00:00,0.0,0,115.0
 Blind Music Student,2024-11-12T04:47:42+00:00,-0.4019,0,115.0
 Online enrollment Issue,2024-11-11T22:48:20+00:00,0.0,0,115.0
-TECM 2700 during Wintermester,2024-11-11T21:20:45+00:00,0.0,0,115.0
 Breaking student code of conduct,2024-11-11T19:32:49+00:00,0.0,0,115.0
 Any Scholarship for Continuing International Student?,2024-11-11T17:54:46+00:00,0.0,0,115.0
 Winter Class: Art History Survey II??,2024-11-11T17:15:08+00:00,0.0,0,115.0
@@ -172,7 +198,6 @@ My grades are poor will i still get in?,2024-11-08T14:19:51+00:00,-0.4767,0,115.
 UNT Excellence Scholarships,2024-11-08T03:34:46+00:00,0.6249,0,115.0
 Society of Plastic Engineers,2024-11-08T00:44:24+00:00,0.0,0,115.0
 What do you do in stage production I?,2024-11-07T22:44:19+00:00,0.0,0,115.0
-Deadline to drop from classes with a W?,2024-11-07T23:13:17+00:00,-0.2732,1,115.0
 new friends !!,2024-11-07T21:12:47+00:00,0.5696,0,115.0
 finding roommates,2024-11-07T20:25:56+00:00,0.0,0,115.0
 League of legends players needed,2024-11-07T19:59:16+00:00,0.0,0,115.0
@@ -217,45 +242,3 @@ How does one STOP going to UNT?,2024-11-04T18:04:06+00:00,-0.4466,0,115.0
 Is dropping a class my best option?,2024-11-04T15:15:25+00:00,0.6369,0,115.0
 Troubles with advising,2024-11-04T14:46:19+00:00,-0.4588,0,115.0
 Are all lowest test grades dropped?,2024-11-04T07:23:02+00:00,-0.3818,1,115.0
-Does anyone know an easy life and physical science course ??,2024-11-04T03:02:03+00:00,0.504,0,115.0
-High-Octane Police Chase,2024-11-03T23:44:35+00:00,0.0,0,115.0
-UNT Shuttle service Info,2024-11-03T23:37:38+00:00,0.0,0,115.0
-Easiest creative arts course 2024,2024-11-03T22:57:03+00:00,0.6908,0,115.0
-2x2 available!,2024-11-03T21:25:23+00:00,0.0,0,115.0
-Orientation,2024-11-03T15:55:13+00:00,0.0,0,115.0
-Tell me about your major.,2024-11-03T15:16:34+00:00,0.0,0,115.0
-Just got in,2024-11-03T13:31:45+00:00,0.0,0,115.0
-Looking for Someone I Can Sublet My Room in My Apartment To!,2024-11-03T00:35:31+00:00,0.0,0,115.0
-stats class,2024-11-02T23:42:12+00:00,0.0,0,115.0
-Looking for a Female Roommate to Share a room in a 2B1.5B flat,2024-11-02T21:22:29+00:00,0.296,0,115.0
-Masters graduation cap and gown,2024-11-02T12:47:16+00:00,0.0,0,115.0
-"If I remember correctly, does UNT have 3D printing services?",2024-11-02T07:07:24+00:00,0.0,0,115.0
-2025 Apartments,2024-11-02T05:22:25+00:00,0.0,0,115.0
-in need of more friends 🤷‍♀️,2024-11-02T00:20:09+00:00,0.5256,0,115.0
-Cap & gown for graduation?,2024-11-01T18:35:37+00:00,0.0,0,115.0
-BCIS or Business Analytics,2024-11-01T16:12:22+00:00,0.0,0,115.0
-UNT OR UTD?,2024-11-01T05:49:52+00:00,0.0,0,115.0
-FRY STREET BARS,2024-11-01T03:55:28+00:00,0.0,0,115.0
-Who are the best pre-med professors for research?,2024-10-31T18:58:20+00:00,0.6369,0,115.0
-Looking for patients for graduation requirements.,2024-10-31T18:57:23+00:00,0.0,0,115.0
-Chosen name for ID?,2024-10-31T17:56:41+00:00,0.0,0,115.0
-Avesta,2024-10-31T17:20:42+00:00,0.0,0,115.0
-How do i send in application fee waiver?,2024-10-31T17:13:45+00:00,0.0,0,115.0
-Anyone interested in joining my student organization?,2024-10-31T15:59:21+00:00,0.4019,0,115.0
-Anyone want to take over my lease?,2024-10-31T15:40:22+00:00,0.0772,0,115.0
-Roommate Needed,2024-10-31T15:26:06+00:00,0.0,0,115.0
-Reletting Apartment For Spring 2025 At the Ridge,2024-10-31T14:56:59+00:00,0.0,0,115.0
-Halloween costumes 🎃🕷️🕸️🦇🔮,2024-10-31T04:32:16+00:00,0.0,0,115.0
-Recording Studio,2024-10-31T06:32:30+00:00,0.0,0,115.0
-Graduation,2024-10-31T04:36:57+00:00,0.0,0,115.0
-Graduate Application,2024-10-30T23:42:04+00:00,0.0,0,115.0
-How do I get a volunteer position in a Mechanical Engineering role?,2024-10-30T22:19:13+00:00,0.0,0,115.0
-BUIS 4940 professors,2024-10-30T21:41:38+00:00,0.0,0,115.0
-BCIS MAJORS,2024-10-30T16:05:41+00:00,0.0,0,115.0
-Questions about two professors,2024-10-30T15:57:00+00:00,0.0,0,115.0
-trick or treating,2024-10-30T15:37:34+00:00,-0.0516,0,115.0
-Am I overloading myself?,2024-10-30T15:18:14+00:00,0.0,0,115.0
-How hard is it to get into the PSci grad track?,2024-10-30T15:12:58+00:00,-0.1027,0,115.0
-Just got admitted but have a few questions,2024-10-30T14:25:20+00:00,0.0516,0,115.0
-Ring Ceremomy Participation,2024-10-30T14:10:05+00:00,0.0,0,115.0
-Race track,2024-10-30T12:05:00+00:00,0.0,0,115.0

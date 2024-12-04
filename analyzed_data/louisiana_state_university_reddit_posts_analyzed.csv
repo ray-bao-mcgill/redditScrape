@@ -1,4 +1,23 @@
 Title,Date,sentiment,target_word_count,cost_of_living
+Anyone selling a cap and gown?,2024-12-04T03:38:11+00:00,0.0,0,97.0
+Application,2024-12-04T02:44:29+00:00,0.0,0,97.0
+Skate Buddies,2024-12-03T23:59:29+00:00,0.0,0,97.0
+Looking for someone to take Senior Photos,2024-12-03T09:46:19+00:00,0.0,0,97.0
+Tops disbursed but not given,2024-12-03T06:23:21+00:00,0.2846,0,97.0
+Wasn’t there a hotel on campus in the 80’s and not The Cook Hotel?,2024-12-03T00:08:55+00:00,0.0,0,97.0
+Pelican Promise,2024-12-02T22:12:23+00:00,0.3182,0,97.0
+Current LSU Student in Marketing Class,2024-12-02T14:52:17+00:00,0.0,0,97.0
+Tiger Trails,2024-12-02T13:53:52+00:00,0.0,0,97.0
+Applying,2024-12-02T01:20:56+00:00,0.0,0,97.0
+What is considered a passing in the College engineering for Calculus?,2024-12-01T21:41:04+00:00,0.0,0,97.0
+Do I have a shot of getting into LSU?,2024-12-01T20:46:00+00:00,0.0,0,97.0
+Maison Burbank,2024-12-01T19:31:30+00:00,0.0,0,97.0
+LSU Email,2024-12-01T16:26:07+00:00,0.0,0,97.0
+General Business/ IT Management worth it?,2024-12-01T13:06:27+00:00,0.2263,0,97.0
+Nursing students,2024-12-01T08:20:17+00:00,0.0,0,97.0
+Best single person apartments,2024-11-30T21:06:21+00:00,0.6369,0,97.0
+Summer Classes,2024-11-29T20:45:08+00:00,0.0,0,97.0
+Sports Management & Graduate Assistantship,2024-11-29T20:09:15+00:00,0.0,0,97.0
 Selective Admissions,2024-11-29T06:03:47+00:00,0.0,0,97.0
 LSU Vet Med school,2024-11-29T04:28:40+00:00,0.0,0,97.0
 Confused about scheduling labs,2024-11-29T04:25:39+00:00,-0.3182,0,97.0
@@ -68,7 +87,6 @@ fall 2025 admissions,2024-11-16T17:48:39+00:00,0.0,0,97.0
 Affordable Apartments Within 10-15 Mile Radius of LSU?,2024-11-16T17:30:16+00:00,0.0,0,97.0
 Stamps scholarship,2024-11-16T01:05:29+00:00,0.0,0,97.0
 r/LSU_Engineering/ Revived,2024-11-15T17:23:17+00:00,0.0,0,97.0
-LSU Online,2024-11-15T07:06:45+00:00,0.0,0,97.0
 Why does eduroam fucking suck?,2024-11-15T02:15:07+00:00,-0.4927,0,97.0
 Exst 2201 lab,2024-11-14T22:52:11+00:00,0.0,0,97.0
 LSU Spring 2025: No update on admission decision,2024-11-14T18:55:54+00:00,-0.296,0,97.0
@@ -128,35 +146,3 @@ ISO Female Model,2024-11-04T18:00:33+00:00,0.0,0,97.0
 Poli Sci James Stoner,2024-11-04T17:27:48+00:00,0.0,0,97.0
 I don't think I'll get accepted into LSU.,2024-11-04T05:50:07+00:00,0.2732,0,97.0
 temp license plate,2024-11-04T04:26:34+00:00,0.0,0,97.0
-Chem final,2024-11-03T22:58:06+00:00,0.0,1,97.0
-ISDS 2000,2024-11-03T22:49:00+00:00,0.0,0,97.0
-PHIL 2020,2024-11-03T21:09:46+00:00,0.0,0,97.0
-Spring Schdeule,2024-11-03T21:09:37+00:00,0.0,0,97.0
-What are the dorms like at lsu?,2024-11-03T14:39:41+00:00,0.3612,0,97.0
-MS specialization programs in AI/ML/DS,2024-11-03T11:01:47+00:00,0.0,0,97.0
-Where are the nicest apartments not too far from LSU for an older veterinary student?,2024-11-03T02:53:23+00:00,0.4939,0,97.0
-Is it okay to write about athletics in my honors college application essay?,2024-11-02T22:42:01+00:00,0.6369,1,97.0
-Is NSLS worth it?,2024-11-02T21:38:25+00:00,0.2263,0,97.0
-Navigate is Useless,2024-11-02T21:02:32+00:00,-0.4215,0,97.0
-In-State,2024-11-02T19:28:01+00:00,0.0,0,97.0
-Stop using Grammarly to help you with your papers.,2024-11-02T16:47:03+00:00,-0.296,0,97.0
-Looking to Tailgate For Bama,2024-11-02T15:29:02+00:00,0.0,0,97.0
-Vet School undergrad question,2024-11-02T15:23:22+00:00,0.0,0,97.0
-how’s CHE 4420?,2024-11-02T12:22:08+00:00,0.0,0,97.0
-Approved electives for socl/ psych major?,2024-11-01T22:59:42+00:00,0.4215,0,97.0
-struggling with classes,2024-11-01T20:47:54+00:00,-0.6124,0,97.0
-scholarship,2024-11-01T19:53:13+00:00,0.0,0,97.0
-Latin Prof Barto,2024-11-01T00:22:36+00:00,0.0,0,97.0
-Scheduling,2024-10-31T23:53:47+00:00,0.0,0,97.0
-Scheduling,2024-10-31T22:38:07+00:00,0.0,0,97.0
-Halloween activities tonight,2024-10-31T19:52:26+00:00,0.0,0,97.0
-Housing,2024-10-31T19:02:28+00:00,0.0,0,97.0
-Drum practice room for non-music majors?,2024-10-31T17:27:57+00:00,0.0,0,97.0
-What should I do?,2024-10-31T15:31:43+00:00,0.0,0,97.0
-Acceptance,2024-10-31T02:58:41+00:00,0.4588,0,97.0
-Required academic meeting?,2024-10-31T02:34:52+00:00,0.0,0,97.0
-jhop,2024-10-31T01:47:21+00:00,0.0,0,97.0
-Triple Majoring,2024-10-31T00:41:50+00:00,0.0,0,97.0
-Wildwood Sublease,2024-10-30T22:04:02+00:00,0.0,0,97.0
-Parking tickets in PFT lot,2024-10-30T18:34:39+00:00,0.0,0,97.0
-Guys am i cooked,2024-10-30T15:36:17+00:00,-0.6369,0,97.0

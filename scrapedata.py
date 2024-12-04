@@ -88,7 +88,7 @@ def main():
 
     # Read top 100 universities from CSV
     try:
-        df = pd.read_csv('redditScrape/data/top100_universities.csv')
+        df = pd.read_csv('redditScrape/data/top200_universities.csv')
         
         subreddits = [
             {
@@ -98,11 +98,11 @@ def main():
             for _, row in df.iterrows()
         ]
         
-        print(f"Loaded {len(subreddits)} subreddits from top 100 universities")
+        print(f"Loaded {len(subreddits)} subreddits from top 200 universities")
         print(f"Resuming from index {last_idx}")
         
     except Exception as e:
-        print(f"Error loading top 100 universities: {e}")
+        print(f"Error loading top 200 universities: {e}")
         return
 
     try:
