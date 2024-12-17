@@ -1,0 +1,1193 @@
+Total universities processed: 243
+Successfully matched: 209
+==================================================
+
+Original: algonquin_college
+Cleaned: algonquin
+NO MATCH FOUND
+--------------------------------------------------
+Original: appalachian_state_university
+Cleaned: appalachian state
+EXACT MATCH -> Appalachian State University
+STUFACR: 16.0, UGDS: 18467.0
+--------------------------------------------------
+Original: arizona_state_university
+MANUAL MATCH -> Arizona State University Campus Immersion
+STUFACR: 19.0, UGDS: 64778.0
+--------------------------------------------------
+Original: auburn_university
+Cleaned: auburn
+EXACT MATCH -> Auburn University
+STUFACR: 20.0, UGDS: 25234.0
+--------------------------------------------------
+Original: ball_state_university
+Cleaned: ball state
+EXACT MATCH -> Ball State University
+STUFACR: 15.0, UGDS: 13466.0
+--------------------------------------------------
+Original: baruch_college
+MANUAL MATCH -> CUNY Bernard M Baruch College
+STUFACR: 19.0, UGDS: 15554.0
+--------------------------------------------------
+Original: baylor_university
+Cleaned: baylor
+EXACT MATCH -> Baylor University
+STUFACR: 15.0, UGDS: 15134.0
+--------------------------------------------------
+Original: berklee_college
+MANUAL MATCH -> Berklee College of Music
+STUFACR: 10.0, UGDS: 7395.0
+--------------------------------------------------
+Original: binghamton_university
+Cleaned: binghamton
+EXACT MATCH -> Binghamton University
+STUFACR: 19.0, UGDS: 14398.0
+--------------------------------------------------
+Original: boston_college
+Cleaned: boston
+EXACT MATCH -> Boston University
+STUFACR: 11.0, UGDS: 17668.0
+--------------------------------------------------
+Original: boston_university
+Cleaned: boston
+EXACT MATCH -> Boston University
+STUFACR: 11.0, UGDS: 17668.0
+--------------------------------------------------
+Original: bowling_green_state_university
+MANUAL MATCH -> Bowling Green State University-Firelands
+STUFACR: 16.0, UGDS: 1082.0
+--------------------------------------------------
+Original: brandeis_university
+Cleaned: brandeis
+EXACT MATCH -> Brandeis University
+STUFACR: 10.0, UGDS: 3675.0
+--------------------------------------------------
+Original: brigham_young_university
+Cleaned: brigham young
+EXACT MATCH -> Brigham Young University
+STUFACR: 21.0, UGDS: 31411.0
+--------------------------------------------------
+Original: british_columbia_institute_of_technology
+Cleaned: british columbia
+NO MATCH FOUND
+--------------------------------------------------
+Original: brock_university
+Cleaned: brock
+NO MATCH FOUND
+--------------------------------------------------
+Original: broward_college
+Cleaned: broward
+EXACT MATCH -> Broward College
+STUFACR: 29.0, UGDS: 24521.0
+--------------------------------------------------
+Original: brown_university
+Cleaned: brown
+EXACT MATCH -> Brown University
+STUFACR: 6.0, UGDS: 7222.0
+--------------------------------------------------
+Original: california_polytechnic_state_university_-_pomona
+Cleaned: california polytechnic pomona state
+EXACT MATCH -> California State Polytechnic University-Pomona
+STUFACR: 25.0, UGDS: 25080.0
+--------------------------------------------------
+Original: california_polytechnic_state_university
+Cleaned: california polytechnic state
+FUZZY MATCH -> California State Polytechnic University-Pomona
+Matched with: california polytechnic pomona state
+STUFACR: 25.0, UGDS: 25080.0
+--------------------------------------------------
+Original: california_state_university_-_chico
+Cleaned: california chico state
+EXACT MATCH -> California State University-Chico
+STUFACR: 20.0, UGDS: 12853.0
+--------------------------------------------------
+Original: california_state_university_-_east_bay
+Cleaned: bay california east state
+EXACT MATCH -> California State University-East Bay
+STUFACR: 22.0, UGDS: 10709.0
+--------------------------------------------------
+Original: california_state_university_-_fullerton
+Cleaned: california fullerton state
+EXACT MATCH -> California State University-Fullerton
+STUFACR: 24.0, UGDS: 35249.0
+--------------------------------------------------
+Original: california_state_university_-_long_beach
+Cleaned: beach california long state
+EXACT MATCH -> California State University-Long Beach
+STUFACR: 22.0, UGDS: 32780.0
+--------------------------------------------------
+Original: california_state_university_-_northridge
+Cleaned: california northridge state
+EXACT MATCH -> California State University-Northridge
+STUFACR: 24.0, UGDS: 32103.0
+--------------------------------------------------
+Original: california_state_university_-_sacramento
+Cleaned: california sacramento state
+EXACT MATCH -> California State University-Sacramento
+STUFACR: 24.0, UGDS: 28544.0
+--------------------------------------------------
+Original: california_state_university_-_san_bernardino
+Cleaned: bernardino california san state
+EXACT MATCH -> California State University-San Bernardino
+STUFACR: 23.0, UGDS: 16712.0
+--------------------------------------------------
+Original: california_state_university_-_san_marcos
+Cleaned: california marcos san state
+EXACT MATCH -> California State University-San Marcos
+STUFACR: 23.0, UGDS: 13844.0
+--------------------------------------------------
+Original: california_state_university_fresno
+Cleaned: california fresno state
+EXACT MATCH -> California State University-Fresno
+STUFACR: 21.0, UGDS: 20985.0
+--------------------------------------------------
+Original: carleton_university
+Cleaned: carleton
+EXACT MATCH -> Carleton College
+STUFACR: 8.0, UGDS: 2007.0
+--------------------------------------------------
+Original: carnegie_mellon_university
+Cleaned: carnegie mellon
+EXACT MATCH -> Carnegie Mellon University
+STUFACR: 5.0, UGDS: 7005.0
+--------------------------------------------------
+Original: case_western_reserve_university
+Cleaned: case reserve western
+EXACT MATCH -> Case Western Reserve University
+STUFACR: 9.0, UGDS: 5927.0
+--------------------------------------------------
+Original: central_michigan_university
+Cleaned: central michigan
+EXACT MATCH -> Central Michigan University
+STUFACR: 17.0, UGDS: 10297.0
+--------------------------------------------------
+Original: city_university_of_new_york
+Cleaned: city new york
+FUZZY MATCH -> CUNY New York City College of Technology
+Matched with: city cuny new york
+STUFACR: 15.0, UGDS: 12312.0
+--------------------------------------------------
+Original: clemson_university
+Cleaned: clemson
+EXACT MATCH -> Clemson University
+STUFACR: 16.0, UGDS: 22467.0
+--------------------------------------------------
+Original: colorado_school_of_mines
+Cleaned: colorado mines school
+EXACT MATCH -> Colorado School of Mines
+STUFACR: 17.0, UGDS: 5662.0
+--------------------------------------------------
+Original: colorado_state_university
+Cleaned: colorado state
+FUZZY MATCH -> Western Colorado University
+Matched with: colorado western
+STUFACR: 16.0, UGDS: 1673.0
+--------------------------------------------------
+Original: columbia_university
+Cleaned: columbia
+EXACT MATCH -> Columbia College
+STUFACR: 12.0, UGDS: 182.0
+--------------------------------------------------
+Original: conestoga_college_institute_of_technology_and_advanced_learning
+Cleaned: advanced and conestoga learning
+NO MATCH FOUND
+--------------------------------------------------
+Original: cornell_university
+Cleaned: cornell
+EXACT MATCH -> Cornell University
+STUFACR: 9.0, UGDS: 15676.0
+--------------------------------------------------
+Original: dalhousie_university
+Cleaned: dalhousie
+NO MATCH FOUND
+--------------------------------------------------
+Original: dartmouth_college
+Cleaned: dartmouth
+EXACT MATCH -> Dartmouth College
+STUFACR: 7.0, UGDS: 4412.0
+--------------------------------------------------
+Original: depaul_university
+Cleaned: depaul
+EXACT MATCH -> DePaul University
+STUFACR: 17.0, UGDS: 13968.0
+--------------------------------------------------
+Original: drexel_university
+Cleaned: drexel
+EXACT MATCH -> Drexel University
+STUFACR: 9.0, UGDS: 13933.0
+--------------------------------------------------
+Original: duke_university
+Cleaned: duke
+EXACT MATCH -> Duke University
+STUFACR: 6.0, UGDS: 6570.0
+--------------------------------------------------
+Original: embry-riddle_aeronautical_university
+Cleaned: aeronautical embry riddle
+FUZZY MATCH -> Embry-Riddle Aeronautical University-Prescott
+Matched with: aeronautical embry prescott riddle
+STUFACR: 18.0, UGDS: 3114.0
+--------------------------------------------------
+Original: emory_university
+Cleaned: emory
+EXACT MATCH -> Emory University
+STUFACR: 9.0, UGDS: 7017.0
+--------------------------------------------------
+Original: fanshawe_college
+Cleaned: fanshawe
+NO MATCH FOUND
+--------------------------------------------------
+Original: florida_atlantic_university
+Cleaned: atlantic florida
+EXACT MATCH -> Florida Atlantic University
+STUFACR: 22.0, UGDS: 23074.0
+--------------------------------------------------
+Original: florida_gulf_coast_university
+Cleaned: coast florida gulf
+EXACT MATCH -> Florida Gulf Coast University
+STUFACR: 20.0, UGDS: 13788.0
+--------------------------------------------------
+Original: florida_international_university
+Cleaned: florida international
+EXACT MATCH -> Florida International University
+STUFACR: 24.0, UGDS: 39277.0
+--------------------------------------------------
+Original: florida_state_university
+Cleaned: florida state
+EXACT MATCH -> Florida State University
+STUFACR: 17.0, UGDS: 32691.0
+--------------------------------------------------
+Original: fordham_university
+Cleaned: fordham
+EXACT MATCH -> Fordham University
+STUFACR: 14.0, UGDS: 9843.0
+--------------------------------------------------
+Original: full_sail_university
+Cleaned: full sail
+EXACT MATCH -> Full Sail University
+STUFACR: 34.0, UGDS: 25526.0
+--------------------------------------------------
+Original: george_mason_university
+Cleaned: george mason
+EXACT MATCH -> George Mason University
+STUFACR: 16.0, UGDS: 26447.0
+--------------------------------------------------
+Original: georgia_institute_of_technology
+Cleaned: georgia
+EXACT MATCH -> University of Georgia
+STUFACR: 17.0, UGDS: 30566.0
+--------------------------------------------------
+Original: georgia_southern_university
+Cleaned: georgia southern
+EXACT MATCH -> Georgia Southern University
+STUFACR: 22.0, UGDS: 20996.0
+--------------------------------------------------
+Original: georgia_state_university
+Cleaned: georgia state
+EXACT MATCH -> Georgia State University
+STUFACR: 26.0, UGDS: 28439.0
+--------------------------------------------------
+Original: gonzaga_university
+Cleaned: gonzaga
+EXACT MATCH -> Gonzaga University
+STUFACR: 12.0, UGDS: 5018.0
+--------------------------------------------------
+Original: grand_valley_state_university
+Cleaned: grand state valley
+EXACT MATCH -> Grand Valley State University
+STUFACR: 15.0, UGDS: 18487.0
+--------------------------------------------------
+Original: harvard_university
+Cleaned: harvard
+EXACT MATCH -> Harvard University
+STUFACR: 7.0, UGDS: 7973.0
+--------------------------------------------------
+Original: humber_college
+Cleaned: humber
+NO MATCH FOUND
+--------------------------------------------------
+Original: humboldt_state_university
+MANUAL MATCH -> California State Polytechnic University-Humboldt
+STUFACR: 15.0, UGDS: 5373.0
+--------------------------------------------------
+Original: hunter_college
+MANUAL MATCH -> CUNY Hunter College
+STUFACR: 14.0, UGDS: 16549.0
+--------------------------------------------------
+Original: illinois_institute_of_technology
+Cleaned: illinois
+EXACT MATCH -> Illinois Institute of Technology
+STUFACR: 13.0, UGDS: 2877.0
+--------------------------------------------------
+Original: illinois_state_university
+Cleaned: illinois state
+EXACT MATCH -> Illinois State University
+STUFACR: 19.0, UGDS: 18019.0
+--------------------------------------------------
+Original: indiana_university
+Cleaned: indiana
+EXACT MATCH -> Indiana Institute of Technology
+STUFACR: 15.0, UGDS: 1341.0
+--------------------------------------------------
+Original: iowa_state_university
+Cleaned: iowa state
+EXACT MATCH -> Iowa State University
+STUFACR: 18.0, UGDS: 24994.0
+--------------------------------------------------
+Original: james_madison_university
+Cleaned: james madison
+EXACT MATCH -> James Madison University
+STUFACR: 17.0, UGDS: 19968.0
+--------------------------------------------------
+Original: johns_hopkins_university
+Cleaned: hopkins johns
+EXACT MATCH -> Johns Hopkins University
+STUFACR: 6.0, UGDS: 5643.0
+--------------------------------------------------
+Original: kansas_state_university
+Cleaned: kansas state
+EXACT MATCH -> Kansas State University
+STUFACR: 18.0, UGDS: 14762.0
+--------------------------------------------------
+Original: kennesaw_state_university
+Cleaned: kennesaw state
+EXACT MATCH -> Kennesaw State University
+STUFACR: 22.0, UGDS: 38051.0
+--------------------------------------------------
+Original: kent_state_university
+Cleaned: kent state
+FUZZY MATCH -> Kent State University at Kent
+Matched with: at kent state
+STUFACR: 19.0, UGDS: 19179.0
+--------------------------------------------------
+Original: lakehead_university
+Cleaned: lakehead
+NO MATCH FOUND
+--------------------------------------------------
+Original: langara_college
+Cleaned: langara
+NO MATCH FOUND
+--------------------------------------------------
+Original: lehigh_university
+Cleaned: lehigh
+EXACT MATCH -> Lehigh University
+STUFACR: 10.0, UGDS: 5612.0
+--------------------------------------------------
+Original: liberty_university
+Cleaned: liberty
+EXACT MATCH -> Liberty University
+STUFACR: 18.0, UGDS: 48408.0
+--------------------------------------------------
+Original: louisiana_state_university
+Cleaned: louisiana state
+FUZZY MATCH -> Tulane University of Louisiana
+Matched with: louisiana tulane
+STUFACR: 8.0, UGDS: 8490.0
+--------------------------------------------------
+Original: loyola_marymount_university
+Cleaned: loyola marymount
+EXACT MATCH -> Loyola Marymount University
+STUFACR: 11.0, UGDS: 7138.0
+--------------------------------------------------
+Original: macewan_university
+Cleaned: macewan
+NO MATCH FOUND
+--------------------------------------------------
+Original: marquette_university
+Cleaned: marquette
+EXACT MATCH -> Marquette University
+STUFACR: 13.0, UGDS: 7290.0
+--------------------------------------------------
+Original: massachusetts_institute_of_technology
+Cleaned: massachusetts
+EXACT MATCH -> Massachusetts Institute of Technology
+STUFACR: 3.0, UGDS: 4638.0
+--------------------------------------------------
+Original: mcmaster_university
+Cleaned: mcmaster
+NO MATCH FOUND
+--------------------------------------------------
+Original: miami_university_-_oxford
+Cleaned: miami oxford
+EXACT MATCH -> Miami University-Oxford
+STUFACR: 15.0, UGDS: 16721.0
+--------------------------------------------------
+Original: michigan_state_university
+Cleaned: michigan state
+EXACT MATCH -> Michigan State University
+STUFACR: 17.0, UGDS: 39021.0
+--------------------------------------------------
+Original: michigan_technological_university
+Cleaned: michigan technological
+EXACT MATCH -> Michigan Technological University
+STUFACR: 13.0, UGDS: 5633.0
+--------------------------------------------------
+Original: middle_tennessee_state_university
+Cleaned: middle state tennessee
+EXACT MATCH -> Middle Tennessee State University
+STUFACR: 16.0, UGDS: 16239.0
+--------------------------------------------------
+Original: mississippi_state_university
+Cleaned: mississippi state
+EXACT MATCH -> Mississippi State University
+STUFACR: 16.0, UGDS: 18154.0
+--------------------------------------------------
+Original: missouri_university_of_science_and_technology
+Cleaned: and missouri science
+EXACT MATCH -> Missouri University of Science and Technology
+STUFACR: 18.0, UGDS: 5453.0
+--------------------------------------------------
+Original: mohawk_college
+Cleaned: mohawk
+NO MATCH FOUND
+--------------------------------------------------
+Original: montana_state_university
+Cleaned: montana state
+EXACT MATCH -> Montana State University
+STUFACR: 18.0, UGDS: 14343.0
+--------------------------------------------------
+Original: mount_royal_university
+Cleaned: mount royal
+NO MATCH FOUND
+--------------------------------------------------
+Original: new_jersey_institute_of_technology
+Cleaned: jersey new
+EXACT MATCH -> New Jersey Institute of Technology
+STUFACR: 15.0, UGDS: 8365.0
+--------------------------------------------------
+Original: new_york_university_-_nyu
+Cleaned: new nyu york
+FUZZY MATCH -> New York Institute of Technology
+Matched with: new york
+STUFACR: 13.0, UGDS: 3279.0
+--------------------------------------------------
+Original: northeastern_university
+Cleaned: northeastern
+EXACT MATCH -> Northeastern University
+STUFACR: 16.0, UGDS: 16172.0
+--------------------------------------------------
+Original: northern_alberta_institute_of_technology
+Cleaned: alberta northern
+NO MATCH FOUND
+--------------------------------------------------
+Original: northern_arizona_university
+Cleaned: arizona northern
+EXACT MATCH -> Northern Arizona University
+STUFACR: 20.0, UGDS: 23090.0
+--------------------------------------------------
+Original: northern_illinois_university
+Cleaned: illinois northern
+EXACT MATCH -> Northern Illinois University
+STUFACR: 14.0, UGDS: 11408.0
+--------------------------------------------------
+Original: northwestern_university
+Cleaned: northwestern
+EXACT MATCH -> Northwestern College
+STUFACR: 12.0, UGDS: 514.0
+--------------------------------------------------
+Original: north_carolina_state_university
+Cleaned: carolina north state
+FUZZY MATCH -> Strayer University-North Carolina
+Matched with: carolina north strayer
+STUFACR: 41.0, UGDS: 2646.0
+--------------------------------------------------
+Original: ohio_state_university
+Cleaned: ohio state
+FUZZY MATCH -> Iowa State University
+Matched with: iowa state
+STUFACR: 18.0, UGDS: 24994.0
+--------------------------------------------------
+Original: ohio_university
+MANUAL MATCH -> Ohio University-Main Campus
+STUFACR: 18.0, UGDS: 17611.0
+--------------------------------------------------
+Original: oklahoma_state_university
+Cleaned: oklahoma state
+EXACT MATCH -> Oklahoma State University Institute of Technology
+STUFACR: 17.0, UGDS: 2021.0
+--------------------------------------------------
+Original: old_dominion_university
+Cleaned: dominion old
+EXACT MATCH -> Old Dominion University
+STUFACR: 16.0, UGDS: 18152.0
+--------------------------------------------------
+Original: oregon_state_university
+Cleaned: oregon state
+EXACT MATCH -> Oregon State University
+STUFACR: 19.0, UGDS: 28407.0
+--------------------------------------------------
+Original: penn_state_university
+Cleaned: penn state
+FUZZY MATCH -> Peru State College
+Matched with: peru state
+STUFACR: 20.0, UGDS: 1186.0
+--------------------------------------------------
+Original: portland_state_university
+Cleaned: portland state
+EXACT MATCH -> Portland State University
+STUFACR: 17.0, UGDS: 14299.0
+--------------------------------------------------
+Original: princeton_university
+Cleaned: princeton
+EXACT MATCH -> Princeton University
+STUFACR: 5.0, UGDS: 5527.0
+--------------------------------------------------
+Original: purdue_university
+MANUAL MATCH -> Purdue University-Main Campus
+STUFACR: 14.0, UGDS: 38438.0
+--------------------------------------------------
+Original: queens_university
+Cleaned: queens
+NO MATCH FOUND
+--------------------------------------------------
+Original: rensselaer_polytechnic_institute
+Cleaned: polytechnic rensselaer
+EXACT MATCH -> Rensselaer Polytechnic Institute
+STUFACR: 12.0, UGDS: 5886.0
+--------------------------------------------------
+Original: rice_university
+Cleaned: rice
+EXACT MATCH -> Rice University
+STUFACR: 6.0, UGDS: 4480.0
+--------------------------------------------------
+Original: rochester_institute_of_technology
+Cleaned: rochester
+EXACT MATCH -> University of Rochester
+STUFACR: 9.0, UGDS: 6569.0
+--------------------------------------------------
+Original: rose_hulman_institue
+MANUAL MATCH -> Rose-Hulman Institute of Technology
+STUFACR: 12.0, UGDS: 2154.0
+--------------------------------------------------
+Original: rowan_university
+Cleaned: rowan
+EXACT MATCH -> Rowan University
+STUFACR: 16.0, UGDS: 14914.0
+--------------------------------------------------
+Original: rutgers_university
+Cleaned: rutgers
+NO MATCH FOUND
+--------------------------------------------------
+Original: sam_houston_state_university
+Cleaned: houston sam state
+EXACT MATCH -> Sam Houston State University
+STUFACR: 20.0, UGDS: 18184.0
+--------------------------------------------------
+Original: santa_clara_university
+Cleaned: clara santa
+EXACT MATCH -> Santa Clara University
+STUFACR: 12.0, UGDS: 6103.0
+--------------------------------------------------
+Original: san_diego_state_university
+Cleaned: diego san state
+EXACT MATCH -> San Diego State University
+STUFACR: 25.0, UGDS: 31810.0
+--------------------------------------------------
+Original: san_francisco_state_university
+Cleaned: francisco san state
+EXACT MATCH -> San Francisco State University
+STUFACR: 19.0, UGDS: 21035.0
+--------------------------------------------------
+Original: san_jose_state_university
+Cleaned: jose san state
+EXACT MATCH -> San Jose State University
+STUFACR: 22.0, UGDS: 26735.0
+--------------------------------------------------
+Original: savannah_college_of_art_and_design
+Cleaned: and art design savannah
+EXACT MATCH -> Savannah College of Art and Design
+STUFACR: 20.0, UGDS: 13352.0
+--------------------------------------------------
+Original: seneca_college
+Cleaned: seneca
+NO MATCH FOUND
+--------------------------------------------------
+Original: sheridan_college
+Cleaned: sheridan
+NO MATCH FOUND
+--------------------------------------------------
+Original: simon_fraser_university
+Cleaned: fraser simon
+NO MATCH FOUND
+--------------------------------------------------
+Original: southern_alberta_institute_of_technology
+Cleaned: alberta southern
+NO MATCH FOUND
+--------------------------------------------------
+Original: southern_methodist_university
+Cleaned: methodist southern
+EXACT MATCH -> Southern Methodist University
+STUFACR: 11.0, UGDS: 7044.0
+--------------------------------------------------
+Original: stanford_university
+Cleaned: stanford
+EXACT MATCH -> Stanford University
+STUFACR: 5.0, UGDS: 7761.0
+--------------------------------------------------
+Original: stevens_institute_of_technology
+Cleaned: stevens
+EXACT MATCH -> Stevens Institute of Technology
+STUFACR: 11.0, UGDS: 4054.0
+--------------------------------------------------
+Original: stony_brook_university_-_suny
+Cleaned: brook stony suny
+FUZZY MATCH -> Stony Brook University
+Matched with: brook stony
+STUFACR: 19.0, UGDS: 17406.0
+--------------------------------------------------
+Original: syracuse_university
+Cleaned: syracuse
+EXACT MATCH -> Syracuse University
+STUFACR: 15.0, UGDS: 15071.0
+--------------------------------------------------
+Original: temple_university
+Cleaned: temple
+EXACT MATCH -> Temple College
+STUFACR: 18.0, UGDS: 3198.0
+--------------------------------------------------
+Original: texas_am
+MANUAL MATCH -> Texas A & M University-Corpus Christi
+STUFACR: 18.0, UGDS: 7818.0
+--------------------------------------------------
+Original: texas_christian_university
+Cleaned: christian texas
+EXACT MATCH -> Texas Christian University
+STUFACR: 14.0, UGDS: 10510.0
+--------------------------------------------------
+Original: texas_state_university
+Cleaned: state texas
+EXACT MATCH -> Texas State University
+STUFACR: 21.0, UGDS: 33834.0
+--------------------------------------------------
+Original: texas_tech_university
+Cleaned: tech texas
+EXACT MATCH -> Texas Tech University
+STUFACR: 21.0, UGDS: 32346.0
+--------------------------------------------------
+Original: the_college_of_william_and_mary
+MANUAL MATCH -> William & Mary
+STUFACR: 12.0, UGDS: 6778.0
+--------------------------------------------------
+Original: the_evergreen_state_college
+Cleaned: evergreen state the
+EXACT MATCH -> The Evergreen State College
+STUFACR: 17.0, UGDS: 1799.0
+--------------------------------------------------
+Original: towson_university
+Cleaned: towson
+EXACT MATCH -> Towson University
+STUFACR: 15.0, UGDS: 16734.0
+--------------------------------------------------
+Original: trent_university
+Cleaned: trent
+NO MATCH FOUND
+--------------------------------------------------
+Original: tufts_university
+Cleaned: tufts
+EXACT MATCH -> Tufts University
+STUFACR: 10.0, UGDS: 6747.0
+--------------------------------------------------
+Original: tulane_university
+Cleaned: tulane
+FUZZY MATCH -> Lane College
+Matched with: lane
+STUFACR: 15.0, UGDS: 1010.0
+--------------------------------------------------
+Original: united_states_naval_academy
+Cleaned: academy naval states united
+EXACT MATCH -> United States Naval Academy
+STUFACR: 8.0, UGDS: 4450.0
+--------------------------------------------------
+Original: university_at_albany_-_suny
+Cleaned: albany at suny
+EXACT MATCH -> SUNY at Albany
+STUFACR: 17.0, UGDS: 12175.0
+--------------------------------------------------
+Original: university_at_buffalo_-_suny
+Cleaned: at buffalo suny
+FUZZY MATCH -> University at Buffalo
+Matched with: at buffalo
+STUFACR: 12.0, UGDS: 20569.0
+--------------------------------------------------
+Original: university_of_alabama_at_birmingham
+Cleaned: alabama at birmingham
+EXACT MATCH -> University of Alabama at Birmingham
+STUFACR: 18.0, UGDS: 12776.0
+--------------------------------------------------
+Original: university_of_alabama_at_huntsville
+Cleaned: alabama at huntsville
+FUZZY MATCH -> University of Alabama in Huntsville
+Matched with: alabama huntsville in
+STUFACR: 17.0, UGDS: 6985.0
+--------------------------------------------------
+Original: university_of_alabama
+MANUAL MATCH -> The University of Alabama
+STUFACR: 19.0, UGDS: 31360.0
+--------------------------------------------------
+Original: university_of_alberta
+Cleaned: alberta
+NO MATCH FOUND
+--------------------------------------------------
+Original: university_of_arizona
+Cleaned: arizona
+EXACT MATCH -> University of Arizona
+STUFACR: 17.0, UGDS: 37979.0
+--------------------------------------------------
+Original: university_of_arkansas
+Cleaned: arkansas
+EXACT MATCH -> University of Arkansas
+STUFACR: 20.0, UGDS: 26002.0
+--------------------------------------------------
+Original: university_of_british_columbia_okanagan
+Cleaned: british columbia okanagan
+NO MATCH FOUND
+--------------------------------------------------
+Original: university_of_british_columbia
+Cleaned: british columbia
+NO MATCH FOUND
+--------------------------------------------------
+Original: university_of_calgary
+Cleaned: calgary
+FUZZY MATCH -> Calvary University
+Matched with: calvary
+STUFACR: 8.0, UGDS: 202.0
+--------------------------------------------------
+Original: university_of_california_-_berkeley
+Cleaned: berkeley california
+EXACT MATCH -> University of California-Berkeley
+STUFACR: 19.0, UGDS: 32475.0
+--------------------------------------------------
+Original: university_of_california_-_davis
+Cleaned: california davis
+EXACT MATCH -> University of California-Davis
+STUFACR: 21.0, UGDS: 31512.0
+--------------------------------------------------
+Original: university_of_california_-_irvine
+Cleaned: california irvine
+EXACT MATCH -> University of California-Irvine
+STUFACR: 18.0, UGDS: 28651.0
+--------------------------------------------------
+Original: university_of_california_-_los_angeles
+Cleaned: angeles california los
+EXACT MATCH -> University of California-Los Angeles
+STUFACR: 18.0, UGDS: 32423.0
+--------------------------------------------------
+Original: university_of_california_-_merced
+Cleaned: california merced
+EXACT MATCH -> University of California-Merced
+STUFACR: 19.0, UGDS: 8343.0
+--------------------------------------------------
+Original: university_of_california_-_riverside
+Cleaned: california riverside
+EXACT MATCH -> University of California-Riverside
+STUFACR: 24.0, UGDS: 22842.0
+--------------------------------------------------
+Original: university_of_california_-_santa_barbara
+Cleaned: barbara california santa
+EXACT MATCH -> University of California-Santa Barbara
+STUFACR: 17.0, UGDS: 23419.0
+--------------------------------------------------
+Original: university_of_california_-_santa_cruz
+Cleaned: california cruz santa
+EXACT MATCH -> University of California-Santa Cruz
+STUFACR: 23.0, UGDS: 17502.0
+--------------------------------------------------
+Original: university_of_california_-_san_diego
+Cleaned: california diego san
+EXACT MATCH -> University of California-San Diego
+STUFACR: 19.0, UGDS: 33092.0
+--------------------------------------------------
+Original: university_of_central_florida
+Cleaned: central florida
+EXACT MATCH -> University of Central Florida
+STUFACR: 29.0, UGDS: 57874.0
+--------------------------------------------------
+Original: university_of_chicago
+Cleaned: chicago
+EXACT MATCH -> University of Chicago
+STUFACR: 5.0, UGDS: 7511.0
+--------------------------------------------------
+Original: university_of_cincinnati
+Cleaned: cincinnati
+FUZZY MATCH -> ATA College-Cincinnati
+Matched with: ata cincinnati
+STUFACR: 10.0, UGDS: 309.0
+--------------------------------------------------
+Original: university_of_colorado_-_boulder
+Cleaned: boulder colorado
+EXACT MATCH -> University of Colorado Boulder
+STUFACR: 18.0, UGDS: 30598.0
+--------------------------------------------------
+Original: university_of_connecticut
+Cleaned: connecticut
+EXACT MATCH -> University of Connecticut
+STUFACR: 16.0, UGDS: 18768.0
+--------------------------------------------------
+Original: university_of_delaware
+Cleaned: delaware
+EXACT MATCH -> University of Delaware
+STUFACR: 15.0, UGDS: 18665.0
+--------------------------------------------------
+Original: university_of_florida
+Cleaned: florida
+EXACT MATCH -> University of Florida
+STUFACR: 16.0, UGDS: 33673.0
+--------------------------------------------------
+Original: university_of_georgia
+Cleaned: georgia
+EXACT MATCH -> University of Georgia
+STUFACR: 17.0, UGDS: 30566.0
+--------------------------------------------------
+Original: university_of_guelph
+Cleaned: guelph
+NO MATCH FOUND
+--------------------------------------------------
+Original: university_of_hawaii
+MANUAL MATCH -> University of Hawaii at Manoa
+STUFACR: 14.0, UGDS: 13915.0
+--------------------------------------------------
+Original: university_of_houston
+Cleaned: houston
+EXACT MATCH -> University of Houston
+STUFACR: 21.0, UGDS: 37080.0
+--------------------------------------------------
+Original: university_of_illinois_at_chicago
+Cleaned: at chicago illinois
+FUZZY MATCH -> University of Illinois Chicago
+Matched with: chicago illinois
+STUFACR: 18.0, UGDS: 21567.0
+--------------------------------------------------
+Original: university_of_illinois_at_urbana-champaign
+Cleaned: at champaign illinois urbana
+FUZZY MATCH -> University of Illinois Urbana-Champaign
+Matched with: champaign illinois urbana
+STUFACR: 21.0, UGDS: 34031.0
+--------------------------------------------------
+Original: university_of_iowa
+Cleaned: iowa
+EXACT MATCH -> University of Iowa
+STUFACR: 16.0, UGDS: 21545.0
+--------------------------------------------------
+Original: university_of_kansas
+Cleaned: kansas
+EXACT MATCH -> University of Kansas
+STUFACR: 17.0, UGDS: 18539.0
+--------------------------------------------------
+Original: university_of_kentucky
+Cleaned: kentucky
+EXACT MATCH -> University of Kentucky
+STUFACR: 17.0, UGDS: 22115.0
+--------------------------------------------------
+Original: university_of_louisville
+Cleaned: louisville
+EXACT MATCH -> University of Louisville
+STUFACR: 13.0, UGDS: 13822.0
+--------------------------------------------------
+Original: university_of_manitoba
+Cleaned: manitoba
+NO MATCH FOUND
+--------------------------------------------------
+Original: university_of_maryland-baltimore_county
+Cleaned: baltimore county maryland
+EXACT MATCH -> University of Maryland-Baltimore County
+STUFACR: 18.0, UGDS: 10557.0
+--------------------------------------------------
+Original: university_of_maryland
+Cleaned: maryland
+FUZZY MATCH -> Maryland Institute College of Art
+Matched with: art maryland
+STUFACR: 9.0, UGDS: 1401.0
+--------------------------------------------------
+Original: university_of_massachusetts-amherst
+Cleaned: amherst massachusetts
+EXACT MATCH -> University of Massachusetts-Amherst
+STUFACR: 18.0, UGDS: 24111.0
+--------------------------------------------------
+Original: university_of_massachusetts-lowell
+Cleaned: lowell massachusetts
+EXACT MATCH -> University of Massachusetts-Lowell
+STUFACR: 17.0, UGDS: 11985.0
+--------------------------------------------------
+Original: university_of_miami
+Cleaned: miami
+EXACT MATCH -> University of Miami
+STUFACR: 13.0, UGDS: 12215.0
+--------------------------------------------------
+Original: university_of_michigan
+Cleaned: michigan
+FUZZY MATCH -> Mid Michigan College
+Matched with: michigan mid
+STUFACR: 25.0, UGDS: 2108.0
+--------------------------------------------------
+Original: university_of_minnesota
+MANUAL MATCH -> University of Minnesota-Twin Cities
+STUFACR: 16.0, UGDS: 30560.0
+--------------------------------------------------
+Original: university_of_mississippi
+Cleaned: mississippi
+EXACT MATCH -> Mississippi College
+STUFACR: 13.0, UGDS: 2098.0
+--------------------------------------------------
+Original: university_of_missouri
+MANUAL MATCH -> University of Missouri-Columbia
+STUFACR: 18.0, UGDS: 23206.0
+--------------------------------------------------
+Original: university_of_nevada_las_vegas
+Cleaned: las nevada vegas
+EXACT MATCH -> University of Nevada-Las Vegas
+STUFACR: 18.0, UGDS: 24329.0
+--------------------------------------------------
+Original: university_of_nevada_reno
+Cleaned: nevada reno
+EXACT MATCH -> University of Nevada-Reno
+STUFACR: 18.0, UGDS: 15896.0
+--------------------------------------------------
+Original: university_of_new_hampshire
+Cleaned: hampshire new
+FUZZY MATCH -> Hampshire College
+Matched with: hampshire
+STUFACR: 11.0, UGDS: 505.0
+--------------------------------------------------
+Original: university_of_new_mexico
+MANUAL MATCH -> University of New Mexico-Main Campus
+STUFACR: 17.0, UGDS: 15642.0
+--------------------------------------------------
+Original: university_of_north_carolina_chapel_hill
+Cleaned: carolina chapel hill north
+FUZZY MATCH -> University of North Carolina at Chapel Hill
+Matched with: at carolina chapel hill north
+STUFACR: 17.0, UGDS: 19921.0
+--------------------------------------------------
+Original: university_of_north_carolina_charlotte
+Cleaned: carolina charlotte north
+FUZZY MATCH -> University of North Carolina at Charlotte
+Matched with: at carolina charlotte north
+STUFACR: 20.0, UGDS: 23063.0
+--------------------------------------------------
+Original: university_of_north_carolina_wilmington
+Cleaned: carolina north wilmington
+EXACT MATCH -> University of North Carolina Wilmington
+STUFACR: 17.0, UGDS: 13960.0
+--------------------------------------------------
+Original: university_of_north_florida
+Cleaned: florida north
+EXACT MATCH -> University of North Florida
+STUFACR: 19.0, UGDS: 13866.0
+--------------------------------------------------
+Original: university_of_north_texas
+Cleaned: north texas
+EXACT MATCH -> University of North Texas
+STUFACR: 23.0, UGDS: 33023.0
+--------------------------------------------------
+Original: university_of_notre_dame
+Cleaned: dame notre
+EXACT MATCH -> Notre Dame College
+STUFACR: 11.0, UGDS: 1067.0
+--------------------------------------------------
+Original: university_of_oklahoma
+MANUAL MATCH -> University of Oklahoma-Norman Campus
+STUFACR: 16.0, UGDS: 20842.0
+--------------------------------------------------
+Original: university_of_ontario_institute_of_technology
+Cleaned: ontario
+NO MATCH FOUND
+--------------------------------------------------
+Original: university_of_ottawa
+Cleaned: ottawa
+EXACT MATCH -> Ottawa University-Ottawa
+STUFACR: 11.0, UGDS: 851.0
+--------------------------------------------------
+Original: university_of_pennsylvania
+Cleaned: pennsylvania
+EXACT MATCH -> Pennsylvania College of Technology
+STUFACR: 14.0, UGDS: 4193.0
+--------------------------------------------------
+Original: university_of_pittsburgh
+MANUAL MATCH -> University of Pittsburgh-Pittsburgh Campus
+STUFACR: 13.0, UGDS: 19954.0
+--------------------------------------------------
+Original: university_of_rochester
+Cleaned: rochester
+EXACT MATCH -> University of Rochester
+STUFACR: 9.0, UGDS: 6569.0
+--------------------------------------------------
+Original: university_of_saskatchewan
+Cleaned: saskatchewan
+NO MATCH FOUND
+--------------------------------------------------
+Original: university_of_southern_california
+Cleaned: california southern
+EXACT MATCH -> Southern California Institute of Technology
+STUFACR: 28.0, UGDS: 540.0
+--------------------------------------------------
+Original: university_of_south_carolina
+Cleaned: carolina south
+FUZZY MATCH -> University of South Carolina-Union
+Matched with: carolina south union
+STUFACR: 15.0, UGDS: 253.0
+--------------------------------------------------
+Original: university_of_south_florida
+Cleaned: florida south
+EXACT MATCH -> South Florida Institute of Technology
+STUFACR: 40.0, UGDS: 2288.0
+--------------------------------------------------
+Original: university_of_tennessee_-_knoxville
+Cleaned: knoxville tennessee
+FUZZY MATCH -> The University of Tennessee-Knoxville
+Matched with: knoxville tennessee the
+STUFACR: 18.0, UGDS: 26905.0
+--------------------------------------------------
+Original: university_of_texas_-_austin
+MANUAL MATCH -> The University of Texas at Austin
+STUFACR: 18.0, UGDS: 40980.0
+--------------------------------------------------
+Original: university_of_texas_-_dallas
+MANUAL MATCH -> The University of Texas at Dallas
+STUFACR: 27.0, UGDS: 21586.0
+--------------------------------------------------
+Original: university_of_texas_-_san_antonio
+Cleaned: antonio san texas
+FUZZY MATCH -> Texas A&M University-San Antonio
+Matched with: a&m antonio san texas
+STUFACR: 18.0, UGDS: 6404.0
+--------------------------------------------------
+Original: university_of_toronto
+Cleaned: toronto
+NO MATCH FOUND
+--------------------------------------------------
+Original: university_of_utah
+Cleaned: utah
+EXACT MATCH -> University of Utah
+STUFACR: 18.0, UGDS: 25392.0
+--------------------------------------------------
+Original: university_of_vermont
+Cleaned: vermont
+EXACT MATCH -> University of Vermont
+STUFACR: 17.0, UGDS: 11326.0
+--------------------------------------------------
+Original: university_of_victoria
+Cleaned: victoria
+EXACT MATCH -> Victoria College
+STUFACR: 13.0, UGDS: 2346.0
+--------------------------------------------------
+Original: university_of_virginia
+Cleaned: virginia
+NO MATCH FOUND
+--------------------------------------------------
+Original: university_of_washington
+Cleaned: washington
+EXACT MATCH -> Washington College
+STUFACR: 9.0, UGDS: 935.0
+--------------------------------------------------
+Original: university_of_waterloo
+Cleaned: waterloo
+NO MATCH FOUND
+--------------------------------------------------
+Original: university_of_western_ontario
+Cleaned: ontario western
+FUZZY MATCH -> Arizona Western College
+Matched with: arizona western
+STUFACR: 20.0, UGDS: 7595.0
+--------------------------------------------------
+Original: university_of_windsor
+Cleaned: windsor
+NO MATCH FOUND
+--------------------------------------------------
+Original: university_of_wisconsin_madison
+Cleaned: madison wisconsin
+EXACT MATCH -> University of Wisconsin-Madison
+STUFACR: 18.0, UGDS: 35184.0
+--------------------------------------------------
+Original: university_of_wisconsin_milwaukee
+Cleaned: milwaukee wisconsin
+EXACT MATCH -> University of Wisconsin-Milwaukee
+STUFACR: 17.0, UGDS: 17076.0
+--------------------------------------------------
+Original: utah_valley_university
+Cleaned: utah valley
+EXACT MATCH -> Utah Valley University
+STUFACR: 25.0, UGDS: 26961.0
+--------------------------------------------------
+Original: vanderbilt_university
+Cleaned: vanderbilt
+EXACT MATCH -> Vanderbilt University
+STUFACR: 7.0, UGDS: 7144.0
+--------------------------------------------------
+Original: villanova_university
+Cleaned: villanova
+EXACT MATCH -> Villanova University
+STUFACR: 10.0, UGDS: 6926.0
+--------------------------------------------------
+Original: virginia_commonwealth_university
+Cleaned: commonwealth virginia
+EXACT MATCH -> Virginia Commonwealth University
+STUFACR: 16.0, UGDS: 20552.0
+--------------------------------------------------
+Original: virginia_tech
+Cleaned: tech virginia
+FUZZY MATCH -> Virginia State University
+Matched with: state virginia
+STUFACR: 12.0, UGDS: 4295.0
+--------------------------------------------------
+Original: washington_state_university
+Cleaned: state washington
+EXACT MATCH -> Washington State University
+STUFACR: 15.0, UGDS: 22265.0
+--------------------------------------------------
+Original: washington_university_in_st_louis
+Cleaned: in louis st washington
+EXACT MATCH -> Washington University in St Louis
+STUFACR: 7.0, UGDS: 7801.0
+--------------------------------------------------
+Original: wayne_state_university
+Cleaned: state wayne
+EXACT MATCH -> Wayne State College
+STUFACR: 22.0, UGDS: 3057.0
+--------------------------------------------------
+Original: western_governors_university
+Cleaned: governors western
+EXACT MATCH -> Western Governors University
+STUFACR: 42.0, UGDS: 112807.0
+--------------------------------------------------
+Original: western_kentucky_university
+Cleaned: kentucky western
+EXACT MATCH -> Western Kentucky University
+STUFACR: 18.0, UGDS: 12149.0
+--------------------------------------------------
+Original: western_michigan_university
+Cleaned: michigan western
+EXACT MATCH -> Western Michigan University
+STUFACR: 16.0, UGDS: 13264.0
+--------------------------------------------------
+Original: western_washington_university
+Cleaned: washington western
+EXACT MATCH -> Western Washington University
+STUFACR: 17.0, UGDS: 13686.0
+--------------------------------------------------
+Original: west_virginia_university
+Cleaned: virginia west
+EXACT MATCH -> West Virginia University
+STUFACR: 17.0, UGDS: 18370.0
+--------------------------------------------------
+Original: wilfrid_laurier_university
+Cleaned: laurier wilfrid
+NO MATCH FOUND
+--------------------------------------------------
+Original: williams_college
+Cleaned: williams
+EXACT MATCH -> Williams College
+STUFACR: 6.0, UGDS: 2138.0
+--------------------------------------------------
+Original: worcester_polytechnic_institute
+Cleaned: polytechnic worcester
+EXACT MATCH -> Worcester Polytechnic Institute
+STUFACR: 13.0, UGDS: 5146.0
+--------------------------------------------------
+Original: yale_university
+Cleaned: yale
+EXACT MATCH -> Yale University
+STUFACR: 6.0, UGDS: 6639.0
+--------------------------------------------------
+Original: york_university_in_toronto
+Cleaned: in toronto york
+NO MATCH FOUND
+--------------------------------------------------

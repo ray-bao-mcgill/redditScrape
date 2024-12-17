@@ -1,245 +1,211 @@
 Format_name,Value (numeric code),Value label
-unisub,1,algonquin_college - r/algonquin_college
-,2,appalachian_state_university - r/appalachian_state_university
-,3,arizona_state_university - r/arizona_state_university
-,4,auburn_university - r/auburn_university
-,5,ball_state_university - r/ball_state_university
-,6,baruch_college - r/baruch_college
-,7,baylor_university - r/baylor_university
-,8,berklee_college - r/berklee_college
-,9,binghamton_university - r/binghamton_university
-,10,boston_college - r/boston_college
-,11,boston_university - r/boston_university
-,12,bowling_green_state_university - r/bowling_green_state_university
-,13,brandeis_university - r/brandeis_university
-,14,brigham_young_university - r/brigham_young_university
-,15,british_columbia_institute_of_technology - r/british_columbia_institute_of_technology
-,16,brock_university - r/brock_university
-,17,broward_college - r/broward_college
-,18,brown_university - r/brown_university
-,19,california_polytechnic_state_university_-_pomona - r/california_polytechnic_state_university_-_pomona
-,20,california_polytechnic_state_university - r/california_polytechnic_state_university
-,21,california_state_university_-_chico - r/california_state_university_-_chico
-,22,california_state_university_-_east_bay - r/california_state_university_-_east_bay
-,23,california_state_university_-_fullerton - r/california_state_university_-_fullerton
-,24,california_state_university_-_long_beach - r/california_state_university_-_long_beach
-,25,california_state_university_-_northridge - r/california_state_university_-_northridge
-,26,california_state_university_-_sacramento - r/california_state_university_-_sacramento
-,27,california_state_university_-_san_bernardino - r/california_state_university_-_san_bernardino
-,28,california_state_university_-_san_marcos - r/california_state_university_-_san_marcos
-,29,california_state_university_fresno - r/california_state_university_fresno
-,30,carleton_university - r/carleton_university
-,31,carnegie_mellon_university - r/carnegie_mellon_university
-,32,case_western_reserve_university - r/case_western_reserve_university
-,33,central_michigan_university - r/central_michigan_university
-,34,city_university_of_new_york - r/city_university_of_new_york
-,35,clemson_university - r/clemson_university
-,36,colorado_school_of_mines - r/colorado_school_of_mines
-,37,colorado_state_university - r/colorado_state_university
-,38,columbia_university - r/columbia_university
-,39,conestoga_college_institute_of_technology_and_advanced_learning - r/conestoga_college_institute_of_technology_and_advanced_learning
-,40,cornell_university - r/cornell_university
-,41,dalhousie_university - r/dalhousie_university
-,42,dartmouth_college - r/dartmouth_college
-,43,depaul_university - r/depaul_university
-,44,drexel_university - r/drexel_university
-,45,duke_university - r/duke_university
-,46,embry-riddle_aeronautical_university - r/embry-riddle_aeronautical_university
-,47,emory_university - r/emory_university
-,48,fanshawe_college - r/fanshawe_college
-,49,florida_atlantic_university - r/florida_atlantic_university
-,50,florida_gulf_coast_university - r/florida_gulf_coast_university
-,51,florida_international_university - r/florida_international_university
-,52,florida_state_university - r/florida_state_university
-,53,fordham_university - r/fordham_university
-,54,full_sail_university - r/full_sail_university
-,55,george_mason_university - r/george_mason_university
-,56,georgia_institute_of_technology - r/georgia_institute_of_technology
-,57,georgia_southern_university - r/georgia_southern_university
-,58,georgia_state_university - r/georgia_state_university
-,59,gonzaga_university - r/gonzaga_university
-,60,grand_valley_state_university - r/grand_valley_state_university
-,61,harvard_university - r/harvard_university
-,62,humber_college - r/humber_college
-,63,humboldt_state_university - r/humboldt_state_university
-,64,hunter_college - r/hunter_college
-,65,illinois_institute_of_technology - r/illinois_institute_of_technology
-,66,illinois_state_university - r/illinois_state_university
-,67,indiana_university - r/indiana_university
-,68,iowa_state_university - r/iowa_state_university
-,69,james_madison_university - r/james_madison_university
-,70,johns_hopkins_university - r/johns_hopkins_university
-,71,kansas_state_university - r/kansas_state_university
-,72,kennesaw_state_university - r/kennesaw_state_university
-,73,kent_state_university - r/kent_state_university
-,74,lakehead_university - r/lakehead_university
-,75,langara_college - r/langara_college
-,76,lehigh_university - r/lehigh_university
-,77,liberty_university - r/liberty_university
-,78,louisiana_state_university - r/louisiana_state_university
-,79,loyola_marymount_university - r/loyola_marymount_university
-,80,macewan_university - r/macewan_university
-,81,marquette_university - r/marquette_university
-,82,massachusetts_institute_of_technology - r/massachusetts_institute_of_technology
-,83,mcmaster_university - r/mcmaster_university
-,84,miami_university_-_oxford - r/miami_university_-_oxford
-,85,michigan_state_university - r/michigan_state_university
-,86,michigan_technological_university - r/michigan_technological_university
-,87,middle_tennessee_state_university - r/middle_tennessee_state_university
-,88,mississippi_state_university - r/mississippi_state_university
-,89,missouri_university_of_science_and_technology - r/missouri_university_of_science_and_technology
-,90,mohawk_college - r/mohawk_college
-,91,montana_state_university - r/montana_state_university
-,92,mount_royal_university - r/mount_royal_university
-,93,new_jersey_institute_of_technology - r/new_jersey_institute_of_technology
-,94,new_york_university_-_nyu - r/new_york_university_-_nyu
-,95,northeastern_university - r/northeastern_university
-,96,northern_alberta_institute_of_technology - r/northern_alberta_institute_of_technology
-,97,northern_arizona_university - r/northern_arizona_university
-,98,northern_illinois_university - r/northern_illinois_university
-,99,northwestern_university - r/northwestern_university
-,100,north_carolina_state_university - r/north_carolina_state_university
-,101,ohio_state_university - r/ohio_state_university
-,102,ohio_university - r/ohio_university
-,103,oklahoma_state_university - r/oklahoma_state_university
-,104,old_dominion_university - r/old_dominion_university
-,105,oregon_state_university - r/oregon_state_university
-,106,penn_state_university - r/penn_state_university
-,107,portland_state_university - r/portland_state_university
-,108,princeton_university - r/princeton_university
-,109,purdue_university - r/purdue_university
-,110,queens_university - r/queens_university
-,111,rensselaer_polytechnic_institute - r/rensselaer_polytechnic_institute
-,112,rice_university - r/rice_university
-,113,rochester_institute_of_technology - r/rochester_institute_of_technology
-,114,rose_hulman_institue - r/rose_hulman_institue
-,115,rowan_university - r/rowan_university
-,116,rutgers_university - r/rutgers_university
-,117,sam_houston_state_university - r/sam_houston_state_university
-,118,santa_clara_university - r/santa_clara_university
-,119,san_diego_state_university - r/san_diego_state_university
-,120,san_francisco_state_university - r/san_francisco_state_university
-,121,san_jose_state_university - r/san_jose_state_university
-,122,savannah_college_of_art_and_design - r/savannah_college_of_art_and_design
-,123,seneca_college - r/seneca_college
-,124,sheridan_college - r/sheridan_college
-,125,simon_fraser_university - r/simon_fraser_university
-,126,southern_alberta_institute_of_technology - r/southern_alberta_institute_of_technology
-,127,southern_methodist_university - r/southern_methodist_university
-,128,stanford_university - r/stanford_university
-,129,stevens_institute_of_technology - r/stevens_institute_of_technology
-,130,stony_brook_university_-_suny - r/stony_brook_university_-_suny
-,131,syracuse_university - r/syracuse_university
-,132,temple_university - r/temple_university
-,133,texas_am - r/texas_am
-,134,texas_christian_university - r/texas_christian_university
-,135,texas_state_university - r/texas_state_university
-,136,texas_tech_university - r/texas_tech_university
-,137,the_college_of_william_and_mary - r/the_college_of_william_and_mary
-,138,the_evergreen_state_college - r/the_evergreen_state_college
-,139,towson_university - r/towson_university
-,140,trent_university - r/trent_university
-,141,tufts_university - r/tufts_university
-,142,tulane_university - r/tulane_university
-,143,united_states_naval_academy - r/united_states_naval_academy
-,144,university_at_albany_-_suny - r/university_at_albany_-_suny
-,145,university_at_buffalo_-_suny - r/university_at_buffalo_-_suny
-,146,university_of_alabama_at_birmingham - r/university_of_alabama_at_birmingham
-,147,university_of_alabama_at_huntsville - r/university_of_alabama_at_huntsville
-,148,university_of_alabama - r/university_of_alabama
-,149,university_of_alberta - r/university_of_alberta
-,150,university_of_arizona - r/university_of_arizona
-,151,university_of_arkansas - r/university_of_arkansas
-,152,university_of_british_columbia_okanagan - r/university_of_british_columbia_okanagan
-,153,university_of_british_columbia - r/university_of_british_columbia
-,154,university_of_calgary - r/university_of_calgary
-,155,university_of_california_-_berkeley - r/university_of_california_-_berkeley
-,156,university_of_california_-_davis - r/university_of_california_-_davis
-,157,university_of_california_-_irvine - r/university_of_california_-_irvine
-,158,university_of_california_-_los_angeles - r/university_of_california_-_los_angeles
-,159,university_of_california_-_merced - r/university_of_california_-_merced
-,160,university_of_california_-_riverside - r/university_of_california_-_riverside
-,161,university_of_california_-_santa_barbara - r/university_of_california_-_santa_barbara
-,162,university_of_california_-_santa_cruz - r/university_of_california_-_santa_cruz
-,163,university_of_california_-_san_diego - r/university_of_california_-_san_diego
-,164,university_of_central_florida - r/university_of_central_florida
-,165,university_of_chicago - r/university_of_chicago
-,166,university_of_cincinnati - r/university_of_cincinnati
-,167,university_of_colorado_-_boulder - r/university_of_colorado_-_boulder
-,168,university_of_connecticut - r/university_of_connecticut
-,169,university_of_delaware - r/university_of_delaware
-,170,university_of_florida - r/university_of_florida
-,171,university_of_georgia - r/university_of_georgia
-,172,university_of_guelph - r/university_of_guelph
-,173,university_of_hawaii - r/university_of_hawaii
-,174,university_of_houston - r/university_of_houston
-,175,university_of_illinois_at_chicago - r/university_of_illinois_at_chicago
-,176,university_of_illinois_at_urbana-champaign - r/university_of_illinois_at_urbana-champaign
-,177,university_of_iowa - r/university_of_iowa
-,178,university_of_kansas - r/university_of_kansas
-,179,university_of_kentucky - r/university_of_kentucky
-,180,university_of_louisville - r/university_of_louisville
-,181,university_of_manitoba - r/university_of_manitoba
-,182,university_of_maryland-baltimore_county - r/university_of_maryland-baltimore_county
-,183,university_of_maryland - r/university_of_maryland
-,184,university_of_massachusetts-amherst - r/university_of_massachusetts-amherst
-,185,university_of_massachusetts-lowell - r/university_of_massachusetts-lowell
-,186,university_of_miami - r/university_of_miami
-,187,university_of_michigan - r/university_of_michigan
-,188,university_of_minnesota - r/university_of_minnesota
-,189,university_of_mississippi - r/university_of_mississippi
-,190,university_of_missouri - r/university_of_missouri
-,191,university_of_nevada_las_vegas - r/university_of_nevada_las_vegas
-,192,university_of_nevada_reno - r/university_of_nevada_reno
-,193,university_of_new_hampshire - r/university_of_new_hampshire
-,194,university_of_new_mexico - r/university_of_new_mexico
-,195,university_of_north_carolina_chapel_hill - r/university_of_north_carolina_chapel_hill
-,196,university_of_north_carolina_charlotte - r/university_of_north_carolina_charlotte
-,197,university_of_north_carolina_wilmington - r/university_of_north_carolina_wilmington
-,198,university_of_north_florida - r/university_of_north_florida
-,199,university_of_north_texas - r/university_of_north_texas
-,200,university_of_notre_dame - r/university_of_notre_dame
-,201,university_of_oklahoma - r/university_of_oklahoma
-,202,university_of_ontario_institute_of_technology - r/university_of_ontario_institute_of_technology
-,203,university_of_ottawa - r/university_of_ottawa
-,204,university_of_pennsylvania - r/university_of_pennsylvania
-,205,university_of_pittsburgh - r/university_of_pittsburgh
-,206,university_of_rochester - r/university_of_rochester
-,207,university_of_saskatchewan - r/university_of_saskatchewan
-,208,university_of_southern_california - r/university_of_southern_california
-,209,university_of_south_carolina - r/university_of_south_carolina
-,210,university_of_south_florida - r/university_of_south_florida
-,211,university_of_tennessee_-_knoxville - r/university_of_tennessee_-_knoxville
-,212,university_of_texas_-_austin - r/university_of_texas_-_austin
-,213,university_of_texas_-_dallas - r/university_of_texas_-_dallas
-,214,university_of_texas_-_san_antonio - r/university_of_texas_-_san_antonio
-,215,university_of_toronto - r/university_of_toronto
-,216,university_of_utah - r/university_of_utah
-,217,university_of_vermont - r/university_of_vermont
-,218,university_of_victoria - r/university_of_victoria
-,219,university_of_virginia - r/university_of_virginia
-,220,university_of_washington - r/university_of_washington
-,221,university_of_waterloo - r/university_of_waterloo
-,222,university_of_western_ontario - r/university_of_western_ontario
-,223,university_of_windsor - r/university_of_windsor
-,224,university_of_wisconsin_madison - r/university_of_wisconsin_madison
-,225,university_of_wisconsin_milwaukee - r/university_of_wisconsin_milwaukee
-,226,utah_valley_university - r/utah_valley_university
-,227,vanderbilt_university - r/vanderbilt_university
-,228,villanova_university - r/villanova_university
-,229,virginia_commonwealth_university - r/virginia_commonwealth_university
-,230,virginia_tech - r/virginia_tech
-,231,washington_state_university - r/washington_state_university
-,232,washington_university_in_st_louis - r/washington_university_in_st_louis
-,233,wayne_state_university - r/wayne_state_university
-,234,western_governors_university - r/western_governors_university
-,235,western_kentucky_university - r/western_kentucky_university
-,236,western_michigan_university - r/western_michigan_university
-,237,western_washington_university - r/western_washington_university
-,238,west_virginia_university - r/west_virginia_university
-,239,wilfrid_laurier_university - r/wilfrid_laurier_university
-,240,williams_college - r/williams_college
-,241,worcester_polytechnic_institute - r/worcester_polytechnic_institute
-,242,yale_university - r/yale_university
-,243,york_university_in_toronto - r/york_university_in_toronto
-psample,"[1, 45056]",see sheet 2
+unisub,1,appalachian_state_university
+,2,arizona_state_university
+,3,auburn_university
+,4,ball_state_university
+,5,baruch_college
+,6,baylor_university
+,7,berklee_college
+,8,binghamton_university
+,9,boston_college
+,10,boston_university
+,11,bowling_green_state_university
+,12,brandeis_university
+,13,brigham_young_university
+,14,broward_college
+,15,brown_university
+,16,california_polytechnic_state_university
+,17,california_polytechnic_state_university_-_pomona
+,18,california_state_university_-_chico
+,19,california_state_university_-_east_bay
+,20,california_state_university_-_fullerton
+,21,california_state_university_-_long_beach
+,22,california_state_university_-_northridge
+,23,california_state_university_-_sacramento
+,24,california_state_university_-_san_bernardino
+,25,california_state_university_-_san_marcos
+,26,california_state_university_fresno
+,27,carleton_university
+,28,carnegie_mellon_university
+,29,case_western_reserve_university
+,30,central_michigan_university
+,31,city_university_of_new_york
+,32,clemson_university
+,33,colorado_school_of_mines
+,34,colorado_state_university
+,35,columbia_university
+,36,cornell_university
+,37,dartmouth_college
+,38,depaul_university
+,39,drexel_university
+,40,duke_university
+,41,embry-riddle_aeronautical_university
+,42,emory_university
+,43,florida_atlantic_university
+,44,florida_gulf_coast_university
+,45,florida_international_university
+,46,florida_state_university
+,47,fordham_university
+,48,full_sail_university
+,49,george_mason_university
+,50,georgia_institute_of_technology
+,51,georgia_southern_university
+,52,georgia_state_university
+,53,gonzaga_university
+,54,grand_valley_state_university
+,55,harvard_university
+,56,humboldt_state_university
+,57,hunter_college
+,58,illinois_institute_of_technology
+,59,illinois_state_university
+,60,indiana_university
+,61,iowa_state_university
+,62,james_madison_university
+,63,johns_hopkins_university
+,64,kansas_state_university
+,65,kennesaw_state_university
+,66,kent_state_university
+,67,lehigh_university
+,68,liberty_university
+,69,louisiana_state_university
+,70,loyola_marymount_university
+,71,marquette_university
+,72,massachusetts_institute_of_technology
+,73,miami_university_-_oxford
+,74,michigan_state_university
+,75,michigan_technological_university
+,76,middle_tennessee_state_university
+,77,mississippi_state_university
+,78,missouri_university_of_science_and_technology
+,79,montana_state_university
+,80,new_jersey_institute_of_technology
+,81,new_york_university_-_nyu
+,82,north_carolina_state_university
+,83,northeastern_university
+,84,northern_arizona_university
+,85,northern_illinois_university
+,86,northwestern_university
+,87,ohio_state_university
+,88,ohio_university
+,89,oklahoma_state_university
+,90,old_dominion_university
+,91,oregon_state_university
+,92,penn_state_university
+,93,portland_state_university
+,94,princeton_university
+,95,purdue_university
+,96,rensselaer_polytechnic_institute
+,97,rice_university
+,98,rochester_institute_of_technology
+,99,rose_hulman_institue
+,100,rowan_university
+,101,sam_houston_state_university
+,102,san_diego_state_university
+,103,san_francisco_state_university
+,104,san_jose_state_university
+,105,santa_clara_university
+,106,savannah_college_of_art_and_design
+,107,southern_methodist_university
+,108,stanford_university
+,109,stevens_institute_of_technology
+,110,stony_brook_university_-_suny
+,111,syracuse_university
+,112,temple_university
+,113,texas_am
+,114,texas_christian_university
+,115,texas_state_university
+,116,texas_tech_university
+,117,the_college_of_william_and_mary
+,118,the_evergreen_state_college
+,119,towson_university
+,120,tufts_university
+,121,tulane_university
+,122,united_states_naval_academy
+,123,university_at_albany_-_suny
+,124,university_at_buffalo_-_suny
+,125,university_of_alabama
+,126,university_of_alabama_at_birmingham
+,127,university_of_alabama_at_huntsville
+,128,university_of_arizona
+,129,university_of_arkansas
+,130,university_of_calgary
+,131,university_of_california_-_berkeley
+,132,university_of_california_-_davis
+,133,university_of_california_-_irvine
+,134,university_of_california_-_los_angeles
+,135,university_of_california_-_merced
+,136,university_of_california_-_riverside
+,137,university_of_california_-_san_diego
+,138,university_of_california_-_santa_barbara
+,139,university_of_california_-_santa_cruz
+,140,university_of_central_florida
+,141,university_of_chicago
+,142,university_of_cincinnati
+,143,university_of_colorado_-_boulder
+,144,university_of_connecticut
+,145,university_of_delaware
+,146,university_of_florida
+,147,university_of_georgia
+,148,university_of_hawaii
+,149,university_of_houston
+,150,university_of_illinois_at_chicago
+,151,university_of_illinois_at_urbana-champaign
+,152,university_of_iowa
+,153,university_of_kansas
+,154,university_of_kentucky
+,155,university_of_louisville
+,156,university_of_maryland
+,157,university_of_maryland-baltimore_county
+,158,university_of_massachusetts-amherst
+,159,university_of_massachusetts-lowell
+,160,university_of_miami
+,161,university_of_michigan
+,162,university_of_minnesota
+,163,university_of_mississippi
+,164,university_of_missouri
+,165,university_of_nevada_las_vegas
+,166,university_of_nevada_reno
+,167,university_of_new_hampshire
+,168,university_of_new_mexico
+,169,university_of_north_carolina_chapel_hill
+,170,university_of_north_carolina_charlotte
+,171,university_of_north_carolina_wilmington
+,172,university_of_north_florida
+,173,university_of_north_texas
+,174,university_of_notre_dame
+,175,university_of_oklahoma
+,176,university_of_ottawa
+,177,university_of_pennsylvania
+,178,university_of_pittsburgh
+,179,university_of_rochester
+,180,university_of_south_carolina
+,181,university_of_south_florida
+,182,university_of_southern_california
+,183,university_of_tennessee_-_knoxville
+,184,university_of_texas_-_austin
+,185,university_of_texas_-_dallas
+,186,university_of_texas_-_san_antonio
+,187,university_of_utah
+,188,university_of_vermont
+,189,university_of_victoria
+,190,university_of_washington
+,191,university_of_western_ontario
+,192,university_of_wisconsin_madison
+,193,university_of_wisconsin_milwaukee
+,194,utah_valley_university
+,195,vanderbilt_university
+,196,villanova_university
+,197,virginia_commonwealth_university
+,198,virginia_tech
+,199,washington_state_university
+,200,washington_university_in_st_louis
+,201,wayne_state_university
+,202,west_virginia_university
+,203,western_governors_university
+,204,western_kentucky_university
+,205,western_michigan_university
+,206,western_washington_university
+,207,williams_college
+,208,worcester_polytechnic_institute
+,209,yale_university
+psample,"[1, 36191]",see sheet 2

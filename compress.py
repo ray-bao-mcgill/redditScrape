@@ -13,11 +13,13 @@ def compress_data():
             'sentiment': 'mean',
             't_count': 'mean',
             'cost_of_living': 'first',  # Take first value since it's the same for all rows of same uni
+            'STUFACR': 'first',  # Take first value since it's constant per university
+            'UGDS': 'first',     # Take first value since it's constant per university
             'date': ['min', 'max']  # Get both first and last dates
         }).reset_index()
         
         # Flatten the multi-level columns created by agg
-        compressed_df.columns = ['uni', 'sentiment', 't_count', 'cost_of_living', 'first_date', 'last_date']
+        compressed_df.columns = ['uni', 'sentiment', 't_count', 'cost_of_living', 'STUFACR', 'UGDS', 'first_date', 'last_date']
         
         # Round the averaged values
         compressed_df['sentiment'] = compressed_df['sentiment'].round(4)
